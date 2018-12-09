@@ -9,7 +9,7 @@ permalink: /2007/12/05/tin-man-review/
 categories:
   - review
 ---
-<img src="http://www.stefanhayden.com/blog/wp-content/TinMan.jpg" style="margin: 0px 0px 10px 10px" align="right" width="200" />So only one episode has aired but there is a ton of stuff to say about it.
+<img src="/wp-content/TinMan.jpg" style="margin: 0px 0px 10px 10px" align="right" width="200" />So only one episode has aired but there is a ton of stuff to say about it.
 
 Starting off with the strong parts the art direction is spot on. It really feels like a whole other world and it really sets whole series up to really shine. It's just a shame that the art department was the only ones who knew what they were doing.
 

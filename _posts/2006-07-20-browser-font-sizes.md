@@ -21,4 +21,4 @@ FireFox has it's default size at 10px and it can be found in Tools > Options... 
 No matter what you do in the CSS the font will not get smaller then 10px. If you don't know there is a minimum in place you can really get caught off guard as you become baffled that the CSS isn't doing what you want.
 
 I really didn't think 9px font size was really that unreasonable.
-<div style="text-align: center"><img alt="Firefox" title="Firefox" src="http://www.stefanhayden.com/blog/wp-content/fontsize.jpg" /></div>
+<div style="text-align: center"><img alt="Firefox" title="Firefox" src="/wp-content/fontsize.jpg" /></div>

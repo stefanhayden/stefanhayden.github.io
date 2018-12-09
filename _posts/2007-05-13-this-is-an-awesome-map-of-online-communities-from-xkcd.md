@@ -10,4 +10,4 @@ categories:
   - web
 ---
 <p>This is an awesome map of "Online Communities" from <a href="http://www.xkcd.com/c256.html">xkcd</a>. Click for a larger image that can actually read.</p>
-<div style="text-align:center;"><a href="http://stefanhayden.com/blog/wp-content/online_communities.png"><img src="http://stefanhayden.com/blog/wp-content/online_communities.png" alt="Online Communities" width="450" /></a></div>
+<div style="text-align:center;"><a href="http://stefanhayden.com/blog/wp-content/online_communities.png"><img src="/wp-content/online_communities.png" alt="Online Communities" width="450" /></a></div>

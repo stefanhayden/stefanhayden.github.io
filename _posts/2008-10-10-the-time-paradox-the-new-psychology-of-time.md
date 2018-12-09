@@ -25,4 +25,4 @@ Future	   3.77
 
 This is a graph with the 50% mark being "average" and the red dots being an "ideal time perspective" and the green being my scores. Clearly they think I should enjoy my past more (Past Positive) and live more in the moment (Present Hedonism). I'm mostly future oriented but you can tell I'm still below the "ideal". Which I think rings true since I am very good at thinking about the future but not as good as I wish I was at enacting the plans to get to that future. <a href="http://www.thetimeparadox.com/2008/08/an-overview-of-time-perspective-types/">Here's more info on the perspective types</a>.
 
-<a href="http://www.stefanhayden.com/blog/wp-content/uploads/2008/10/time-perspective.jpg"><img class="alignnone size-full wp-image-1246" title="time-perspective" src="http://www.stefanhayden.com/blog/wp-content/uploads/2008/10/time-perspective.jpg" alt="" width="460" /></a>
+<a href="/wp-content/uploads/2008/10/time-perspective.jpg"><img class="alignnone size-full wp-image-1246" title="time-perspective" src="/wp-content/uploads/2008/10/time-perspective.jpg" alt="" width="460" /></a>

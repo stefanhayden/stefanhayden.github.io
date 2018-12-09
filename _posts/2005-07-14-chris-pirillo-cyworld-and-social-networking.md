@@ -20,7 +20,7 @@ Cyworld is basically a social network. For free you can sign up for an account a
 
 The trick seems to be offering something for free and then making available other stuff to buy. It's a model cropping up all over the place. <a href="http://www.apple.com/itunes/">iTunes</a> is a free download and does a great job on managing people's music and now it even lets you manage your podcasts. Oh and if you're up to it you can purchase music from one of the largest online music stores in the world. <a href="http://earth.google.com/">Google Earth</a> is a free download with amazing functionality and with a small fee can also be upgraded to even more powerful features. It's this kind of <a href="http://en.wikipedia.org/wiki/Pseudo-shareware">pseudo-shareware</a> that seems to becoming very pervasive in the online market the way it was with video games in the early 90s.
 
-<img src="http://stefanhayden.com/blog/wp-content/cyworld.jpg" class="center"/>
+<img src="/wp-content/cyworld.jpg" class="center"/>
 
 Chris really dropped the ball on this interview and really sounded insulting to Rick. Any company that is making $200,000 a day should be given more respect and understanding. After seeing <a href="http://www.thefacebook.com">TheFaceBook</a> sweep through <a href="http://www.tcnj.edu">TCNJ</a> and people truly becoming obsessed with it I can easily see Cyworld taking off in the US. Currently I see it's main competitor to be <a href="http://www.myspace.com">MySpace</a> in the obsessive social networking sphere. I wish it the best of luck and while I do plan on trying it (I'll sign up for about any free service) I don't plan on spending any money since I'm a bit cheep.
 

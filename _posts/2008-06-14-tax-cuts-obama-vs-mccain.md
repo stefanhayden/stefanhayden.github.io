@@ -9,7 +9,7 @@ permalink: /2008/06/14/tax-cuts-obama-vs-mccain/
 categories:
   - politics
 ---
-<a href="http://www.stefanhayden.com/blog/wp-content/uploads/2008/06/obama_mccain_taxcut.gif"><img class="alignnone size-full wp-image-905" title="obama_mccain_taxcut" src="http://www.stefanhayden.com/blog/wp-content/uploads/2008/06/obama_mccain_taxcut.gif" alt="" width="460"  /></a>
+<a href="/wp-content/uploads/2008/06/obama_mccain_taxcut.gif"><img class="alignnone size-full wp-image-905" title="obama_mccain_taxcut" src="/wp-content/uploads/2008/06/obama_mccain_taxcut.gif" alt="" width="460"  /></a>
 
 <a href="http://www.washingtonpost.com/wp-dyn/content/story/2008/06/09/ST2008060900950.html">This is a good breakdown of Obama and McCain's tax cuts</a>. Are those tax brackets though? It doesn't seem like it.
 

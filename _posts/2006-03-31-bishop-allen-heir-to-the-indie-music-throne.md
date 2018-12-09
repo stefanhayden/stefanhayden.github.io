@@ -21,7 +21,7 @@ categories:
   - blog
   - personal
 ---
-<img align="left" title="Bishop Allen - February" id="image136" alt="Bishop Allen - February" src="http://www.stefanhayden.com/blog/wp-content/uploads/2006/03/february_cover200.thumbnail.gif" />I haven't written much about music here and I think I might in the coming future. What I really should be writing about is design and yet here I go with my music plug.
+<img align="left" title="Bishop Allen - February" id="image136" alt="Bishop Allen - February" src="/wp-content/uploads/2006/03/february_cover200.thumbnail.gif" />I haven't written much about music here and I think I might in the coming future. What I really should be writing about is design and yet here I go with my music plug.
 
 <a href="http://www.bishopallen.com/buy_charmschool.php">Bishop Allen</a> (<a href="http://en.wikipedia.org/wiki/Bishop_Allen">wikipedia</a>) is a small band out of New York City that has decided to go without a record label and just do the work themselves. So far it seems to be working great as they have not starved to death after almost 3 years as a band. They only have one album out called <a href="http://www.bishopallen.com/buy_charmschool.php">Charm School</a> but every song on it is amazing.
 

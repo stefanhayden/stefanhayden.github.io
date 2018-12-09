@@ -11,4 +11,4 @@ categories:
 ---
 <a href="http://niemann.blogs.nytimes.com/2010/03/10/my-way/">These are some awesome maps</a>.
 
-<a href="http://niemann.blogs.nytimes.com/2010/03/10/my-way/"><img src="http://www.stefanhayden.com/blog/wp-content/uploads/2010/03/05Turnpike-300x285.jpg" alt="" title="05Turnpike" width="300" height="285" class="alignnone size-medium wp-image-1490" /></a>
+<a href="http://niemann.blogs.nytimes.com/2010/03/10/my-way/"><img src="/wp-content/uploads/2010/03/05Turnpike-300x285.jpg" alt="" title="05Turnpike" width="300" height="285" class="alignnone size-medium wp-image-1490" /></a>

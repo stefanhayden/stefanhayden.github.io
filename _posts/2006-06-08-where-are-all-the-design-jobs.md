@@ -17,6 +17,6 @@ An interesting point about the listing is the order they list the categories. De
 Unlike <a href="http://www.craigslist.org/"><span class="misspell">craigslist</span></a> all of the listings for the whole world are on the same page which creates a unique view of the world. Where are the people whounderstand the web starting their companies. It seem like all people are talking about the bay area but as the image shows there are  <span class="misspell">startups</span> all around the country.
 
 Here's a quick map of American and where the 30 listings on 37 signals currently are. I've yet to master the Google maps API for a dynamic map based off the <span class="misspell">rss</span> feed. maybe next time.
-<div style="text-align: center"><img src="http://www.stefanhayden.com/blog/wp-content/37signalsmap.jpg" /></div>
+<div style="text-align: center"><img src="/wp-content/37signalsmap.jpg" /></div>
 <div align="left" style="text-align: center"></div>
 <tags>37singals, design, startups, googlemaps, jobs</tags>

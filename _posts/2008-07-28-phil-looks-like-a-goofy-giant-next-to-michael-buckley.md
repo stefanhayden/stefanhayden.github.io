@@ -14,4 +14,4 @@ categories:
 OMG... <a href="http://www.youtube.com/user/sxephil">Phil</a> looks like a goofy giant next to <a href="http://www.youtube.com/user/WHATTHEBUCKSHOW">Michael Buckley</a>. This is totally not photoshoped.
 
 <a href="http://buckhollywood.com/buck-pics-with-you-tubers">
-<img src="http://www.stefanhayden.com/blog/wp-content/uploads/2008/07/buck-and-phil.jpg" alt="Sxephil and Buck"  width="460px" /></a>
+<img src="/wp-content/uploads/2008/07/buck-and-phil.jpg" alt="Sxephil and Buck"  width="460px" /></a>

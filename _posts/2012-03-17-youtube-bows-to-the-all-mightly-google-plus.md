@@ -9,7 +9,7 @@ permalink: /2012/03/17/youtube-bows-to-the-all-mightly-google-plus/
 categories:
   - youtube
 ---
-<img src="http://www.stefanhayden.com/blog/wp-content/uploads/2012/03/Screen-shot-2012-03-17-at-1.43.05-PM.png" alt="" title="Screen shot 2012-03-17 at 1.43.05 PM" width="317" height="141" class="alignleft size-full wp-image-1647" />
+<img src="/wp-content/uploads/2012/03/Screen-shot-2012-03-17-at-1.43.05-PM.png" alt="" title="Screen shot 2012-03-17 at 1.43.05 PM" width="317" height="141" class="alignleft size-full wp-image-1647" />
 
 As <a href="http://www.blastmedia.com/blog/2012/03/16/youtube-button-replaced-google-1-share-button/">blastmedia has discovered</a> Youtube is experimenting with the google plus button in place of thumbs up and thumbs down. Currently it doesn't tie in with the rating system that google has in place and so for people who see the Google Plus button they are bard from giving a thumbs up without using the google api or switching browsers.
 

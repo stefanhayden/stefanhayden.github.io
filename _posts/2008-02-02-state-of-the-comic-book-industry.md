@@ -11,7 +11,7 @@ categories:
 tags:
   - comics
 ---
-<img src="http://stefanhayden.com/blog/wp-content/messiahcomplex.jpg" alt="massiah complex" style="margin: 0px 0px 10px 10px; float: right; width: 250px" />It's been along time since I've been in to comics. I went off to college and simply ran out of time to devote to them. Now six years later I was thinking about getting back in to them but I'm a much different fan now then I was then.
+<img src="/wp-content/messiahcomplex.jpg" alt="massiah complex" style="margin: 0px 0px 10px 10px; float: right; width: 250px" />It's been along time since I've been in to comics. I went off to college and simply ran out of time to devote to them. Now six years later I was thinking about getting back in to them but I'm a much different fan now then I was then.
 
 I'm not a collector yet from my youth I have five boxes of bagged and boarded comics in my closet taking up space and mostly just pissing me off when I need to move. I've been avoiding trying to sell them (not really worth anything) and instead looking for some one who might want to read them. No luck though and most libraries will not touch them because single issues are not durable and no one wants to catalog five boxes of comics.
 

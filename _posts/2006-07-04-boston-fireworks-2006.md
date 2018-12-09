@@ -9,7 +9,7 @@ permalink: /2006/07/04/boston-fireworks-2006/
 categories:
   - personal
 ---
-<img id="image167" alt="Boston Fireworks" src="http://www.stefanhayden.com/blog/wp-content/uploads/2006/07/fireworks06.jpg" />
+<img id="image167" alt="Boston Fireworks" src="/wp-content/uploads/2006/07/fireworks06.jpg" />
 
 Keri and I just watched the Boston fireworks but not from where most people saw them. Instead we just walk up the hill our apartment is on, Corry hill. There is a small park at the top with a view that points north and we thought we might be able to see the fireworks from there.
 

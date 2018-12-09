@@ -9,6 +9,6 @@ permalink: /2008/09/16/new-offshore-drilling/
 categories:
   - web
 ---
-<a href="http://www.stefanhayden.com/blog/wp-content/uploads/2008/09/crap1.jpg"><img class="size-full wp-image-1181" title="crap1" src="http://www.stefanhayden.com/blog/wp-content/uploads/2008/09/crap1.jpg" alt="new offshore drilling" width="468" height="584" /></a>
+<a href="/wp-content/uploads/2008/09/crap1.jpg"><img class="size-full wp-image-1181" title="crap1" src="/wp-content/uploads/2008/09/crap1.jpg" alt="new offshore drilling" width="468" height="584" /></a>
 
 (via <a href="http://www.ecogeek.org/images/image/crap.jpg">ecogeek</a>)

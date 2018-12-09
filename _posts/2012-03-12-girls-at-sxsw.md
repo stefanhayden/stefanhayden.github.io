@@ -9,7 +9,7 @@ permalink: /2012/03/12/girls-at-sxsw/
 categories:
   - Uncategorized
 ---
-<img class="alignleft size-thumbnail wp-image-1639" style="float: left; margin-right: 10px;" title="girls" src="http://www.stefanhayden.com/blog/wp-content/uploads/2012/03/girls-150x150.jpg" alt="" width="150" height="150" />
+<img class="alignleft size-thumbnail wp-image-1639" style="float: left; margin-right: 10px;" title="girls" src="/wp-content/uploads/2012/03/girls-150x150.jpg" alt="" width="150" height="150" />
 <p>I was super lucky to get to see the first three episodes of GIRLS at sxsw. The trailer released only a few short weeks ago quickly outlines a quirky comedy in the style of sex and the city that replaces the 30 something Gen-Xers  with 20 something Gen-Yers. And being on the cusp of those two generations I think there is a big difference between the 2.</p>
 <br />
 <p>Tiny Furniture, Lena's hit movie, was something I was very excited to see and while it had an amazing voice for women in their 20s I didn't love the movie. I thought the plot was too slow and awkward pauses not used artfully enough to not just become uncomfortable. These were issues of polish but the voice was there and it was exciting.</p>

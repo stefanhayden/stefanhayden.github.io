@@ -21,4 +21,4 @@ Browsershots</a> works by letting you submit a URL and it renders out PNGs of wh
 
 While it tells you the stats that the PNG was rendered with next to the image it does nothing to help you with any display problems you might have. Perhaps it might be a pipe dream but it would be amazing if it pointed out likely problems that different browsers will have with the code (XHTML, javascript, CSS) that you have written. I ran in to my own error as I got the error shown below and can't figure out why. I get it for both my site and the one I'm working on.  Let me know if you figure the problem out because as of right now I'm stumped.
 
-<img src="http://www.stefanhayden.com/blog/wp-content/error07052005.gif" alt="my stange error" />
+<img src="/wp-content/error07052005.gif" alt="my stange error" />

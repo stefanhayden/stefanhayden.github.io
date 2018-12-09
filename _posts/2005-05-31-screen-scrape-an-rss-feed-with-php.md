@@ -113,6 +113,6 @@ echo &#8220;\t\t&lt;/item>\n&#8221;;<br />
 
 After we find all our information we just need to print it out in RSS format. First I do a quick check that the post has actual information in it and then it is just outputted in to the tags. 
 
-That about it for this method of screen scrapping an RSS feed. I’ve heard <a href="http://www.kottke.org/05/04/mcsweeneys-lists-rss">Kottke</a> mention ways of using the DOM from PHP5 but I am still working on learning DOM in general. <a href="http://www.stefanhayden.com/blog/wp-content/gailgauthier-rss.txt">You can download this full PHP script here</a>.
+That about it for this method of screen scrapping an RSS feed. I’ve heard <a href="http://www.kottke.org/05/04/mcsweeneys-lists-rss">Kottke</a> mention ways of using the DOM from PHP5 but I am still working on learning DOM in general. <a href="/wp-content/gailgauthier-rss.txt">You can download this full PHP script here</a>.
 
 * It turns out what Blogger was FTPing to <a href="http://www.gailgauthier.com/blogger.html">Gail Gauthier’s site</a> was just not listing the ATOM feed in the html. I later found the feed and had to just be happy that I learned something.

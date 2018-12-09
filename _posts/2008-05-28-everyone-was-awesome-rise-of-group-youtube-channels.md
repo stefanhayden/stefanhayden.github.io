@@ -11,7 +11,7 @@ categories:
   - video
   - web
 ---
-<img src="http://www.stefanhayden.com/blog/wp-content/nerdfighters.jpg" alt="" />
+<img src="/wp-content/nerdfighters.jpg" alt="" />
 
 On the first of 2007 John and Hank Green decided to <a href="http://www.youtube.com/user/vlogbrothers">stop talking to each other via text and alternate days creating Youtube videos instead</a>. A Year and almost 300 videos later a community of 30,000 people formed around their discussion of Harry Potter, Awesome, <a href="http://nerdfighters.ning.com">Nerdfighters</a> (a pro-nerd moniker), and WorldSuck.
 
