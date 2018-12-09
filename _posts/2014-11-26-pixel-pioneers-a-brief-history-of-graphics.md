@@ -9,6 +9,8 @@ permalink: /2014/11/26/pixel-pioneers-a-brief-history-of-graphics/
 categories:
   - youtube
 ---
-[youtube=https://www.youtube.com/watch?v=dzN2pgL0zeg&amp;list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f&amp;index=1]
+<iframe id="ytplayer" type="text/html" width="640" height="360"
+  src="https://www.youtube.com/watch?v=dzN2pgL0zeg&amp;list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f&amp;index=1"
+  frameborder="0"></iframe>
 
 a  great five part series that goes though many of the innovations in graphics. Definitely subscribing to this channel.
