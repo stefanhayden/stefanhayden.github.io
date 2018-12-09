@@ -1,0 +1,12 @@
+---
+id: 815
+title: Change Congress
+date: 2008-03-23T10:32:10+00:00
+author: Stefan Hayden
+layout: post
+guid: http://www.stefanhayden.com/blog/2008/03/23/change-congress/
+permalink: /2008/03/23/change-congress/
+categories:
+  - video
+---
+<object type="application/x-shockwave-flash" data="http://blip.tv/scripts/flash/showplayer.swf?tabType3=guide&tabUrl3=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash%2F%3Fsort%3D%7Edate&tabTitle3=Episodes&tabType2=guide&tabUrl2=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash&tabTitle2=Episodes&tabType1=details&tabUrl1=undefined&tabTitle1=About&enablejs=true&feedurl=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F770720&brandlink=http%3A%2F%2Fchange%2Dcongress%2Eorg&brandname=change%2Dcongress%2Eorg&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" width="400" height="255" allowfullscreen="true" id="showplayer"><param name="movie" value="http://blip.tv/scripts/flash/showplayer.swf?tabType3=guide&tabUrl3=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash%2F%3Fsort%3D%7Edate&tabTitle3=Episodes&tabType2=guide&tabUrl2=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash&tabTitle2=Episodes&tabType1=details&tabUrl1=undefined&tabTitle1=About&enablejs=true&feedurl=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F770720&brandlink=http%3A%2F%2Fchange%2Dcongress%2Eorg&brandname=change%2Dcongress%2Eorg&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" /><param name="quality" value="best" /><embed src="http://blip.tv/scripts/flash/showplayer.swf?tabType3=guide&tabUrl3=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash%2F%3Fsort%3D%7Edate&tabTitle3=Episodes&tabType2=guide&tabUrl2=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash&tabTitle2=Episodes&tabType1=details&tabUrl1=undefined&tabTitle1=About&enablejs=true&feedurl=http%3A%2F%2Fchange%2Dcongress%2Eblip%2Etv%2Frss%2Fflash&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F770720&brandlink=http%3A%2F%2Fchange%2Dcongress%2Eorg&brandname=change%2Dcongress%2Eorg&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" quality="best" width="400" height="255" name="showplayer" type="application/x-shockwave-flash"></embed></object>

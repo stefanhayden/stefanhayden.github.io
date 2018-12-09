@@ -1,0 +1,15 @@
+---
+id: 301
+title: Stephan Colbert has announced his new Integrity Justice blog when he will post fake news in hope of having it make it in to the mainstream news by having tons of blogger agree with him. Sadly the site is not live yet.
+date: 2007-01-25T00:11:13+00:00
+author: Stefan Hayden
+layout: post
+guid: http://www.stefanhayden.com/blog/2007/01/25/stephan-colbert-has-announced-his-new-integrity-justice-blog-when-he-will-post-fake-news-in-hope-of-having-it-make-it-in-to-the-mainstream-news-by-having-tons-of-blogger-agree-with-him-sadly-the-site-/
+permalink: /2007/01/25/stephan-colbert-has-announced-his-new-integrity-justice-blog-when-he-will-post-fake-news-in-hope-of-having-it-make-it-in-to-the-mainstream-news-by-having-tons-of-blogger-agree-with-him-sadly-the-site/
+Post:
+  - link
+categories:
+  - Uncategorized
+---
+<p>Stephan Colbert has announced his new <a href="http://www.integrityjustice.com">Integrity Justice</a> blog when he will post fake news in hope of having it make it in to the mainstream news by having tons of blogger agree with him. Sadly the site is not live yet. This seems to be the first time Colbert has told every one to go to a site that does not seem to exist.
+</p>
