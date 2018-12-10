@@ -10,7 +10,7 @@ categories:
   - youtube
 ---
 <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/watch?v=dzN2pgL0zeg&amp;list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f&amp;index=1"
+  src="https://www.youtube.com/embed/watch?v=dzN2pgL0zeg&amp;list=PLOQZmjD6P2HlOoEVKOPaCFvLnjP865X1f&amp;index=1"
   frameborder="0"></iframe>
 
 a  great five part series that goes though many of the innovations in graphics. Definitely subscribing to this channel.

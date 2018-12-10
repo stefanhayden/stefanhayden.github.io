@@ -12,5 +12,5 @@ categories:
   - youtube
 ---
 <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/watch?v=QrGrOK8oZG8"
+  src="https://www.youtube.com/embed/watch?v=QrGrOK8oZG8"
   frameborder="0"></iframe>

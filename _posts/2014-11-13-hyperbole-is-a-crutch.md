@@ -11,7 +11,7 @@ categories:
 ---
 
 <iframe id="ytplayer" type="text/html" width="640" height="360"
-  src="https://www.youtube.com/watch?v=53rv3cwyLlk"
+  src="https://www.youtube.com/embed/watch?v=53rv3cwyLlk"
   frameborder="0"></iframe>
 
 So do we over use hyperbole? Yes... well sort of... and also maybe not.
