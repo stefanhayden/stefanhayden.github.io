@@ -13,12 +13,12 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/"
+  baseURL: "https://github.com/stefanhayden"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/"
+  baseURL: "https://twitter.com/stefanhayden"
   icon: "fa-twitter"
 
 reddit:
@@ -33,12 +33,12 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+  baseURL: "mailto:alt255@gmail.com"
   icon: "fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/"
+  baseURL: "https://linkedin.com/in/stefanhayden"
   icon: "fa-linkedin"
 
 xing:
@@ -48,7 +48,7 @@ xing:
 
 stackoverflow:
   name: "StackOverflow"
-  baseURL: "https://stackoverflow.com/users/"
+  baseURL: "https://stackoverflow.com/users/3013/stefanhayden"
   icon: "fa-stack-overflow"
 
 snapchat:
