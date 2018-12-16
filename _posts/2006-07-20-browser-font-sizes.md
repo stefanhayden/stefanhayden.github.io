@@ -5,7 +5,7 @@ date: 2006-07-20T19:17:08+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/20/browser-font-sizes/
-permalink: /2006/07/20/browser-font-sizes/
+permalink: /blog/2006/07/20/browser-font-sizes/
 categories:
   - design
   - web

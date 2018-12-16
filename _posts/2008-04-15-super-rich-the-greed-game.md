@@ -5,7 +5,7 @@ date: 2008-04-15T14:05:17+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=846
-permalink: /2008/04/15/super-rich-the-greed-game/
+permalink: /blog/2008/04/15/super-rich-the-greed-game/
 categories:
   - video
 ---

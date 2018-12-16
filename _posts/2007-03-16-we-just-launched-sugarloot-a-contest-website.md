@@ -5,7 +5,7 @@ date: 2007-03-16T15:55:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/16/we-just-launched-sugarloot-a-contest-website/
-permalink: /2007/03/16/we-just-launched-sugarloot-a-contest-website/
+permalink: /blog/2007/03/16/we-just-launched-sugarloot-a-contest-website/
 categories:
   - web
 ---

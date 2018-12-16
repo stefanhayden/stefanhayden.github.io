@@ -5,7 +5,7 @@ date: 2008-03-23T10:32:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/23/change-congress/
-permalink: /2008/03/23/change-congress/
+permalink: /blog/2008/03/23/change-congress/
 categories:
   - video
 ---

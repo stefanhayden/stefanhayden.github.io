@@ -5,7 +5,7 @@ date: 2008-08-06T08:55:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1044
-permalink: /2008/08/06/everything-always-happens-all-at-once/
+permalink: /blog/2008/08/06/everything-always-happens-all-at-once/
 categories:
   - local
   - personal

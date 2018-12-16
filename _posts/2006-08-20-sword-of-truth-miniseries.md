@@ -5,7 +5,7 @@ date: 2006-08-20T20:15:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/20/sword-of-truth-miniseries/
-permalink: /2006/08/20/sword-of-truth-miniseries/
+permalink: /blog/2006/08/20/sword-of-truth-miniseries/
 categories:
   - personal
 ---

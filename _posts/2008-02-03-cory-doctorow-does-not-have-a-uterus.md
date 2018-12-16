@@ -5,7 +5,7 @@ date: 2008-02-03T11:12:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/03/cory-doctorow-does-not-have-a-uterus/
-permalink: /2008/02/03/cory-doctorow-does-not-have-a-uterus/
+permalink: /blog/2008/02/03/cory-doctorow-does-not-have-a-uterus/
 categories:
   - web
 ---

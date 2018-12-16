@@ -5,7 +5,7 @@ date: 2009-05-05T07:55:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1449
-permalink: /2009/05/05/contact-manager/
+permalink: /blog/2009/05/05/contact-manager/
 categories:
   - review
   - web

@@ -5,7 +5,7 @@ date: 2008-08-09T16:04:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1058
-permalink: /2008/08/09/barack-rolld/
+permalink: /blog/2008/08/09/barack-rolld/
 categories:
   - video
 ---

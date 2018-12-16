@@ -5,7 +5,7 @@ date: 2006-06-08T21:04:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/06/08/where-are-all-the-design-jobs/
-permalink: /2006/06/08/where-are-all-the-design-jobs/
+permalink: /blog/2006/06/08/where-are-all-the-design-jobs/
 categories:
   - design
   - web

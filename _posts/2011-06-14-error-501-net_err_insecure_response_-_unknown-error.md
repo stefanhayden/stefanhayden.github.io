@@ -5,7 +5,7 @@ date: 2011-06-14T13:52:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1619
-permalink: /2011/06/14/error-501-net_err_insecure_response_-_unknown-error/
+permalink: /blog/2011/06/14/error-501-net_err_insecure_response_-_unknown-error/
 categories:
   - Uncategorized
   - web

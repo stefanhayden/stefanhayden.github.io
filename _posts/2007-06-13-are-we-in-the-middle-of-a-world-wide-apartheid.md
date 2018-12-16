@@ -5,7 +5,7 @@ date: 2007-06-13T12:02:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/13/are-we-in-the-middle-of-a-world-wide-apartheid/
-permalink: /2007/06/13/are-we-in-the-middle-of-a-world-wide-apartheid/
+permalink: /blog/2007/06/13/are-we-in-the-middle-of-a-world-wide-apartheid/
 Post:
   - link
 categories:

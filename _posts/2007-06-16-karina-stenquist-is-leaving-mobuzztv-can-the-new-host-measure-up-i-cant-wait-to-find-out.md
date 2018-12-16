@@ -5,7 +5,7 @@ date: 2007-06-16T10:07:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/16/karina-stenquist-is-leaving-mobuzztv-can-the-new-host-measure-up-i-cant-wait-to-find-out/
-permalink: /2007/06/16/karina-stenquist-is-leaving-mobuzztv-can-the-new-host-measure-up-i-cant-wait-to-find-out/
+permalink: /blog/2007/06/16/karina-stenquist-is-leaving-mobuzztv-can-the-new-host-measure-up-i-cant-wait-to-find-out/
 Post:
   - link
 categories:

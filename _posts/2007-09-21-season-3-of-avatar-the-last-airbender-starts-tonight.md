@@ -5,7 +5,7 @@ date: 2007-09-21T10:00:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/21/season-3-of-avatar-the-last-airbender-starts-tonight/
-permalink: /2007/09/21/season-3-of-avatar-the-last-airbender-starts-tonight/
+permalink: /blog/2007/09/21/season-3-of-avatar-the-last-airbender-starts-tonight/
 Post:
   - link
 categories:

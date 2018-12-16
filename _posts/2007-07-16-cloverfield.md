@@ -5,7 +5,7 @@ date: 2007-07-16T15:40:57+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/16/cloverfield/
-permalink: /2007/07/16/cloverfield/
+permalink: /blog/2007/07/16/cloverfield/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-10-03T08:12:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/03/gmail-has-a-lot-of-hidden-labels-that-can-make-searching-your-email-a-breeze/
-permalink: /2006/10/03/gmail-has-a-lot-of-hidden-labels-that-can-make-searching-your-email-a-breeze/
+permalink: /blog/2006/10/03/gmail-has-a-lot-of-hidden-labels-that-can-make-searching-your-email-a-breeze/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-07-04T10:59:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=930
-permalink: /2008/07/04/mozy-is-good-but-a-little-weird/
+permalink: /blog/2008/07/04/mozy-is-good-but-a-little-weird/
 openid_comments:
   - 'a:1:{i:0;s:5:"49346";}'
 categories:

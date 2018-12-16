@@ -5,7 +5,7 @@ date: 2007-09-05T07:08:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/05/insane-wii-tennis-score/
-permalink: /2007/09/05/insane-wii-tennis-score/
+permalink: /blog/2007/09/05/insane-wii-tennis-score/
 categories:
   - web
 ---

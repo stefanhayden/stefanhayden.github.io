@@ -5,7 +5,7 @@ date: 2011-05-20T20:51:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1606
-permalink: /2011/05/20/nyan-cat-desktop-background/
+permalink: /blog/2011/05/20/nyan-cat-desktop-background/
 categories:
   - Uncategorized
 ---

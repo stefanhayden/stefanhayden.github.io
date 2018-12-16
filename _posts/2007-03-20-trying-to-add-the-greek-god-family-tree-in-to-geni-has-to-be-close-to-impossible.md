@@ -5,7 +5,7 @@ date: 2007-03-20T09:08:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/20/trying-to-add-the-greek-god-family-tree-in-to-geni-has-to-be-close-to-impossible/
-permalink: /2007/03/20/trying-to-add-the-greek-god-family-tree-in-to-geni-has-to-be-close-to-impossible/
+permalink: /blog/2007/03/20/trying-to-add-the-greek-god-family-tree-in-to-geni-has-to-be-close-to-impossible/
 Post:
   - link
 categories:

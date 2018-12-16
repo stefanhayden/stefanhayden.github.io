@@ -5,7 +5,7 @@ date: 2008-09-17T12:21:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1186
-permalink: /2008/09/17/hello-kitty-email/
+permalink: /blog/2008/09/17/hello-kitty-email/
 Post:
   - link
 categories:

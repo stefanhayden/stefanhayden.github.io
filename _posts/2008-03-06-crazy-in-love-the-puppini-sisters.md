@@ -5,7 +5,7 @@ date: 2008-03-06T12:00:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/06/crazy-in-love-the-puppini-sisters/
-permalink: /2008/03/06/crazy-in-love-the-puppini-sisters/
+permalink: /blog/2008/03/06/crazy-in-love-the-puppini-sisters/
 categories:
   - video
 ---

@@ -5,7 +5,7 @@ date: 2008-09-15T10:38:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1158
-permalink: /2008/09/15/spore-first-thoughts/
+permalink: /blog/2008/09/15/spore-first-thoughts/
 categories:
   - review
 ---

@@ -5,7 +5,7 @@ date: 2008-01-03T11:52:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/03/scoble-got-banned-and-i-dont-care/
-permalink: /2008/01/03/scoble-got-banned-and-i-dont-care/
+permalink: /blog/2008/01/03/scoble-got-banned-and-i-dont-care/
 categories:
   - web
 ---

@@ -5,7 +5,7 @@ date: 2005-11-23T20:55:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/11/23/building-my-own-personal-search-engine/
-permalink: /2005/11/23/building-my-own-personal-search-engine/
+permalink: /blog/2005/11/23/building-my-own-personal-search-engine/
 categories:
   - personal
   - web

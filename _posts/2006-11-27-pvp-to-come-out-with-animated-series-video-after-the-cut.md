@@ -5,7 +5,7 @@ date: 2006-11-27T23:18:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/27/pvp-to-come-out-with-animated-series-video-after-the-cut/
-permalink: /2006/11/27/pvp-to-come-out-with-animated-series-video-after-the-cut/
+permalink: /blog/2006/11/27/pvp-to-come-out-with-animated-series-video-after-the-cut/
 categories:
   - video
   - web

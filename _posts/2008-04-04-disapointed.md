@@ -5,7 +5,7 @@ date: 2008-04-04T09:50:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=832
-permalink: /2008/04/04/disapointed/
+permalink: /blog/2008/04/04/disapointed/
 Post:
   - link
 categories:

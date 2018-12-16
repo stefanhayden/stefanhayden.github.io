@@ -5,7 +5,7 @@ date: 2007-07-25T09:35:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/25/congress-should-use-subversion-so-we-know-who-turned-a-good-bill-in-to-a-bad-one/
-permalink: /2007/07/25/congress-should-use-subversion-so-we-know-who-turned-a-good-bill-in-to-a-bad-one/
+permalink: /blog/2007/07/25/congress-should-use-subversion-so-we-know-who-turned-a-good-bill-in-to-a-bad-one/
 Post:
   - link
 categories:

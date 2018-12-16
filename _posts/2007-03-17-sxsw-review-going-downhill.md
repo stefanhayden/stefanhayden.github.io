@@ -5,7 +5,7 @@ date: 2007-03-17T15:57:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/17/sxsw-review-going-downhill/
-permalink: /2007/03/17/sxsw-review-going-downhill/
+permalink: /blog/2007/03/17/sxsw-review-going-downhill/
 categories:
   - design
   - review

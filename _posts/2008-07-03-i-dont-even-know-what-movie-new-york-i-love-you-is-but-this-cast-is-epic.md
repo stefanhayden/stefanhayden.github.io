@@ -5,7 +5,7 @@ date: 2008-07-03T12:22:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=928
-permalink: /2008/07/03/i-dont-even-know-what-movie-new-york-i-love-you-is-but-this-cast-is-epic/
+permalink: /blog/2008/07/03/i-dont-even-know-what-movie-new-york-i-love-you-is-but-this-cast-is-epic/
 Post:
   - link
 categories:

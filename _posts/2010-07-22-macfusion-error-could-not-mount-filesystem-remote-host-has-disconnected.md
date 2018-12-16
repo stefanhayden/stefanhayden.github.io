@@ -5,7 +5,7 @@ date: 2010-07-22T08:26:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1555
-permalink: /2010/07/22/macfusion-error-could-not-mount-filesystem-remote-host-has-disconnected/
+permalink: /blog/2010/07/22/macfusion-error-could-not-mount-filesystem-remote-host-has-disconnected/
 categories:
   - Uncategorized
 ---

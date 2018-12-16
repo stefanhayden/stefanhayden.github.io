@@ -5,7 +5,7 @@ date: 2007-07-06T19:41:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/06/omfg-kottke-has-a-kid-time-to-leave-his-heavy-partying-days-behind-him-ha/
-permalink: /2007/07/06/omfg-kottke-has-a-kid-time-to-leave-his-heavy-partying-days-behind-him-ha/
+permalink: /blog/2007/07/06/omfg-kottke-has-a-kid-time-to-leave-his-heavy-partying-days-behind-him-ha/
 Post:
   - link
 categories:

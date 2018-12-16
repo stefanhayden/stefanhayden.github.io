@@ -5,7 +5,7 @@ date: 2007-11-08T10:52:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/08/how-bacn-can-become-spam/
-permalink: /2007/11/08/how-bacn-can-become-spam/
+permalink: /blog/2007/11/08/how-bacn-can-become-spam/
 categories:
   - web
 ---

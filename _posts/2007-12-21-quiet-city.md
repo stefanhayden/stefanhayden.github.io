@@ -5,7 +5,7 @@ date: 2007-12-21T09:40:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/21/quiet-city/
-permalink: /2007/12/21/quiet-city/
+permalink: /blog/2007/12/21/quiet-city/
 categories:
   - video
 ---

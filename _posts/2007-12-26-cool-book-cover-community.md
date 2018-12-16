@@ -5,7 +5,7 @@ date: 2007-12-26T11:36:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/26/cool-book-cover-community/
-permalink: /2007/12/26/cool-book-cover-community/
+permalink: /blog/2007/12/26/cool-book-cover-community/
 Post:
   - link
 categories:

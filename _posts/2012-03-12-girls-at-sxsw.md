@@ -5,7 +5,7 @@ date: 2012-03-12T20:05:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1638
-permalink: /2012/03/12/girls-at-sxsw/
+permalink: /blog/2012/03/12/girls-at-sxsw/
 categories:
   - Uncategorized
 ---

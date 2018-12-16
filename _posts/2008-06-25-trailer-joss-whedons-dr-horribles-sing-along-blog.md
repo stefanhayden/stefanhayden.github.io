@@ -5,7 +5,7 @@ date: 2008-06-25T09:40:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=918
-permalink: /2008/06/25/trailer-joss-whedons-dr-horribles-sing-along-blog/
+permalink: /blog/2008/06/25/trailer-joss-whedons-dr-horribles-sing-along-blog/
 Post:
   - link
 categories:

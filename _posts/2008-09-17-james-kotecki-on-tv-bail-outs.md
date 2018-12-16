@@ -5,7 +5,7 @@ date: 2008-09-17T11:50:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1184
-permalink: /2008/09/17/james-kotecki-on-tv-bail-outs/
+permalink: /blog/2008/09/17/james-kotecki-on-tv-bail-outs/
 categories:
   - tv
   - video

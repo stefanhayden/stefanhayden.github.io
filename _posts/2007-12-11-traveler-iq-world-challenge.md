@@ -5,7 +5,7 @@ date: 2007-12-11T11:18:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/11/traveler-iq-world-challenge/
-permalink: /2007/12/11/traveler-iq-world-challenge/
+permalink: /blog/2007/12/11/traveler-iq-world-challenge/
 Post:
   - link
 categories:

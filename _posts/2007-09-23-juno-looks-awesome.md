@@ -5,7 +5,7 @@ date: 2007-09-23T22:12:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/23/juno-looks-awesome/
-permalink: /2007/09/23/juno-looks-awesome/
+permalink: /blog/2007/09/23/juno-looks-awesome/
 categories:
   - video
   - web

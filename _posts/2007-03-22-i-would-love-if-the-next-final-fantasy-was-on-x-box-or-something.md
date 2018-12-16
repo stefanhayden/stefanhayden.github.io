@@ -5,7 +5,7 @@ date: 2007-03-22T13:28:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/22/i-would-love-if-the-next-final-fantasy-was-on-x-box-or-something/
-permalink: /2007/03/22/i-would-love-if-the-next-final-fantasy-was-on-x-box-or-something/
+permalink: /blog/2007/03/22/i-would-love-if-the-next-final-fantasy-was-on-x-box-or-something/
 Post:
   - link
 categories:

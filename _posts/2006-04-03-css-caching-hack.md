@@ -5,7 +5,7 @@ date: 2006-04-03T06:53:16+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/03/css-caching-hack/
-permalink: /2006/04/03/css-caching-hack/
+permalink: /blog/2006/04/03/css-caching-hack/
 categories:
   - blog
   - design

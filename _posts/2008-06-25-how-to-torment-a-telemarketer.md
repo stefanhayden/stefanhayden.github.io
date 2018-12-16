@@ -5,7 +5,7 @@ date: 2008-06-25T15:04:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=919
-permalink: /2008/06/25/how-to-torment-a-telemarketer/
+permalink: /blog/2008/06/25/how-to-torment-a-telemarketer/
 categories:
   - video
 ---

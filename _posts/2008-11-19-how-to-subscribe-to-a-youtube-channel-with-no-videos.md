@@ -5,7 +5,7 @@ date: 2008-11-19T11:30:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1365
-permalink: /2008/11/19/how-to-subscribe-to-a-youtube-channel-with-no-videos/
+permalink: /blog/2008/11/19/how-to-subscribe-to-a-youtube-channel-with-no-videos/
 categories:
   - web
 ---

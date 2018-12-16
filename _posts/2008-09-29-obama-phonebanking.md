@@ -5,7 +5,7 @@ date: 2008-09-29T14:15:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1224
-permalink: /2008/09/29/obama-phonebanking/
+permalink: /blog/2008/09/29/obama-phonebanking/
 categories:
   - politics
 ---

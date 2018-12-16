@@ -5,7 +5,7 @@ date: 2005-10-15T20:48:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/10/15/startup-school/
-permalink: /2005/10/15/startup-school/
+permalink: /blog/2005/10/15/startup-school/
 categories:
   - web
 ---

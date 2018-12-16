@@ -5,7 +5,7 @@ date: 2005-09-19T14:03:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/09/19/they-missed-me/
-permalink: /2005/09/19/they-missed-me/
+permalink: /blog/2005/09/19/they-missed-me/
 categories:
   - design
   - personal

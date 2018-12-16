@@ -5,7 +5,7 @@ date: 2006-12-20T13:47:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/20/12-byzantine-rulers-the-history-of-the-byzantine-empire/
-permalink: /2006/12/20/12-byzantine-rulers-the-history-of-the-byzantine-empire/
+permalink: /blog/2006/12/20/12-byzantine-rulers-the-history-of-the-byzantine-empire/
 enclosure:
   - |
     http://www.anders.com/lectures/lars_brownworth/12_byzantine_rulers/01-Introduction.mp3

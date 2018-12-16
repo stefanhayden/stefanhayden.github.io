@@ -5,7 +5,7 @@ date: 2006-09-30T13:27:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/30/the-new-google-reader/
-permalink: /2006/09/30/the-new-google-reader/
+permalink: /blog/2006/09/30/the-new-google-reader/
 categories:
   - personal
   - web

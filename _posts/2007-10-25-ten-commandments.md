@@ -5,7 +5,7 @@ date: 2007-10-25T22:18:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/25/ten-commandments/
-permalink: /2007/10/25/ten-commandments/
+permalink: /blog/2007/10/25/ten-commandments/
 Post:
   - link
 categories:

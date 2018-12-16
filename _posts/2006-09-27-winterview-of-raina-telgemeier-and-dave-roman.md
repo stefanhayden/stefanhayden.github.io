@@ -5,7 +5,7 @@ date: 2006-09-27T12:21:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/27/winterview-of-raina-telgemeier-and-dave-roman/
-permalink: /2006/09/27/winterview-of-raina-telgemeier-and-dave-roman/
+permalink: /blog/2006/09/27/winterview-of-raina-telgemeier-and-dave-roman/
 Post:
   - link
 categories:

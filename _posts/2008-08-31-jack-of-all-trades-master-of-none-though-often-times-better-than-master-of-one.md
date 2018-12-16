@@ -5,7 +5,7 @@ date: 2008-08-31T17:10:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1136
-permalink: /2008/08/31/jack-of-all-trades-master-of-none-though-often-times-better-than-master-of-one/
+permalink: /blog/2008/08/31/jack-of-all-trades-master-of-none-though-often-times-better-than-master-of-one/
 Post:
   - link
 categories:

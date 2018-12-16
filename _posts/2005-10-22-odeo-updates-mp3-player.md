@@ -5,7 +5,7 @@ date: 2005-10-22T13:13:08+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=72
-permalink: /2005/10/22/odeo-updates-mp3-player/
+permalink: /blog/2005/10/22/odeo-updates-mp3-player/
 categories:
   - design
   - personal

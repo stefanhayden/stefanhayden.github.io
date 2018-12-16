@@ -5,7 +5,7 @@ date: 2006-08-16T08:42:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/16/top-5-ways-to-make-me-cry/
-permalink: /2006/08/16/top-5-ways-to-make-me-cry/
+permalink: /blog/2006/08/16/top-5-ways-to-make-me-cry/
 categories:
   - blog
   - web

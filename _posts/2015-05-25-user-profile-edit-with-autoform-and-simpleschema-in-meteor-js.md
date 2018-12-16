@@ -5,7 +5,7 @@ date: 2015-05-25T00:18:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1750
-permalink: /2015/05/25/user-profile-edit-with-autoform-and-simpleschema-in-meteor-js/
+permalink: /blog/2015/05/25/user-profile-edit-with-autoform-and-simpleschema-in-meteor-js/
 categories:
   - development
 ---

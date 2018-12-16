@@ -5,7 +5,7 @@ date: 2007-06-16T23:31:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/16/in-honor-of-the-eames-era-playing-at-hennessys-heres-a-good-look-at-the-history-of-the-fine-design-aesthetic/
-permalink: /2007/06/16/in-honor-of-the-eames-era-playing-at-hennessys-heres-a-good-look-at-the-history-of-the-fine-design-aesthetic/
+permalink: /blog/2007/06/16/in-honor-of-the-eames-era-playing-at-hennessys-heres-a-good-look-at-the-history-of-the-fine-design-aesthetic/
 Post:
   - link
 categories:

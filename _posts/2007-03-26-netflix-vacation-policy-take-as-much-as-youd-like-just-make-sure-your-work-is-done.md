@@ -5,7 +5,7 @@ date: 2007-03-26T09:15:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/26/netflix-vacation-policy-take-as-much-as-youd-like-just-make-sure-your-work-is-done/
-permalink: /2007/03/26/netflix-vacation-policy-take-as-much-as-youd-like-just-make-sure-your-work-is-done/
+permalink: /blog/2007/03/26/netflix-vacation-policy-take-as-much-as-youd-like-just-make-sure-your-work-is-done/
 Post:
   - link
 categories:

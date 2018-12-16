@@ -5,7 +5,7 @@ date: 2008-09-16T08:37:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1180
-permalink: /2008/09/16/new-offshore-drilling/
+permalink: /blog/2008/09/16/new-offshore-drilling/
 categories:
   - web
 ---

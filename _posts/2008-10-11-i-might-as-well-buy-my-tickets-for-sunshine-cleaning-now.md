@@ -5,7 +5,7 @@ date: 2008-10-11T08:18:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1253
-permalink: /2008/10/11/i-might-as-well-buy-my-tickets-for-sunshine-cleaning-now/
+permalink: /blog/2008/10/11/i-might-as-well-buy-my-tickets-for-sunshine-cleaning-now/
 Post:
   - link
 categories:

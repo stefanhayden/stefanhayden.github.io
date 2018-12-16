@@ -5,7 +5,7 @@ date: 2008-09-04T12:35:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1141
-permalink: /2008/09/04/with-two-solid-days-of-use-google-chrome-is-now-my-primary-browser-with-firefox-for-development/
+permalink: /blog/2008/09/04/with-two-solid-days-of-use-google-chrome-is-now-my-primary-browser-with-firefox-for-development/
 Post:
   - link
 categories:

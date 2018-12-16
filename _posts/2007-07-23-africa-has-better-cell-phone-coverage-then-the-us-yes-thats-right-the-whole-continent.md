@@ -5,7 +5,7 @@ date: 2007-07-23T14:51:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/23/africa-has-better-cell-phone-coverage-then-the-us-yes-thats-right-the-whole-continent/
-permalink: /2007/07/23/africa-has-better-cell-phone-coverage-then-the-us-yes-thats-right-the-whole-continent/
+permalink: /blog/2007/07/23/africa-has-better-cell-phone-coverage-then-the-us-yes-thats-right-the-whole-continent/
 Post:
   - link
 categories:

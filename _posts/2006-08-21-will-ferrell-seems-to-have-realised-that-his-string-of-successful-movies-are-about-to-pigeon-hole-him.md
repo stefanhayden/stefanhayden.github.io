@@ -5,7 +5,7 @@ date: 2006-08-21T12:04:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/21/will-ferrell-seems-to-have-realised-that-his-string-of-successful-movies-are-about-to-pigeon-hole-him/
-permalink: /2006/08/21/will-ferrell-seems-to-have-realised-that-his-string-of-successful-movies-are-about-to-pigeon-hole-him/
+permalink: /blog/2006/08/21/will-ferrell-seems-to-have-realised-that-his-string-of-successful-movies-are-about-to-pigeon-hole-him/
 Post:
   - link
 categories:

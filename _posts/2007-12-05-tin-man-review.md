@@ -5,7 +5,7 @@ date: 2007-12-05T19:53:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/05/tin-man-review/
-permalink: /2007/12/05/tin-man-review/
+permalink: /blog/2007/12/05/tin-man-review/
 categories:
   - review
 ---

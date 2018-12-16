@@ -5,7 +5,7 @@ date: 2008-09-05T10:38:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1147
-permalink: /2008/09/05/obama-t-shirt/
+permalink: /blog/2008/09/05/obama-t-shirt/
 categories:
   - design
 ---

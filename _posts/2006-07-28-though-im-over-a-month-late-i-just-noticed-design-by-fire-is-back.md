@@ -5,7 +5,7 @@ date: 2006-07-28T19:28:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/28/though-im-over-a-month-late-i-just-noticed-design-by-fire-is-back/
-permalink: /2006/07/28/though-im-over-a-month-late-i-just-noticed-design-by-fire-is-back/
+permalink: /blog/2006/07/28/though-im-over-a-month-late-i-just-noticed-design-by-fire-is-back/
 Post:
   - link
 categories:

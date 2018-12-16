@@ -5,7 +5,7 @@ date: 2012-03-17T14:49:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1646
-permalink: /2012/03/17/youtube-bows-to-the-all-mightly-google-plus/
+permalink: /blog/2012/03/17/youtube-bows-to-the-all-mightly-google-plus/
 categories:
   - youtube
 ---

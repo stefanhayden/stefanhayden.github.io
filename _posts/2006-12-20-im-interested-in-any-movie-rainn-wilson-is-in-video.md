@@ -5,7 +5,7 @@ date: 2006-12-20T10:04:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/20/im-interested-in-any-movie-rainn-wilson-is-in-video/
-permalink: /2006/12/20/im-interested-in-any-movie-rainn-wilson-is-in-video/
+permalink: /blog/2006/12/20/im-interested-in-any-movie-rainn-wilson-is-in-video/
 Post:
   - link
 categories:

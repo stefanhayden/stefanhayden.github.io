@@ -5,7 +5,7 @@ date: 2007-06-11T22:31:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/11/top-5-blogs-youre-not-reading/
-permalink: /2007/06/11/top-5-blogs-youre-not-reading/
+permalink: /blog/2007/06/11/top-5-blogs-youre-not-reading/
 categories:
   - web
 ---

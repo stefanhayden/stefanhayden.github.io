@@ -5,7 +5,7 @@ date: 2007-07-27T23:32:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/27/all-girl-welding-camp/
-permalink: /2007/07/27/all-girl-welding-camp/
+permalink: /blog/2007/07/27/all-girl-welding-camp/
 categories:
   - video
 ---

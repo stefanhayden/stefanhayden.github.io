@@ -5,7 +5,7 @@ date: 2007-10-04T15:02:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/04/when-shallow-people-talk-honestly/
-permalink: /2007/10/04/when-shallow-people-talk-honestly/
+permalink: /blog/2007/10/04/when-shallow-people-talk-honestly/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-12-26T10:12:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/26/blog-of-a-book-cover-artist/
-permalink: /2007/12/26/blog-of-a-book-cover-artist/
+permalink: /blog/2007/12/26/blog-of-a-book-cover-artist/
 Post:
   - link
 categories:

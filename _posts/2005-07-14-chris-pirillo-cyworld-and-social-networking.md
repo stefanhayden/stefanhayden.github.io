@@ -5,7 +5,7 @@ date: 2005-07-14T19:27:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=38
-permalink: /2005/07/14/chris-pirillo-cyworld-and-social-networking/
+permalink: /blog/2005/07/14/chris-pirillo-cyworld-and-social-networking/
 categories:
   - design
   - web

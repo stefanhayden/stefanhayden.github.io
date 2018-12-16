@@ -5,7 +5,7 @@ date: 2008-11-20T15:07:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1370
-permalink: /2008/11/20/perhaps-you-have-heard-that-obamas-fcc-transition-co-chair-is-a-wow-playe/
+permalink: /blog/2008/11/20/perhaps-you-have-heard-that-obamas-fcc-transition-co-chair-is-a-wow-playe/
 Post:
   - link
 categories:

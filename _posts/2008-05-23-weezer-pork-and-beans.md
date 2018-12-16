@@ -5,7 +5,7 @@ date: 2008-05-23T07:06:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=882
-permalink: /2008/05/23/weezer-pork-and-beans/
+permalink: /blog/2008/05/23/weezer-pork-and-beans/
 Post:
   - link
 categories:

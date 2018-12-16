@@ -5,7 +5,7 @@ date: 2009-10-09T15:46:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1480
-permalink: /2009/10/09/obamas-nobel-prize/
+permalink: /blog/2009/10/09/obamas-nobel-prize/
 categories:
   - politics
 ---

@@ -5,7 +5,7 @@ date: 2007-11-08T13:13:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/08/last-terry-goodkind-book/
-permalink: /2007/11/08/last-terry-goodkind-book/
+permalink: /blog/2007/11/08/last-terry-goodkind-book/
 Post:
   - link
 categories:

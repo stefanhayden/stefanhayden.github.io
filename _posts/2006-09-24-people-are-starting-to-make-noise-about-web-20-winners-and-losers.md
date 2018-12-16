@@ -5,7 +5,7 @@ date: 2006-09-24T21:50:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/24/people-are-starting-to-make-noise-about-web-20-winners-and-losers/
-permalink: /2006/09/24/people-are-starting-to-make-noise-about-web-20-winners-and-losers/
+permalink: /blog/2006/09/24/people-are-starting-to-make-noise-about-web-20-winners-and-losers/
 Post:
   - link
 categories:

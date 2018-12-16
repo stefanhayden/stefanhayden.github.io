@@ -5,7 +5,7 @@ date: 2008-05-15T08:40:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=873
-permalink: /2008/05/15/amazon-mp3-embed/
+permalink: /blog/2008/05/15/amazon-mp3-embed/
 Post:
   - link
 openid_comments:

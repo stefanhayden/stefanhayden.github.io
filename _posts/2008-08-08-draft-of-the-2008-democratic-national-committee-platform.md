@@ -5,7 +5,7 @@ date: 2008-08-08T07:07:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1053
-permalink: /2008/08/08/draft-of-the-2008-democratic-national-committee-platform/
+permalink: /blog/2008/08/08/draft-of-the-2008-democratic-national-committee-platform/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-11-20T10:41:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/20/google-maps/
-permalink: /2007/11/20/google-maps/
+permalink: /blog/2007/11/20/google-maps/
 Post:
   - link
 categories:

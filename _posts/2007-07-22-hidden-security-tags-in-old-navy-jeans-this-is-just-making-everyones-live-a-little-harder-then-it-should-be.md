@@ -5,7 +5,7 @@ date: 2007-07-22T16:23:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/22/hidden-security-tags-in-old-navy-jeans-this-is-just-making-everyones-live-a-little-harder-then-it-should-be/
-permalink: /2007/07/22/hidden-security-tags-in-old-navy-jeans-this-is-just-making-everyones-live-a-little-harder-then-it-should-be/
+permalink: /blog/2007/07/22/hidden-security-tags-in-old-navy-jeans-this-is-just-making-everyones-live-a-little-harder-then-it-should-be/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-08-01T21:08:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/01/good-books-for-an-intro-to-graphic-design/
-permalink: /2006/08/01/good-books-for-an-intro-to-graphic-design/
+permalink: /blog/2006/08/01/good-books-for-an-intro-to-graphic-design/
 Post:
   - link
 categories:

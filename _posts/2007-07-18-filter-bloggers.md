@@ -5,7 +5,7 @@ date: 2007-07-18T15:40:57+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/18/filter-bloggers/
-permalink: /2007/07/18/filter-bloggers/
+permalink: /blog/2007/07/18/filter-bloggers/
 categories:
   - blog
   - web

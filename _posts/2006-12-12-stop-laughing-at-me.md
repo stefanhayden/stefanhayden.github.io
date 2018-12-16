@@ -5,7 +5,7 @@ date: 2006-12-12T23:14:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/12/stop-laughing-at-me/
-permalink: /2006/12/12/stop-laughing-at-me/
+permalink: /blog/2006/12/12/stop-laughing-at-me/
 categories:
   - personal
 ---

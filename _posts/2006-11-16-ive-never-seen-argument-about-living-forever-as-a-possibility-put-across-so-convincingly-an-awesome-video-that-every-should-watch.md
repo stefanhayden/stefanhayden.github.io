@@ -5,7 +5,7 @@ date: 2006-11-16T11:39:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/16/ive-never-seen-argument-about-living-forever-as-a-possibility-put-across-so-convincingly-an-awesome-video-that-every-should-watch/
-permalink: /2006/11/16/ive-never-seen-argument-about-living-forever-as-a-possibility-put-across-so-convincingly-an-awesome-video-that-every-should-watch/
+permalink: /blog/2006/11/16/ive-never-seen-argument-about-living-forever-as-a-possibility-put-across-so-convincingly-an-awesome-video-that-every-should-watch/
 Post:
   - link
 categories:

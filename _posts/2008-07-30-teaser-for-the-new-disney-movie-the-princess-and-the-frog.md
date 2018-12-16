@@ -5,7 +5,7 @@ date: 2008-07-30T09:04:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1001
-permalink: /2008/07/30/teaser-for-the-new-disney-movie-the-princess-and-the-frog/
+permalink: /blog/2008/07/30/teaser-for-the-new-disney-movie-the-princess-and-the-frog/
 Post:
   - link
 categories:

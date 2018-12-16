@@ -5,7 +5,7 @@ date: 2007-01-09T13:05:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/09/live-action-avatar-the-last-airbender-movie-coming-to-big-screens/
-permalink: /2007/01/09/live-action-avatar-the-last-airbender-movie-coming-to-big-screens/
+permalink: /blog/2007/01/09/live-action-avatar-the-last-airbender-movie-coming-to-big-screens/
 Post:
   - link
 categories:

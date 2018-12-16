@@ -5,7 +5,7 @@ date: 2006-04-06T15:53:47+00:00
 author: Stefan Hayden
 layout: post
 guid: 'http://www.stefanhayden.com/blog/2006/04/06/ptolemy%e2%80%99s-gate-the-bartimaeus-trilogy/'
-permalink: '/2006/04/06/ptolemy%e2%80%99s-gate-the-bartimaeus-trilogy/'
+permalink: /blog'/2006/04/06/ptolemy%e2%80%99s-gate-the-bartimaeus-trilogy/'
 categories:
   - personal
   - web

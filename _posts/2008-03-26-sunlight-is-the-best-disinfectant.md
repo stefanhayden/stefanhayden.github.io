@@ -5,7 +5,7 @@ date: 2008-03-26T13:05:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/26/sunlight-is-the-best-disinfectant/
-permalink: /2008/03/26/sunlight-is-the-best-disinfectant/
+permalink: /blog/2008/03/26/sunlight-is-the-best-disinfectant/
 categories:
   - web
 ---

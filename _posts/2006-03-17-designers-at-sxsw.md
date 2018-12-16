@@ -5,7 +5,7 @@ date: 2006-03-17T21:11:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/17/designers-at-sxsw/
-permalink: /2006/03/17/designers-at-sxsw/
+permalink: /blog/2006/03/17/designers-at-sxsw/
 categories:
   - design
   - web

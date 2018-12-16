@@ -5,7 +5,7 @@ date: 2005-10-06T13:47:17+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/10/06/webos-and-owning-your-data/
-permalink: /2005/10/06/webos-and-owning-your-data/
+permalink: /blog/2005/10/06/webos-and-owning-your-data/
 categories:
   - web
 ---

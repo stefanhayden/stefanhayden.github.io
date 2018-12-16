@@ -5,7 +5,7 @@ date: 2008-05-13T22:27:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=871
-permalink: /2008/05/13/the-submarines-honeysuckle-weeks/
+permalink: /blog/2008/05/13/the-submarines-honeysuckle-weeks/
 Post:
   - link
 categories:

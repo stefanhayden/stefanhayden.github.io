@@ -5,7 +5,7 @@ date: 2007-03-25T10:01:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/25/the-recent-ninja-turtles-cartoon-was-amazing-and-i-had-hopes-that-would-translate-in-to-a-good-movie-rotten-tomatoes-has-brought-me-out-of-my-delusions-of-anything-worth-seeing/
-permalink: /2007/03/25/the-recent-ninja-turtles-cartoon-was-amazing-and-i-had-hopes-that-would-translate-in-to-a-good-movie-rotten-tomatoes-has-brought-me-out-of-my-delusions-of-anything-worth-seeing/
+permalink: /blog/2007/03/25/the-recent-ninja-turtles-cartoon-was-amazing-and-i-had-hopes-that-would-translate-in-to-a-good-movie-rotten-tomatoes-has-brought-me-out-of-my-delusions-of-anything-worth-seeing/
 Post:
   - link
 categories:

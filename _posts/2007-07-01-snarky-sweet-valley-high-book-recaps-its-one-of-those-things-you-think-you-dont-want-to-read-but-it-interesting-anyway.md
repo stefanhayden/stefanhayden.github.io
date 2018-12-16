@@ -5,7 +5,7 @@ date: 2007-07-01T22:07:16+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/01/snarky-sweet-valley-high-book-recaps-its-one-of-those-things-you-think-you-dont-want-to-read-but-it-interesting-anyway/
-permalink: /2007/07/01/snarky-sweet-valley-high-book-recaps-its-one-of-those-things-you-think-you-dont-want-to-read-but-it-interesting-anyway/
+permalink: /blog/2007/07/01/snarky-sweet-valley-high-book-recaps-its-one-of-those-things-you-think-you-dont-want-to-read-but-it-interesting-anyway/
 Post:
   - link
 categories:

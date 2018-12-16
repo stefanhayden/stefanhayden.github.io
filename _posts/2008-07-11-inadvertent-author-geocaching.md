@@ -5,7 +5,7 @@ date: 2008-07-11T17:09:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=935
-permalink: /2008/07/11/inadvertent-author-geocaching/
+permalink: /blog/2008/07/11/inadvertent-author-geocaching/
 categories:
   - video
   - web

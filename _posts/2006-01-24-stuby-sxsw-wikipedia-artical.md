@@ -5,7 +5,7 @@ date: 2006-01-24T22:06:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/01/24/stuby-sxsw-wikipedia-artical/
-permalink: /2006/01/24/stuby-sxsw-wikipedia-artical/
+permalink: /blog/2006/01/24/stuby-sxsw-wikipedia-artical/
 categories:
   - design
   - personal

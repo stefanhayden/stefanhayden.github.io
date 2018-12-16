@@ -5,7 +5,7 @@ date: 2007-12-21T01:00:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/21/small-design-changes-makes-a-big-difference/
-permalink: /2007/12/21/small-design-changes-makes-a-big-difference/
+permalink: /blog/2007/12/21/small-design-changes-makes-a-big-difference/
 Post:
   - link
 categories:

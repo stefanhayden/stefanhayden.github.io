@@ -5,7 +5,7 @@ date: 2006-09-22T13:08:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/22/the-new-tickle-me-elmo-is-acually-really-cool-video/
-permalink: /2006/09/22/the-new-tickle-me-elmo-is-acually-really-cool-video/
+permalink: /blog/2006/09/22/the-new-tickle-me-elmo-is-acually-really-cool-video/
 Post:
   - link
 categories:

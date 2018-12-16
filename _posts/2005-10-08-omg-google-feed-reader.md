@@ -5,7 +5,7 @@ date: 2005-10-08T01:57:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/10/08/omg-google-feed-reader/
-permalink: /2005/10/08/omg-google-feed-reader/
+permalink: /blog/2005/10/08/omg-google-feed-reader/
 categories:
   - personal
   - resources

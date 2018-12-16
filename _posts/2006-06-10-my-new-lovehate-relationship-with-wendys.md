@@ -5,7 +5,7 @@ date: 2006-06-10T10:21:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/06/10/my-new-lovehate-relationship-with-wendys/
-permalink: /2006/06/10/my-new-lovehate-relationship-with-wendys/
+permalink: /blog/2006/06/10/my-new-lovehate-relationship-with-wendys/
 categories:
   - personal
 ---

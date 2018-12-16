@@ -5,7 +5,7 @@ date: 2007-07-10T07:29:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/10/post-like-a-pirate-was-unexpectedly-posted-to-mashable-with-a-fairly-good-review/
-permalink: /2007/07/10/post-like-a-pirate-was-unexpectedly-posted-to-mashable-with-a-fairly-good-review/
+permalink: /blog/2007/07/10/post-like-a-pirate-was-unexpectedly-posted-to-mashable-with-a-fairly-good-review/
 Post:
   - link
 categories:

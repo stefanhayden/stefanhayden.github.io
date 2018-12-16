@@ -5,7 +5,7 @@ date: 2008-06-13T08:48:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=902
-permalink: /2008/06/13/aziz-ansari/
+permalink: /blog/2008/06/13/aziz-ansari/
 Post:
   - link
 categories:

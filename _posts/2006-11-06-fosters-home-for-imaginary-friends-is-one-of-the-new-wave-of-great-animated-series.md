@@ -5,7 +5,7 @@ date: 2006-11-06T14:39:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/06/fosters-home-for-imaginary-friends-is-one-of-the-new-wave-of-great-animated-series/
-permalink: /2006/11/06/fosters-home-for-imaginary-friends-is-one-of-the-new-wave-of-great-animated-series/
+permalink: /blog/2006/11/06/fosters-home-for-imaginary-friends-is-one-of-the-new-wave-of-great-animated-series/
 Post:
   - link
 categories:

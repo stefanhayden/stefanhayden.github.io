@@ -5,7 +5,7 @@ date: 2007-12-13T14:33:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/13/chris-hardwick-points-out-that-bowling-is-not-in-the-olympics/
-permalink: /2007/12/13/chris-hardwick-points-out-that-bowling-is-not-in-the-olympics/
+permalink: /blog/2007/12/13/chris-hardwick-points-out-that-bowling-is-not-in-the-olympics/
 Post:
   - link
 categories:

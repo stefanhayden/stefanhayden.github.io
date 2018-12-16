@@ -5,7 +5,7 @@ date: 2012-10-26T13:11:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1651
-permalink: /2012/10/26/is-my-jpg-progressive-or-baseline/
+permalink: /blog/2012/10/26/is-my-jpg-progressive-or-baseline/
 categories:
   - web
 tags:

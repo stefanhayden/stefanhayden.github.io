@@ -5,7 +5,7 @@ date: 2007-07-19T10:47:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/19/1167-die-trying-to-immigrate-to-spain-illegally/
-permalink: /2007/07/19/1167-die-trying-to-immigrate-to-spain-illegally/
+permalink: /blog/2007/07/19/1167-die-trying-to-immigrate-to-spain-illegally/
 Post:
   - link
 categories:

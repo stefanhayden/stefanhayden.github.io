@@ -5,7 +5,7 @@ date: 2008-05-15T15:36:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=874
-permalink: /2008/05/15/money-from-nothing/
+permalink: /blog/2008/05/15/money-from-nothing/
 categories:
   - video
   - web

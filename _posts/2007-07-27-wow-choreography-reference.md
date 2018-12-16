@@ -5,7 +5,7 @@ date: 2007-07-27T21:24:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/27/wow-choreography-reference/
-permalink: /2007/07/27/wow-choreography-reference/
+permalink: /blog/2007/07/27/wow-choreography-reference/
 categories:
   - video
 ---

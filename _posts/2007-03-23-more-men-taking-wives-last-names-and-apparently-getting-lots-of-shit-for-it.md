@@ -5,7 +5,7 @@ date: 2007-03-23T08:46:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/23/more-men-taking-wives-last-names-and-apparently-getting-lots-of-shit-for-it/
-permalink: /2007/03/23/more-men-taking-wives-last-names-and-apparently-getting-lots-of-shit-for-it/
+permalink: /blog/2007/03/23/more-men-taking-wives-last-names-and-apparently-getting-lots-of-shit-for-it/
 Post:
   - link
 categories:

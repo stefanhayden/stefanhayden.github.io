@@ -5,7 +5,7 @@ date: 2007-10-13T16:52:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/13/squidpunk/
-permalink: /2007/10/13/squidpunk/
+permalink: /blog/2007/10/13/squidpunk/
 categories:
   - web
 ---

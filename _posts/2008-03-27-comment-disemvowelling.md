@@ -5,7 +5,7 @@ date: 2008-03-27T13:23:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/27/comment-disemvowelling/
-permalink: /2008/03/27/comment-disemvowelling/
+permalink: /blog/2008/03/27/comment-disemvowelling/
 categories:
   - web
 ---

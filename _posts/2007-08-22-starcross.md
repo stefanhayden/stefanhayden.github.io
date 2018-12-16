@@ -5,7 +5,7 @@ date: 2007-08-22T08:07:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/22/starcross/
-permalink: /2007/08/22/starcross/
+permalink: /blog/2007/08/22/starcross/
 Post:
   - link
 categories:

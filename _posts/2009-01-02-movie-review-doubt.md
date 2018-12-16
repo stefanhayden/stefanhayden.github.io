@@ -5,7 +5,7 @@ date: 2009-01-02T08:53:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1412
-permalink: /2009/01/02/movie-review-doubt/
+permalink: /blog/2009/01/02/movie-review-doubt/
 categories:
   - review
 ---

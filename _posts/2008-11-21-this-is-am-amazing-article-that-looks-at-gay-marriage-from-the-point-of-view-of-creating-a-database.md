@@ -5,7 +5,7 @@ date: 2008-11-21T14:56:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1388
-permalink: /2008/11/21/this-is-am-amazing-article-that-looks-at-gay-marriage-from-the-point-of-view-of-creating-a-database/
+permalink: /blog/2008/11/21/this-is-am-amazing-article-that-looks-at-gay-marriage-from-the-point-of-view-of-creating-a-database/
 Post:
   - link
 categories:

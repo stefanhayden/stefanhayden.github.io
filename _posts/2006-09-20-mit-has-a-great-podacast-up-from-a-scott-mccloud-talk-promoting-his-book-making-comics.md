@@ -5,7 +5,7 @@ date: 2006-09-20T10:58:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/20/mit-has-a-great-podacast-up-from-a-scott-mccloud-talk-promoting-his-book-making-comics/
-permalink: /2006/09/20/mit-has-a-great-podacast-up-from-a-scott-mccloud-talk-promoting-his-book-making-comics/
+permalink: /blog/2006/09/20/mit-has-a-great-podacast-up-from-a-scott-mccloud-talk-promoting-his-book-making-comics/
 Post:
   - link
 categories:

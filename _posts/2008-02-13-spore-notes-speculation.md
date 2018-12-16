@@ -5,7 +5,7 @@ date: 2008-02-13T10:50:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/13/spore-notes-speculation/
-permalink: /2008/02/13/spore-notes-speculation/
+permalink: /blog/2008/02/13/spore-notes-speculation/
 categories:
   - web
 ---

@@ -5,7 +5,7 @@ date: 2006-08-02T23:00:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/02/colbert-seems-to-have-found-a-new-sport/
-permalink: /2006/08/02/colbert-seems-to-have-found-a-new-sport/
+permalink: /blog/2006/08/02/colbert-seems-to-have-found-a-new-sport/
 Post:
   - link
 categories:

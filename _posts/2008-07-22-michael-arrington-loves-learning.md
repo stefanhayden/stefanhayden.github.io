@@ -5,7 +5,7 @@ date: 2008-07-22T09:57:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=955
-permalink: /2008/07/22/michael-arrington-loves-learning/
+permalink: /blog/2008/07/22/michael-arrington-loves-learning/
 Post:
   - link
 categories:

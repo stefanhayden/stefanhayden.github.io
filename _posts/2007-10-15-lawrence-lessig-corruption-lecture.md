@@ -5,7 +5,7 @@ date: 2007-10-15T10:34:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/15/lawrence-lessig-corruption-lecture/
-permalink: /2007/10/15/lawrence-lessig-corruption-lecture/
+permalink: /blog/2007/10/15/lawrence-lessig-corruption-lecture/
 categories:
   - video
 ---

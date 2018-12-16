@@ -5,7 +5,7 @@ date: 2007-10-23T09:29:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/23/roommates/
-permalink: /2007/10/23/roommates/
+permalink: /blog/2007/10/23/roommates/
 Post:
   - link
 categories:

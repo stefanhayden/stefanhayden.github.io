@@ -5,7 +5,7 @@ date: 2008-11-12T09:37:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1340
-permalink: /2008/11/12/obama-transition-co-chair-john-podesta-announced-the-strictest-and-most-far-reaching-ethics-rules-of-any-transition-team-in-history/
+permalink: /blog/2008/11/12/obama-transition-co-chair-john-podesta-announced-the-strictest-and-most-far-reaching-ethics-rules-of-any-transition-team-in-history/
 Post:
   - link
 categories:

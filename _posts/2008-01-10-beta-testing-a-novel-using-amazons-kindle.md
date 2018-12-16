@@ -5,7 +5,7 @@ date: 2008-01-10T12:22:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/10/beta-testing-a-novel-using-amazons-kindle/
-permalink: /2008/01/10/beta-testing-a-novel-using-amazons-kindle/
+permalink: /blog/2008/01/10/beta-testing-a-novel-using-amazons-kindle/
 Post:
   - link
 categories:

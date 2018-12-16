@@ -5,7 +5,7 @@ date: 2005-08-08T00:28:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=42
-permalink: /2005/08/08/my-adventures-with-hcal-ical-webcal-and-their-lack-of-support/
+permalink: /blog/2005/08/08/my-adventures-with-hcal-ical-webcal-and-their-lack-of-support/
 categories:
   - web
 ---

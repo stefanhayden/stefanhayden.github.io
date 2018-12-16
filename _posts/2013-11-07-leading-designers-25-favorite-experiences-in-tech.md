@@ -5,7 +5,7 @@ date: 2013-11-07T23:27:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1679
-permalink: /2013/11/07/leading-designers-25-favorite-experiences-in-tech/
+permalink: /blog/2013/11/07/leading-designers-25-favorite-experiences-in-tech/
 categories:
   - Uncategorized
 ---

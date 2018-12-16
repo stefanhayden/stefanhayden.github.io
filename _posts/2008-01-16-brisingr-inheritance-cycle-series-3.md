@@ -5,7 +5,7 @@ date: 2008-01-16T13:31:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/16/brisingr-inheritance-cycle-series-3/
-permalink: /2008/01/16/brisingr-inheritance-cycle-series-3/
+permalink: /blog/2008/01/16/brisingr-inheritance-cycle-series-3/
 Post:
   - link
 categories:

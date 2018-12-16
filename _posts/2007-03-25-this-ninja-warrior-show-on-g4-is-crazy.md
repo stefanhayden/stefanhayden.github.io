@@ -5,7 +5,7 @@ date: 2007-03-25T22:49:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/25/this-ninja-warrior-show-on-g4-is-crazy/
-permalink: /2007/03/25/this-ninja-warrior-show-on-g4-is-crazy/
+permalink: /blog/2007/03/25/this-ninja-warrior-show-on-g4-is-crazy/
 Post:
   - link
 categories:

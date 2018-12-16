@@ -5,7 +5,7 @@ date: 2005-06-12T01:54:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/06/12/my-future-in-rss-aka-feedlounge/
-permalink: /2005/06/12/my-future-in-rss-aka-feedlounge/
+permalink: /blog/2005/06/12/my-future-in-rss-aka-feedlounge/
 categories:
   - blog
   - resources

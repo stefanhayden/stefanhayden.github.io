@@ -5,7 +5,7 @@ date: 2007-07-07T12:18:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/07/i-feel-comfortable-calling-faruk-atess-post-on-pagination-the-definitive-source-on-the-subject/
-permalink: /2007/07/07/i-feel-comfortable-calling-faruk-atess-post-on-pagination-the-definitive-source-on-the-subject/
+permalink: /blog/2007/07/07/i-feel-comfortable-calling-faruk-atess-post-on-pagination-the-definitive-source-on-the-subject/
 Post:
   - link
 categories:

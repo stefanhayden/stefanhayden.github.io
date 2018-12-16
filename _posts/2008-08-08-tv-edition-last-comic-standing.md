@@ -5,7 +5,7 @@ date: 2008-08-08T18:44:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1056
-permalink: /2008/08/08/tv-edition-last-comic-standing/
+permalink: /blog/2008/08/08/tv-edition-last-comic-standing/
 categories:
   - tv
   - video

@@ -5,7 +5,7 @@ date: 2006-07-25T19:06:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/25/movies-to-look-out-for/
-permalink: /2006/07/25/movies-to-look-out-for/
+permalink: /blog/2006/07/25/movies-to-look-out-for/
 Post:
   - link
 categories:

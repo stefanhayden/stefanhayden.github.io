@@ -5,7 +5,7 @@ date: 2007-07-18T12:14:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/18/facebook-news-feed/
-permalink: /2007/07/18/facebook-news-feed/
+permalink: /blog/2007/07/18/facebook-news-feed/
 Post:
   - link
 categories:

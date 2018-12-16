@@ -5,7 +5,7 @@ date: 2005-07-26T16:44:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=39
-permalink: /2005/07/26/gmail-settings/
+permalink: /blog/2005/07/26/gmail-settings/
 categories:
   - personal
   - web

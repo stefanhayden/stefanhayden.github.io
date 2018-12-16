@@ -5,7 +5,7 @@ date: 2009-01-27T12:02:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1425
-permalink: /2009/01/27/obamas-first-100-hours/
+permalink: /blog/2009/01/27/obamas-first-100-hours/
 Post:
   - link
 categories:

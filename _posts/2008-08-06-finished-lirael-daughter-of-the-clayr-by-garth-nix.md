@@ -5,7 +5,7 @@ date: 2008-08-06T08:44:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1041
-permalink: /2008/08/06/finished-lirael-daughter-of-the-clayr-by-garth-nix/
+permalink: /blog/2008/08/06/finished-lirael-daughter-of-the-clayr-by-garth-nix/
 categories:
   - books
   - review

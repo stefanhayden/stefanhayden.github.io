@@ -5,7 +5,7 @@ date: 2007-09-08T16:50:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/08/staten-island-buses-to-control-red-lights-to-increase-energy-conservation/
-permalink: /2007/09/08/staten-island-buses-to-control-red-lights-to-increase-energy-conservation/
+permalink: /blog/2007/09/08/staten-island-buses-to-control-red-lights-to-increase-energy-conservation/
 Post:
   - link
 categories:

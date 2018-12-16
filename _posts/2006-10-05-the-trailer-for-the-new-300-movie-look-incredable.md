@@ -5,7 +5,7 @@ date: 2006-10-05T08:28:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/05/the-trailer-for-the-new-300-movie-look-incredable/
-permalink: /2006/10/05/the-trailer-for-the-new-300-movie-look-incredable/
+permalink: /blog/2006/10/05/the-trailer-for-the-new-300-movie-look-incredable/
 Post:
   - link
 categories:

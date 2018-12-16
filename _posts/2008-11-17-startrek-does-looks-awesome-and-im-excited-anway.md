@@ -5,7 +5,7 @@ date: 2008-11-17T15:15:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1351
-permalink: /2008/11/17/startrek-does-looks-awesome-and-im-excited-anway/
+permalink: /blog/2008/11/17/startrek-does-looks-awesome-and-im-excited-anway/
 Post:
   - link
 categories:

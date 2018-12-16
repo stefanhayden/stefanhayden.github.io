@@ -5,7 +5,7 @@ date: 2008-01-07T10:59:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/07/weezer-basicly/
-permalink: /2008/01/07/weezer-basicly/
+permalink: /blog/2008/01/07/weezer-basicly/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-12-21T11:26:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/21/stewart-and-colbert-on-returning-to-tv/
-permalink: /2007/12/21/stewart-and-colbert-on-returning-to-tv/
+permalink: /blog/2007/12/21/stewart-and-colbert-on-returning-to-tv/
 Post:
   - link
 categories:

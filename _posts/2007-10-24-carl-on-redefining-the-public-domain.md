@@ -5,7 +5,7 @@ date: 2007-10-24T13:17:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/24/carl-on-redefining-the-public-domain/
-permalink: /2007/10/24/carl-on-redefining-the-public-domain/
+permalink: /blog/2007/10/24/carl-on-redefining-the-public-domain/
 categories:
   - video
   - web

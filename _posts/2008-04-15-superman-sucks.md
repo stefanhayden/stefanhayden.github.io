@@ -5,7 +5,7 @@ date: 2008-04-15T11:10:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=845
-permalink: /2008/04/15/superman-sucks/
+permalink: /blog/2008/04/15/superman-sucks/
 Post:
   - link
 categories:

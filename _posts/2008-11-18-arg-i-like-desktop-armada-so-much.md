@@ -5,7 +5,7 @@ date: 2008-11-18T14:25:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1359
-permalink: /2008/11/18/arg-i-like-desktop-armada-so-much/
+permalink: /blog/2008/11/18/arg-i-like-desktop-armada-so-much/
 Post:
   - link
 categories:

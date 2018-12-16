@@ -5,7 +5,7 @@ date: 2006-10-27T07:58:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/27/jeremy-keith-has-to-be-at-the-forefront-of-bringing-tons-of-meta-data-together-in-context/
-permalink: /2006/10/27/jeremy-keith-has-to-be-at-the-forefront-of-bringing-tons-of-meta-data-together-in-context/
+permalink: /blog/2006/10/27/jeremy-keith-has-to-be-at-the-forefront-of-bringing-tons-of-meta-data-together-in-context/
 Post:
   - link
 categories:

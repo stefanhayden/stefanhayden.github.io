@@ -5,7 +5,7 @@ date: 2006-10-02T19:59:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/02/national-novel-writing-month-nanowrimo-is-approaching-and-their-web-site-is-gearing-up-for-the-season/
-permalink: /2006/10/02/national-novel-writing-month-nanowrimo-is-approaching-and-their-web-site-is-gearing-up-for-the-season/
+permalink: /blog/2006/10/02/national-novel-writing-month-nanowrimo-is-approaching-and-their-web-site-is-gearing-up-for-the-season/
 Post:
   - link
 categories:

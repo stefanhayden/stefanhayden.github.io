@@ -5,7 +5,7 @@ date: 2008-01-29T19:48:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/29/massively-multilayer-movie/
-permalink: /2008/01/29/massively-multilayer-movie/
+permalink: /blog/2008/01/29/massively-multilayer-movie/
 categories:
   - video
   - web

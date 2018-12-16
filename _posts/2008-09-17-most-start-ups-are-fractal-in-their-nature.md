@@ -5,7 +5,7 @@ date: 2008-09-17T19:26:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1188
-permalink: /2008/09/17/most-start-ups-are-fractal-in-their-nature/
+permalink: /blog/2008/09/17/most-start-ups-are-fractal-in-their-nature/
 Post:
   - link
 categories:

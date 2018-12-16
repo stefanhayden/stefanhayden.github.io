@@ -5,7 +5,7 @@ date: 2009-09-03T08:31:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1478
-permalink: /2009/09/03/one-of-the-best-music-videos-ever-made/
+permalink: /blog/2009/09/03/one-of-the-best-music-videos-ever-made/
 categories:
   - video
 ---

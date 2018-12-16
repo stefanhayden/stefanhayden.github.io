@@ -5,7 +5,7 @@ date: 2006-10-05T13:24:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/05/john-stewart-will-continue-to-deny-it-but-this-study-say-the-daily-show-covers-as-much-news-as-other-news-programs/
-permalink: /2006/10/05/john-stewart-will-continue-to-deny-it-but-this-study-say-the-daily-show-covers-as-much-news-as-other-news-programs/
+permalink: /blog/2006/10/05/john-stewart-will-continue-to-deny-it-but-this-study-say-the-daily-show-covers-as-much-news-as-other-news-programs/
 Post:
   - link
 categories:

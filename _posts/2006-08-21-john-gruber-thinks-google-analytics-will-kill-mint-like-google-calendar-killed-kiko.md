@@ -5,7 +5,7 @@ date: 2006-08-21T22:34:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/21/john-gruber-thinks-google-analytics-will-kill-mint-like-google-calendar-killed-kiko/
-permalink: /2006/08/21/john-gruber-thinks-google-analytics-will-kill-mint-like-google-calendar-killed-kiko/
+permalink: /blog/2006/08/21/john-gruber-thinks-google-analytics-will-kill-mint-like-google-calendar-killed-kiko/
 Post:
   - link
 categories:

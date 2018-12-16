@@ -5,7 +5,7 @@ date: 2008-07-26T14:40:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=983
-permalink: /2008/07/26/cell-phone-radiation/
+permalink: /blog/2008/07/26/cell-phone-radiation/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2008-10-10T10:24:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1245
-permalink: /2008/10/10/the-time-paradox-the-new-psychology-of-time/
+permalink: /blog/2008/10/10/the-time-paradox-the-new-psychology-of-time/
 categories:
   - personal
   - video

@@ -5,7 +5,7 @@ date: 2008-05-20T23:32:16+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=879
-permalink: /2008/05/20/bullshit-a-list-apart-advice-never-discuss-your-salary/
+permalink: /blog/2008/05/20/bullshit-a-list-apart-advice-never-discuss-your-salary/
 openid_comments:
   - 'a:1:{i:0;s:5:"49218";}'
 categories:

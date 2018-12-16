@@ -5,7 +5,7 @@ date: 2006-08-23T20:03:17+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/23/ted-leo-now-with-rss/
-permalink: /2006/08/23/ted-leo-now-with-rss/
+permalink: /blog/2006/08/23/ted-leo-now-with-rss/
 categories:
   - blog
   - personal

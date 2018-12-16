@@ -4,7 +4,7 @@ title: Del.icio.us link roundup
 date: 2005-12-22T07:55:00+00:00
 author: Stefan Hayden
 layout: post
-permalink: /2005/12/22/delicious-link-roundup/
+permalink: /blog/2005/12/22/delicious-link-roundup/
 categories:
   - blog
   - personal

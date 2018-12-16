@@ -5,7 +5,7 @@ date: 2008-05-01T15:34:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=865
-permalink: /2008/05/01/the-coming-collapse-of-the-middle-class/
+permalink: /blog/2008/05/01/the-coming-collapse-of-the-middle-class/
 openid_comments:
   - 'a:1:{i:0;s:5:"49241";}'
 categories:

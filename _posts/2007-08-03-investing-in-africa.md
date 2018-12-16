@@ -5,7 +5,7 @@ date: 2007-08-03T12:29:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/03/investing-in-africa/
-permalink: /2007/08/03/investing-in-africa/
+permalink: /blog/2007/08/03/investing-in-africa/
 categories:
   - personal
 ---

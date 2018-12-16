@@ -5,7 +5,7 @@ date: 2008-04-22T08:50:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=853
-permalink: /2008/04/22/avatar-season-3-finale-trailer/
+permalink: /blog/2008/04/22/avatar-season-3-finale-trailer/
 categories:
   - blog
   - video

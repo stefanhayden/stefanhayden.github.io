@@ -5,7 +5,7 @@ date: 2006-08-01T12:58:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/01/boston-is-working-on-a-low-cost-city-wide-wifi-plan/
-permalink: /2006/08/01/boston-is-working-on-a-low-cost-city-wide-wifi-plan/
+permalink: /blog/2006/08/01/boston-is-working-on-a-low-cost-city-wide-wifi-plan/
 Post:
   - link
 categories:

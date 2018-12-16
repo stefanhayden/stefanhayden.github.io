@@ -5,7 +5,7 @@ date: 2006-10-12T21:20:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/12/jquery-and-its-amazing-css-3-support/
-permalink: /2006/10/12/jquery-and-its-amazing-css-3-support/
+permalink: /blog/2006/10/12/jquery-and-its-amazing-css-3-support/
 categories:
   - design
   - resources

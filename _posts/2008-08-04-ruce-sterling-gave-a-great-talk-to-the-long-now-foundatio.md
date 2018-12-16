@@ -5,7 +5,7 @@ date: 2008-08-04T10:08:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1032
-permalink: /2008/08/04/ruce-sterling-gave-a-great-talk-to-the-long-now-foundatio/
+permalink: /blog/2008/08/04/ruce-sterling-gave-a-great-talk-to-the-long-now-foundatio/
 Post:
   - link
 categories:

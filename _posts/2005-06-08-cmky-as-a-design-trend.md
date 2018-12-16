@@ -5,7 +5,7 @@ date: 2005-06-08T23:42:17+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/06/08/cmky-as-a-design-trend/
-permalink: /2005/06/08/cmky-as-a-design-trend/
+permalink: /blog/2005/06/08/cmky-as-a-design-trend/
 categories:
   - design
   - personal

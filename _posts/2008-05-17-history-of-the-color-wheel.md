@@ -5,7 +5,7 @@ date: 2008-05-17T23:51:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=877
-permalink: /2008/05/17/history-of-the-color-wheel/
+permalink: /blog/2008/05/17/history-of-the-color-wheel/
 Post:
   - link
 categories:

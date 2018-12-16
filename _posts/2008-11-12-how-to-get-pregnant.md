@@ -5,7 +5,7 @@ date: 2008-11-12T14:34:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1343
-permalink: /2008/11/12/how-to-get-pregnant/
+permalink: /blog/2008/11/12/how-to-get-pregnant/
 Post:
   - link
 categories:

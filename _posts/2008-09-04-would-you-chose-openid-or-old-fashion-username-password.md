@@ -5,7 +5,7 @@ date: 2008-09-04T15:39:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1145
-permalink: /2008/09/04/would-you-chose-openid-or-old-fashion-username-password/
+permalink: /blog/2008/09/04/would-you-chose-openid-or-old-fashion-username-password/
 Post:
   - link
 openid_comments:

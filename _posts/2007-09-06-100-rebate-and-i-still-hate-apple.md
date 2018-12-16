@@ -5,7 +5,7 @@ date: 2007-09-06T23:39:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/06/100-rebate-and-i-still-hate-apple/
-permalink: /2007/09/06/100-rebate-and-i-still-hate-apple/
+permalink: /blog/2007/09/06/100-rebate-and-i-still-hate-apple/
 Post:
   - link
 categories:

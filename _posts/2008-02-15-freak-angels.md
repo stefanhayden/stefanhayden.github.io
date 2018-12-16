@@ -5,7 +5,7 @@ date: 2008-02-15T21:56:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/15/freak-angels/
-permalink: /2008/02/15/freak-angels/
+permalink: /blog/2008/02/15/freak-angels/
 categories:
   - web
 ---

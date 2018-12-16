@@ -5,7 +5,7 @@ date: 2005-11-27T00:21:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/11/27/audio-the-battle-over-books/
-permalink: /2005/11/27/audio-the-battle-over-books/
+permalink: /blog/2005/11/27/audio-the-battle-over-books/
 enclosure:
   - |
     http://smartleydunn.com/wired/wiredbattle.mp3

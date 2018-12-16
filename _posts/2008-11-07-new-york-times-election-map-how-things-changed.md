@@ -5,7 +5,7 @@ date: 2008-11-07T13:58:08+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1336
-permalink: /2008/11/07/new-york-times-election-map-how-things-changed/
+permalink: /blog/2008/11/07/new-york-times-election-map-how-things-changed/
 Post:
   - link
 categories:

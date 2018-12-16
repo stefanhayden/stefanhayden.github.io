@@ -5,7 +5,7 @@ date: 2006-08-04T09:05:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/04/this-coke-commercial-is-amazing/
-permalink: /2006/08/04/this-coke-commercial-is-amazing/
+permalink: /blog/2006/08/04/this-coke-commercial-is-amazing/
 Post:
   - link
 categories:

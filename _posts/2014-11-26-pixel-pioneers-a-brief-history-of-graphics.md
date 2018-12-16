@@ -5,7 +5,7 @@ date: 2014-11-26T07:49:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1728
-permalink: /2014/11/26/pixel-pioneers-a-brief-history-of-graphics/
+permalink: /blog/2014/11/26/pixel-pioneers-a-brief-history-of-graphics/
 categories:
   - youtube
 ---

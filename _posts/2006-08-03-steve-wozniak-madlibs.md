@@ -5,7 +5,7 @@ date: 2006-08-03T09:51:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/03/steve-wozniak-madlibs/
-permalink: /2006/08/03/steve-wozniak-madlibs/
+permalink: /blog/2006/08/03/steve-wozniak-madlibs/
 categories:
   - web
 ---

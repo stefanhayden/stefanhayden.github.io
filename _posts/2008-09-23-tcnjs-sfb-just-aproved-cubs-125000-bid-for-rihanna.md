@@ -5,7 +5,7 @@ date: 2008-09-23T14:15:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1202
-permalink: /2008/09/23/tcnjs-sfb-just-aproved-cubs-125000-bid-for-rihanna/
+permalink: /blog/2008/09/23/tcnjs-sfb-just-aproved-cubs-125000-bid-for-rihanna/
 Post:
   - link
 categories:

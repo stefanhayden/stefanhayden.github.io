@@ -5,7 +5,7 @@ date: 2006-10-01T14:57:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/01/more-and-more-i-feel-like-history-is-repeating-itself/
-permalink: /2006/10/01/more-and-more-i-feel-like-history-is-repeating-itself/
+permalink: /blog/2006/10/01/more-and-more-i-feel-like-history-is-repeating-itself/
 Post:
   - link
 categories:

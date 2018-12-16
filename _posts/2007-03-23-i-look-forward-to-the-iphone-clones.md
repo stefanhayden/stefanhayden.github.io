@@ -5,7 +5,7 @@ date: 2007-03-23T09:31:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/23/i-look-forward-to-the-iphone-clones/
-permalink: /2007/03/23/i-look-forward-to-the-iphone-clones/
+permalink: /blog/2007/03/23/i-look-forward-to-the-iphone-clones/
 Post:
   - link
 categories:

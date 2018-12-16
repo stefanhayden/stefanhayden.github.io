@@ -5,7 +5,7 @@ date: 2008-08-23T16:11:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1113
-permalink: /2008/08/23/books-i-am-reading-has-username-password-login/
+permalink: /blog/2008/08/23/books-i-am-reading-has-username-password-login/
 Post:
   - link
 categories:

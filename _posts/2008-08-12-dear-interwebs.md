@@ -5,7 +5,7 @@ date: 2008-08-12T08:15:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1066
-permalink: /2008/08/12/dear-interwebs/
+permalink: /blog/2008/08/12/dear-interwebs/
 categories:
   - personal
 ---

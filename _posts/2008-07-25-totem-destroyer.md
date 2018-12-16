@@ -5,7 +5,7 @@ date: 2008-07-25T10:10:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=977
-permalink: /2008/07/25/totem-destroyer/
+permalink: /blog/2008/07/25/totem-destroyer/
 Post:
   - link
 categories:

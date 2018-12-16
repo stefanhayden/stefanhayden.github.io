@@ -5,7 +5,7 @@ date: 2007-04-01T09:25:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/01/i-want-to-keep-an-open-mind-but-this-new-gmail-feature-paper-archive-just-seems-ridiculous/
-permalink: /2007/04/01/i-want-to-keep-an-open-mind-but-this-new-gmail-feature-paper-archive-just-seems-ridiculous/
+permalink: /blog/2007/04/01/i-want-to-keep-an-open-mind-but-this-new-gmail-feature-paper-archive-just-seems-ridiculous/
 Post:
   - link
 categories:

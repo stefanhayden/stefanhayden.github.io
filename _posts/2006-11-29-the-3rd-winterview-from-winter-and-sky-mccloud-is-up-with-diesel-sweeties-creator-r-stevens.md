@@ -5,7 +5,7 @@ date: 2006-11-29T09:24:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/29/the-3rd-winterview-from-winter-and-sky-mccloud-is-up-with-diesel-sweeties-creator-r-stevens/
-permalink: /2006/11/29/the-3rd-winterview-from-winter-and-sky-mccloud-is-up-with-diesel-sweeties-creator-r-stevens/
+permalink: /blog/2006/11/29/the-3rd-winterview-from-winter-and-sky-mccloud-is-up-with-diesel-sweeties-creator-r-stevens/
 Post:
   - link
 categories:

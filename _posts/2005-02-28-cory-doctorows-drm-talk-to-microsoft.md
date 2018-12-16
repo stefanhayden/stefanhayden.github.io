@@ -5,7 +5,7 @@ date: 2005-02-28T23:29:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=5
-permalink: /2005/02/28/cory-doctorows-drm-talk-to-microsoft/
+permalink: /blog/2005/02/28/cory-doctorows-drm-talk-to-microsoft/
 categories:
   - Uncategorized
 ---

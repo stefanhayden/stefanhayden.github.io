@@ -5,7 +5,7 @@ date: 2008-04-13T12:21:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=842
-permalink: /2008/04/13/phillip-reeves-peditors-gold-wallpaper/
+permalink: /blog/2008/04/13/phillip-reeves-peditors-gold-wallpaper/
 Post:
   - link
 categories:

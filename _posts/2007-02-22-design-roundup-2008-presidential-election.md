@@ -5,7 +5,7 @@ date: 2007-02-22T23:28:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/22/design-roundup-2008-presidential-election/
-permalink: /2007/02/22/design-roundup-2008-presidential-election/
+permalink: /blog/2007/02/22/design-roundup-2008-presidential-election/
 categories:
   - design
   - web

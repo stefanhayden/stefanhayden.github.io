@@ -5,7 +5,7 @@ date: 2006-02-16T15:47:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/02/16/joss-whedon-vs-warren-ellis-in-funny-comment-flame-war/
-permalink: /2006/02/16/joss-whedon-vs-warren-ellis-in-funny-comment-flame-war/
+permalink: /blog/2006/02/16/joss-whedon-vs-warren-ellis-in-funny-comment-flame-war/
 categories:
   - personal
   - web

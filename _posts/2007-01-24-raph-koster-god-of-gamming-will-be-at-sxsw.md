@@ -5,7 +5,7 @@ date: 2007-01-24T10:28:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/24/raph-koster-god-of-gamming-will-be-at-sxsw/
-permalink: /2007/01/24/raph-koster-god-of-gamming-will-be-at-sxsw/
+permalink: /blog/2007/01/24/raph-koster-god-of-gamming-will-be-at-sxsw/
 Post:
   - link
 categories:

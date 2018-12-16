@@ -5,7 +5,7 @@ date: 2014-08-06T23:15:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1707
-permalink: /2014/08/06/the-machine-stops/
+permalink: /blog/2014/08/06/the-machine-stops/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2007-09-04T19:54:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/04/nothing-is-worse-as-a-designer-then-not-knowing-a-color/
-permalink: /2007/09/04/nothing-is-worse-as-a-designer-then-not-knowing-a-color/
+permalink: /blog/2007/09/04/nothing-is-worse-as-a-designer-then-not-knowing-a-color/
 Post:
   - link
 categories:

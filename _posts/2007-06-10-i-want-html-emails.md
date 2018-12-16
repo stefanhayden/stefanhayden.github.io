@@ -5,7 +5,7 @@ date: 2007-06-10T11:15:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/10/i-want-html-emails/
-permalink: /2007/06/10/i-want-html-emails/
+permalink: /blog/2007/06/10/i-want-html-emails/
 categories:
   - design
   - web

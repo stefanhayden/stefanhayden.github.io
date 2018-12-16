@@ -5,7 +5,7 @@ date: 2006-10-18T23:00:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/18/ie7-has-finally-been-pushed-out-go-download-it-now-or-wait-for-youre-auto-update-to-download-it-for-you/
-permalink: /2006/10/18/ie7-has-finally-been-pushed-out-go-download-it-now-or-wait-for-youre-auto-update-to-download-it-for-you/
+permalink: /blog/2006/10/18/ie7-has-finally-been-pushed-out-go-download-it-now-or-wait-for-youre-auto-update-to-download-it-for-you/
 Post:
   - link
 categories:

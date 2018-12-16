@@ -5,7 +5,7 @@ date: 2007-11-01T09:34:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/01/nanowrimo/
-permalink: /2007/11/01/nanowrimo/
+permalink: /blog/2007/11/01/nanowrimo/
 Post:
   - link
 categories:

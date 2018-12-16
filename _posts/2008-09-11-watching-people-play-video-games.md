@@ -5,7 +5,7 @@ date: 2008-09-11T15:04:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1161
-permalink: /2008/09/11/watching-people-play-video-games/
+permalink: /blog/2008/09/11/watching-people-play-video-games/
 Post:
   - post
 categories:

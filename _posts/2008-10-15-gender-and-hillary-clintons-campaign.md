@@ -5,7 +5,7 @@ date: 2008-10-15T09:38:08+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1278
-permalink: /2008/10/15/gender-and-hillary-clintons-campaign/
+permalink: /blog/2008/10/15/gender-and-hillary-clintons-campaign/
 categories:
   - video
 ---

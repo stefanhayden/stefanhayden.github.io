@@ -5,7 +5,7 @@ date: 2005-08-11T13:05:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/08/11/ask-jeeves/
-permalink: /2005/08/11/ask-jeeves/
+permalink: /blog/2005/08/11/ask-jeeves/
 categories:
   - personal
   - web

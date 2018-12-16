@@ -5,7 +5,7 @@ date: 2006-05-02T10:24:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/05/02/drupal-47-released/
-permalink: /2006/05/02/drupal-47-released/
+permalink: /blog/2006/05/02/drupal-47-released/
 categories:
   - design
   - resources

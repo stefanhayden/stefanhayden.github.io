@@ -5,7 +5,7 @@ date: 2008-04-14T14:31:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=843
-permalink: /2008/04/14/caricature-of-every-person-in-a-yearbook/
+permalink: /blog/2008/04/14/caricature-of-every-person-in-a-yearbook/
 Post:
   - link
 categories:

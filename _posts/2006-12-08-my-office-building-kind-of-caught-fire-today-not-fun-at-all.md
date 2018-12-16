@@ -5,7 +5,7 @@ date: 2006-12-08T19:58:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/08/my-office-building-kind-of-caught-fire-today-not-fun-at-all/
-permalink: /2006/12/08/my-office-building-kind-of-caught-fire-today-not-fun-at-all/
+permalink: /blog/2006/12/08/my-office-building-kind-of-caught-fire-today-not-fun-at-all/
 Post:
   - link
 categories:

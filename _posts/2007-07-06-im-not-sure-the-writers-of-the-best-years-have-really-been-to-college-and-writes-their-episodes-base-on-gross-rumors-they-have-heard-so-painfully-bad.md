@@ -5,7 +5,7 @@ date: 2007-07-06T20:33:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/06/im-not-sure-the-writers-of-the-best-years-have-really-been-to-college-and-writes-their-episodes-base-on-gross-rumors-they-have-heard-so-painfully-bad/
-permalink: /2007/07/06/im-not-sure-the-writers-of-the-best-years-have-really-been-to-college-and-writes-their-episodes-base-on-gross-rumors-they-have-heard-so-painfully-bad/
+permalink: /blog/2007/07/06/im-not-sure-the-writers-of-the-best-years-have-really-been-to-college-and-writes-their-episodes-base-on-gross-rumors-they-have-heard-so-painfully-bad/
 Post:
   - link
 categories:

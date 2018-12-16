@@ -5,7 +5,7 @@ date: 2008-01-10T14:11:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/10/short-political-speech/
-permalink: /2008/01/10/short-political-speech/
+permalink: /blog/2008/01/10/short-political-speech/
 categories:
   - personal
 ---

@@ -5,7 +5,7 @@ date: 2006-08-14T10:17:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/14/the-president-of-iran-has-just-started-a-blog/
-permalink: /2006/08/14/the-president-of-iran-has-just-started-a-blog/
+permalink: /blog/2006/08/14/the-president-of-iran-has-just-started-a-blog/
 Post:
   - link
 categories:

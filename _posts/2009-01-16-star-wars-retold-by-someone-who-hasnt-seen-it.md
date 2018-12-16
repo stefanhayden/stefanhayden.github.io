@@ -5,7 +5,7 @@ date: 2009-01-16T11:06:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1418
-permalink: /2009/01/16/star-wars-retold-by-someone-who-hasnt-seen-it/
+permalink: /blog/2009/01/16/star-wars-retold-by-someone-who-hasnt-seen-it/
 categories:
   - video
 ---

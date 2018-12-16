@@ -5,7 +5,7 @@ date: 2007-04-27T22:25:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/27/wow-suddenly-taxes-make-so-much-more-sense-its-sad-how-wrong-i-was-about-tax-brackets/
-permalink: /2007/04/27/wow-suddenly-taxes-make-so-much-more-sense-its-sad-how-wrong-i-was-about-tax-brackets/
+permalink: /blog/2007/04/27/wow-suddenly-taxes-make-so-much-more-sense-its-sad-how-wrong-i-was-about-tax-brackets/
 Post:
   - link
 categories:

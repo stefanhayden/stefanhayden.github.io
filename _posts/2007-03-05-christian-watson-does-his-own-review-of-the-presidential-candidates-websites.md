@@ -5,7 +5,7 @@ date: 2007-03-05T20:28:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/05/christian-watson-does-his-own-review-of-the-presidential-candidates-websites/
-permalink: /2007/03/05/christian-watson-does-his-own-review-of-the-presidential-candidates-websites/
+permalink: /blog/2007/03/05/christian-watson-does-his-own-review-of-the-presidential-candidates-websites/
 Post:
   - link
 categories:

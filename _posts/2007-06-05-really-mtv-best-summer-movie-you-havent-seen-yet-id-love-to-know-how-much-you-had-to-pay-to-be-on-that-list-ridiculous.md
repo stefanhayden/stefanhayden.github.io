@@ -5,7 +5,7 @@ date: 2007-06-05T19:42:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/05/really-mtv-best-summer-movie-you-havent-seen-yet-id-love-to-know-how-much-you-had-to-pay-to-be-on-that-list-ridiculous/
-permalink: /2007/06/05/really-mtv-best-summer-movie-you-havent-seen-yet-id-love-to-know-how-much-you-had-to-pay-to-be-on-that-list-ridiculous/
+permalink: /blog/2007/06/05/really-mtv-best-summer-movie-you-havent-seen-yet-id-love-to-know-how-much-you-had-to-pay-to-be-on-that-list-ridiculous/
 Post:
   - link
 categories:

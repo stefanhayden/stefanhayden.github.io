@@ -5,7 +5,7 @@ date: 2007-08-08T15:43:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/08/young-adults-arent-sticking-with-church/
-permalink: /2007/08/08/young-adults-arent-sticking-with-church/
+permalink: /blog/2007/08/08/young-adults-arent-sticking-with-church/
 Post:
   - link
 categories:

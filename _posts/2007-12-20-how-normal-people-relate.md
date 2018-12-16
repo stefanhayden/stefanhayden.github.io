@@ -5,7 +5,7 @@ date: 2007-12-20T16:11:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/20/how-normal-people-relate/
-permalink: /2007/12/20/how-normal-people-relate/
+permalink: /blog/2007/12/20/how-normal-people-relate/
 Post:
   - link
 openid_comments:

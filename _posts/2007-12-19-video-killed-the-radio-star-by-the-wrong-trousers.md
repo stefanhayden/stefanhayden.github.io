@@ -5,7 +5,7 @@ date: 2007-12-19T23:30:08+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/19/video-killed-the-radio-star-by-the-wrong-trousers/
-permalink: /2007/12/19/video-killed-the-radio-star-by-the-wrong-trousers/
+permalink: /blog/2007/12/19/video-killed-the-radio-star-by-the-wrong-trousers/
 categories:
   - video
 ---

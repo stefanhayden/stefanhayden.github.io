@@ -5,7 +5,7 @@ date: 2007-07-13T09:04:46+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/13/crazy-gymnastics/
-permalink: /2007/07/13/crazy-gymnastics/
+permalink: /blog/2007/07/13/crazy-gymnastics/
 categories:
   - video
 ---

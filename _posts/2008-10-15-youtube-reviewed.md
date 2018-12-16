@@ -5,7 +5,7 @@ date: 2008-10-15T20:13:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1280
-permalink: /2008/10/15/youtube-reviewed/
+permalink: /blog/2008/10/15/youtube-reviewed/
 Post:
   - link
 categories:

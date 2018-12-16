@@ -5,7 +5,7 @@ date: 2006-09-05T18:45:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/05/eric-pasternack-is-an-ass-and-his-future-employers-should-know/
-permalink: /2006/09/05/eric-pasternack-is-an-ass-and-his-future-employers-should-know/
+permalink: /blog/2006/09/05/eric-pasternack-is-an-ass-and-his-future-employers-should-know/
 categories:
   - personal
 ---

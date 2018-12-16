@@ -5,7 +5,7 @@ date: 2006-09-29T08:43:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/29/bloglines-has-updated-their-interface-in-the-left-panel-to-not-refresh-all-300-of-my-feeds-at-the-same-time/
-permalink: /2006/09/29/bloglines-has-updated-their-interface-in-the-left-panel-to-not-refresh-all-300-of-my-feeds-at-the-same-time/
+permalink: /blog/2006/09/29/bloglines-has-updated-their-interface-in-the-left-panel-to-not-refresh-all-300-of-my-feeds-at-the-same-time/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-09-28T22:19:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/28/googles-rss-reader-has-just-gotten-a-major-update-to-function-a-lot-more-like-a-standard-rss-reader/
-permalink: /2006/09/28/googles-rss-reader-has-just-gotten-a-major-update-to-function-a-lot-more-like-a-standard-rss-reader/
+permalink: /blog/2006/09/28/googles-rss-reader-has-just-gotten-a-major-update-to-function-a-lot-more-like-a-standard-rss-reader/
 Post:
   - link
 categories:

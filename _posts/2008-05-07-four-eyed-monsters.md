@@ -5,7 +5,7 @@ date: 2008-05-07T14:31:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=870
-permalink: /2008/05/07/four-eyed-monsters/
+permalink: /blog/2008/05/07/four-eyed-monsters/
 Post:
   - link
 categories:

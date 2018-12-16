@@ -5,7 +5,7 @@ date: 2008-07-01T11:35:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=923
-permalink: /2008/07/01/wine-basics/
+permalink: /blog/2008/07/01/wine-basics/
 categories:
   - video
 ---

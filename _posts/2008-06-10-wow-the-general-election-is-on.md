@@ -5,7 +5,7 @@ date: 2008-06-10T09:37:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=898
-permalink: /2008/06/10/wow-the-general-election-is-on/
+permalink: /blog/2008/06/10/wow-the-general-election-is-on/
 categories:
   - video
 ---

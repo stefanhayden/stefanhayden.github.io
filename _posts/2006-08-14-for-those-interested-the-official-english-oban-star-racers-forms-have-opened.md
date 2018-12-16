@@ -5,7 +5,7 @@ date: 2006-08-14T21:44:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/14/for-those-interested-the-official-english-oban-star-racers-forms-have-opened/
-permalink: /2006/08/14/for-those-interested-the-official-english-oban-star-racers-forms-have-opened/
+permalink: /blog/2006/08/14/for-those-interested-the-official-english-oban-star-racers-forms-have-opened/
 Post:
   - link
 categories:

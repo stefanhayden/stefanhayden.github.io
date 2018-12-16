@@ -5,7 +5,7 @@ date: 2008-07-22T11:54:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=957
-permalink: /2008/07/22/who-has-viewed-the-most-videos/
+permalink: /blog/2008/07/22/who-has-viewed-the-most-videos/
 categories:
   - review
   - web

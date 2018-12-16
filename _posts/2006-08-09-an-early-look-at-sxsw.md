@@ -5,7 +5,7 @@ date: 2006-08-09T20:01:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/09/an-early-look-at-sxsw/
-permalink: /2006/08/09/an-early-look-at-sxsw/
+permalink: /blog/2006/08/09/an-early-look-at-sxsw/
 categories:
   - design
   - web

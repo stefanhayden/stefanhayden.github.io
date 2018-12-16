@@ -5,7 +5,7 @@ date: 2006-10-13T22:39:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/13/guy-kawasaki-interviews-a-bunch-of-young-people-about-technology-habits/
-permalink: /2006/10/13/guy-kawasaki-interviews-a-bunch-of-young-people-about-technology-habits/
+permalink: /blog/2006/10/13/guy-kawasaki-interviews-a-bunch-of-young-people-about-technology-habits/
 Post:
   - link
 categories:

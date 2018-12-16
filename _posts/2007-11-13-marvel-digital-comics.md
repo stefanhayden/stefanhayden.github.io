@@ -5,7 +5,7 @@ date: 2007-11-13T10:43:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/13/marvel-digital-comics/
-permalink: /2007/11/13/marvel-digital-comics/
+permalink: /blog/2007/11/13/marvel-digital-comics/
 Post:
   - link
 categories:

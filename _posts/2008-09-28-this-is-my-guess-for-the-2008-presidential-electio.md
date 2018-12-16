@@ -5,7 +5,7 @@ date: 2008-09-28T20:14:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1213
-permalink: /2008/09/28/this-is-my-guess-for-the-2008-presidential-electio/
+permalink: /blog/2008/09/28/this-is-my-guess-for-the-2008-presidential-electio/
 categories:
   - personal
 ---

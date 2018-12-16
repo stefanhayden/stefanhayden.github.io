@@ -5,7 +5,7 @@ date: 2008-02-24T23:29:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/24/diablo-cody/
-permalink: /2008/02/24/diablo-cody/
+permalink: /blog/2008/02/24/diablo-cody/
 Post:
   - link
 categories:

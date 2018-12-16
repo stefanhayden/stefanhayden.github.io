@@ -5,7 +5,7 @@ date: 2007-03-22T09:26:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/22/stop-telling-me-virb-is-so-great/
-permalink: /2007/03/22/stop-telling-me-virb-is-so-great/
+permalink: /blog/2007/03/22/stop-telling-me-virb-is-so-great/
 categories:
   - web
 ---

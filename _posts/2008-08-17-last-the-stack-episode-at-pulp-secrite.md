@@ -5,7 +5,7 @@ date: 2008-08-17T11:14:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1094
-permalink: /2008/08/17/last-the-stack-episode-at-pulp-secrite/
+permalink: /blog/2008/08/17/last-the-stack-episode-at-pulp-secrite/
 categories:
   - video
 ---

@@ -5,7 +5,7 @@ date: 2007-06-30T23:34:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/30/i-dont-want-to-see-license-to-wed-its-just-i-have-have-a-total-crush-on-mandy-moore-and-john-krasinski/
-permalink: /2007/06/30/i-dont-want-to-see-license-to-wed-its-just-i-have-have-a-total-crush-on-mandy-moore-and-john-krasinski/
+permalink: /blog/2007/06/30/i-dont-want-to-see-license-to-wed-its-just-i-have-have-a-total-crush-on-mandy-moore-and-john-krasinski/
 Post:
   - link
 categories:

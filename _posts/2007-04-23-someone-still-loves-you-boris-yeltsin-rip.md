@@ -5,7 +5,7 @@ date: 2007-04-23T23:21:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/23/someone-still-loves-you-boris-yeltsin-rip/
-permalink: /2007/04/23/someone-still-loves-you-boris-yeltsin-rip/
+permalink: /blog/2007/04/23/someone-still-loves-you-boris-yeltsin-rip/
 Post:
   - link
 categories:

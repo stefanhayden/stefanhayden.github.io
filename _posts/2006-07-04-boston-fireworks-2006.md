@@ -5,7 +5,7 @@ date: 2006-07-04T22:25:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/04/boston-fireworks-2006/
-permalink: /2006/07/04/boston-fireworks-2006/
+permalink: /blog/2006/07/04/boston-fireworks-2006/
 categories:
   - personal
 ---

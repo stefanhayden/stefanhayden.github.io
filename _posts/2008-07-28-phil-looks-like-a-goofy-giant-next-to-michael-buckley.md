@@ -5,7 +5,7 @@ date: 2008-07-28T21:24:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=990
-permalink: /2008/07/28/phil-looks-like-a-goofy-giant-next-to-michael-buckley/
+permalink: /blog/2008/07/28/phil-looks-like-a-goofy-giant-next-to-michael-buckley/
 Post:
   - link
 categories:

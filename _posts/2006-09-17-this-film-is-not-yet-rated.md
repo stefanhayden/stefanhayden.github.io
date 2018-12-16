@@ -5,7 +5,7 @@ date: 2006-09-17T20:08:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/17/this-film-is-not-yet-rated/
-permalink: /2006/09/17/this-film-is-not-yet-rated/
+permalink: /blog/2006/09/17/this-film-is-not-yet-rated/
 Post:
   - link
 categories:

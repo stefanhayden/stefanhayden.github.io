@@ -5,7 +5,7 @@ date: 2008-02-21T14:21:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/21/danah-boyd/
-permalink: /2008/02/21/danah-boyd/
+permalink: /blog/2008/02/21/danah-boyd/
 Post:
   - link
 categories:

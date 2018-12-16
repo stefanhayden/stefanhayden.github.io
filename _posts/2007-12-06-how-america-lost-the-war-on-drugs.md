@@ -5,7 +5,7 @@ date: 2007-12-06T12:31:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/06/how-america-lost-the-war-on-drugs/
-permalink: /2007/12/06/how-america-lost-the-war-on-drugs/
+permalink: /blog/2007/12/06/how-america-lost-the-war-on-drugs/
 Post:
   - link
 categories:

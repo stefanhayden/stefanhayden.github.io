@@ -5,7 +5,7 @@ date: 2008-03-29T15:10:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=825
-permalink: /2008/03/29/the-spitzer-scandal-explained-by-3-year-old/
+permalink: /blog/2008/03/29/the-spitzer-scandal-explained-by-3-year-old/
 categories:
   - video
 ---

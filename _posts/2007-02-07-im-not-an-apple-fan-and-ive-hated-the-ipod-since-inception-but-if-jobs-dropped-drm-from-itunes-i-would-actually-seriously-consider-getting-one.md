@@ -5,7 +5,7 @@ date: 2007-02-07T21:22:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/07/im-not-an-apple-fan-and-ive-hated-the-ipod-since-inception-but-if-jobs-dropped-drm-from-itunes-i-would-actually-seriously-consider-getting-one/
-permalink: /2007/02/07/im-not-an-apple-fan-and-ive-hated-the-ipod-since-inception-but-if-jobs-dropped-drm-from-itunes-i-would-actually-seriously-consider-getting-one/
+permalink: /blog/2007/02/07/im-not-an-apple-fan-and-ive-hated-the-ipod-since-inception-but-if-jobs-dropped-drm-from-itunes-i-would-actually-seriously-consider-getting-one/
 Post:
   - link
 categories:

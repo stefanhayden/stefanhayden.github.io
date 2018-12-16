@@ -5,7 +5,7 @@ date: 2006-02-23T11:15:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/02/23/i-hate-akismet/
-permalink: /2006/02/23/i-hate-akismet/
+permalink: /blog/2006/02/23/i-hate-akismet/
 categories:
   - blog
 ---

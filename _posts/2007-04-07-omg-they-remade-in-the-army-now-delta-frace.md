@@ -5,7 +5,7 @@ date: 2007-04-07T16:57:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/07/omg-they-remade-in-the-army-now-delta-frace/
-permalink: /2007/04/07/omg-they-remade-in-the-army-now-delta-frace/
+permalink: /blog/2007/04/07/omg-they-remade-in-the-army-now-delta-frace/
 Post:
   - link
 categories:

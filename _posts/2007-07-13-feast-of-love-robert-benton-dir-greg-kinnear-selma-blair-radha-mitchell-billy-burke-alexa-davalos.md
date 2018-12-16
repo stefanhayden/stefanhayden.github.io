@@ -5,7 +5,7 @@ date: 2007-07-13T21:45:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/13/feast-of-love-robert-benton-dir-greg-kinnear-selma-blair-radha-mitchell-billy-burke-alexa-davalos/
-permalink: /2007/07/13/feast-of-love-robert-benton-dir-greg-kinnear-selma-blair-radha-mitchell-billy-burke-alexa-davalos/
+permalink: /blog/2007/07/13/feast-of-love-robert-benton-dir-greg-kinnear-selma-blair-radha-mitchell-billy-burke-alexa-davalos/
 Post:
   - link
 categories:

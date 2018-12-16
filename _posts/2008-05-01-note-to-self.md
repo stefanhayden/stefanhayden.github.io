@@ -5,7 +5,7 @@ date: 2008-05-01T12:08:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=863
-permalink: /2008/05/01/note-to-self/
+permalink: /blog/2008/05/01/note-to-self/
 Post:
   - link
 categories:

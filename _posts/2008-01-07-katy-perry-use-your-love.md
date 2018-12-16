@@ -5,7 +5,7 @@ date: 2008-01-07T22:05:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/07/katy-perry-use-your-love/
-permalink: /2008/01/07/katy-perry-use-your-love/
+permalink: /blog/2008/01/07/katy-perry-use-your-love/
 Post:
   - link
 categories:

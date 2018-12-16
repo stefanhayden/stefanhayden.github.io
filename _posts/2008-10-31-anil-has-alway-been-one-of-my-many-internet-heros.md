@@ -5,7 +5,7 @@ date: 2008-10-31T08:58:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1326
-permalink: /2008/10/31/anil-has-alway-been-one-of-my-many-internet-heros/
+permalink: /blog/2008/10/31/anil-has-alway-been-one-of-my-many-internet-heros/
 Post:
   - link
 categories:

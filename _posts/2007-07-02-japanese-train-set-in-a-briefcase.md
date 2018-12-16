@@ -5,7 +5,7 @@ date: 2007-07-02T15:13:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/02/japanese-train-set-in-a-briefcase/
-permalink: /2007/07/02/japanese-train-set-in-a-briefcase/
+permalink: /blog/2007/07/02/japanese-train-set-in-a-briefcase/
 categories:
   - video
 ---

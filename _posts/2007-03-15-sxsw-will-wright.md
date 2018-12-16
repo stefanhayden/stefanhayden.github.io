@@ -5,7 +5,7 @@ date: 2007-03-15T11:18:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/15/sxsw-will-wright/
-permalink: /2007/03/15/sxsw-will-wright/
+permalink: /blog/2007/03/15/sxsw-will-wright/
 categories:
   - personal
 ---

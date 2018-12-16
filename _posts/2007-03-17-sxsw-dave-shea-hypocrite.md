@@ -5,7 +5,7 @@ date: 2007-03-17T18:02:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/17/sxsw-dave-shea-hypocrite/
-permalink: /2007/03/17/sxsw-dave-shea-hypocrite/
+permalink: /blog/2007/03/17/sxsw-dave-shea-hypocrite/
 categories:
   - books
   - web

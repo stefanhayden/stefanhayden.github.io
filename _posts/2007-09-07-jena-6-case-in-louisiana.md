@@ -5,7 +5,7 @@ date: 2007-09-07T09:10:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/07/jena-6-case-in-louisiana/
-permalink: /2007/09/07/jena-6-case-in-louisiana/
+permalink: /blog/2007/09/07/jena-6-case-in-louisiana/
 categories:
   - video
 ---

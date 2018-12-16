@@ -5,7 +5,7 @@ date: 2007-06-21T12:07:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/21/iphone-a-web-design-console/
-permalink: /2007/06/21/iphone-a-web-design-console/
+permalink: /blog/2007/06/21/iphone-a-web-design-console/
 categories:
   - design
   - web

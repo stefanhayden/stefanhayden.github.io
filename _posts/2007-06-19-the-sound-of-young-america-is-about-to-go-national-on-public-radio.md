@@ -5,7 +5,7 @@ date: 2007-06-19T08:59:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/19/the-sound-of-young-america-is-about-to-go-national-on-public-radio/
-permalink: /2007/06/19/the-sound-of-young-america-is-about-to-go-national-on-public-radio/
+permalink: /blog/2007/06/19/the-sound-of-young-america-is-about-to-go-national-on-public-radio/
 Post:
   - link
 categories:

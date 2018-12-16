@@ -5,7 +5,7 @@ date: 2007-02-27T15:04:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/27/the-college-of-new-jerseys-radio-station-wtsr-is-about-to-start-webcasting/
-permalink: /2007/02/27/the-college-of-new-jerseys-radio-station-wtsr-is-about-to-start-webcasting/
+permalink: /blog/2007/02/27/the-college-of-new-jerseys-radio-station-wtsr-is-about-to-start-webcasting/
 Post:
   - link
 categories:

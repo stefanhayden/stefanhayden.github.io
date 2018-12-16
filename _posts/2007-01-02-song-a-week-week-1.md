@@ -5,7 +5,7 @@ date: 2007-01-02T23:21:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/02/song-a-week-week-1/
-permalink: /2007/01/02/song-a-week-week-1/
+permalink: /blog/2007/01/02/song-a-week-week-1/
 enclosure:
   - |
     http://www.stefanhayden.com/mp3/werefrombarcelona.mp3

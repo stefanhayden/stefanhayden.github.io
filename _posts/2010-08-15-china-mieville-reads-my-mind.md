@@ -5,7 +5,7 @@ date: 2010-08-15T16:26:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1571
-permalink: /2010/08/15/china-mieville-reads-my-mind/
+permalink: /blog/2010/08/15/china-mieville-reads-my-mind/
 categories:
   - Uncategorized
 ---

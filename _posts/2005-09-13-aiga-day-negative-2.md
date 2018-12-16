@@ -5,7 +5,7 @@ date: 2005-09-13T21:47:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/09/13/aiga-day-negative-2/
-permalink: /2005/09/13/aiga-day-negative-2/
+permalink: /blog/2005/09/13/aiga-day-negative-2/
 categories:
   - design
 ---

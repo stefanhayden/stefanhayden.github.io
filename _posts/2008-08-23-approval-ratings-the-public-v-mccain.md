@@ -5,7 +5,7 @@ date: 2008-08-23T23:23:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1117
-permalink: /2008/08/23/approval-ratings-the-public-v-mccain/
+permalink: /blog/2008/08/23/approval-ratings-the-public-v-mccain/
 categories:
   - video
 ---

@@ -5,7 +5,7 @@ date: 2007-07-12T10:35:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/12/harry-potter-and-the-order-of-the-phoenix-is-probably-the-best-movie-of-the-bunch/
-permalink: /2007/07/12/harry-potter-and-the-order-of-the-phoenix-is-probably-the-best-movie-of-the-bunch/
+permalink: /blog/2007/07/12/harry-potter-and-the-order-of-the-phoenix-is-probably-the-best-movie-of-the-bunch/
 Post:
   - link
 categories:

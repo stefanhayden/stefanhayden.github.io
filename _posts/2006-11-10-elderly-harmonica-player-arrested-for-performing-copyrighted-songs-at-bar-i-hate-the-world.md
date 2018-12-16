@@ -5,7 +5,7 @@ date: 2006-11-10T23:04:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/10/elderly-harmonica-player-arrested-for-performing-copyrighted-songs-at-bar-i-hate-the-world/
-permalink: /2006/11/10/elderly-harmonica-player-arrested-for-performing-copyrighted-songs-at-bar-i-hate-the-world/
+permalink: /blog/2006/11/10/elderly-harmonica-player-arrested-for-performing-copyrighted-songs-at-bar-i-hate-the-world/
 Post:
   - link
 categories:

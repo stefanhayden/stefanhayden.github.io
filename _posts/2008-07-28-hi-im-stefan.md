@@ -5,7 +5,7 @@ date: 2008-07-28T16:41:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=987
-permalink: /2008/07/28/hi-im-stefan/
+permalink: /blog/2008/07/28/hi-im-stefan/
 categories:
   - video
   - web

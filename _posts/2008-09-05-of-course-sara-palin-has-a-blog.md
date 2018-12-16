@@ -5,7 +5,7 @@ date: 2008-09-05T22:54:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1150
-permalink: /2008/09/05/of-course-sara-palin-has-a-blog/
+permalink: /blog/2008/09/05/of-course-sara-palin-has-a-blog/
 Post:
   - link
 categories:

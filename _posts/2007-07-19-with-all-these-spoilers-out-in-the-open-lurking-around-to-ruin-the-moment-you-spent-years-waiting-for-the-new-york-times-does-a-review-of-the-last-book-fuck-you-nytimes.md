@@ -5,7 +5,7 @@ date: 2007-07-19T16:58:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/19/with-all-these-spoilers-out-in-the-open-lurking-around-to-ruin-the-moment-you-spent-years-waiting-for-the-new-york-times-does-a-review-of-the-last-book-fuck-you-nytimes/
-permalink: /2007/07/19/with-all-these-spoilers-out-in-the-open-lurking-around-to-ruin-the-moment-you-spent-years-waiting-for-the-new-york-times-does-a-review-of-the-last-book-fuck-you-nytimes/
+permalink: /blog/2007/07/19/with-all-these-spoilers-out-in-the-open-lurking-around-to-ruin-the-moment-you-spent-years-waiting-for-the-new-york-times-does-a-review-of-the-last-book-fuck-you-nytimes/
 Post:
   - link
 categories:

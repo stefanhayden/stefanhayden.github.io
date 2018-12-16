@@ -5,7 +5,7 @@ date: 2008-08-12T19:48:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1072
-permalink: /2008/08/12/books-i-am-reading-hits-1000-members/
+permalink: /blog/2008/08/12/books-i-am-reading-hits-1000-members/
 categories:
   - design
   - personal

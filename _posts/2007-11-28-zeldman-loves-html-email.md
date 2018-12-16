@@ -5,7 +5,7 @@ date: 2007-11-28T19:13:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/28/zeldman-loves-html-email/
-permalink: /2007/11/28/zeldman-loves-html-email/
+permalink: /blog/2007/11/28/zeldman-loves-html-email/
 categories:
   - design
 ---

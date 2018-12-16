@@ -5,7 +5,7 @@ date: 2006-03-27T21:20:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/27/why-joan-of-arcadia-was-canceled/
-permalink: /2006/03/27/why-joan-of-arcadia-was-canceled/
+permalink: /blog/2006/03/27/why-joan-of-arcadia-was-canceled/
 categories:
   - blog
   - personal

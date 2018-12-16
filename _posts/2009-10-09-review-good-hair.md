@@ -5,7 +5,7 @@ date: 2009-10-09T23:45:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1482
-permalink: /2009/10/09/review-good-hair/
+permalink: /blog/2009/10/09/review-good-hair/
 categories:
   - review
 ---

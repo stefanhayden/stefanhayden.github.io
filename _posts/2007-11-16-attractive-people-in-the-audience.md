@@ -5,7 +5,7 @@ date: 2007-11-16T13:49:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/16/attractive-people-in-the-audience/
-permalink: /2007/11/16/attractive-people-in-the-audience/
+permalink: /blog/2007/11/16/attractive-people-in-the-audience/
 Post:
   - link
 categories:

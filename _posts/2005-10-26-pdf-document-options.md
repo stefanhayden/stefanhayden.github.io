@@ -5,7 +5,7 @@ date: 2005-10-26T10:43:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=73
-permalink: /2005/10/26/pdf-document-options/
+permalink: /blog/2005/10/26/pdf-document-options/
 categories:
   - design
   - personal

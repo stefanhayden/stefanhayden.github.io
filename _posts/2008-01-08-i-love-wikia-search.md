@@ -5,7 +5,7 @@ date: 2008-01-08T00:40:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/08/i-love-wikia-search/
-permalink: /2008/01/08/i-love-wikia-search/
+permalink: /blog/2008/01/08/i-love-wikia-search/
 categories:
   - web
 ---

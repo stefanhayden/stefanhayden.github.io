@@ -5,7 +5,7 @@ date: 2008-04-09T21:06:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=838
-permalink: /2008/04/09/mario-kart-wii/
+permalink: /blog/2008/04/09/mario-kart-wii/
 Post:
   - link
 categories:

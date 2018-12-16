@@ -5,7 +5,7 @@ date: 2008-04-07T09:18:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=835
-permalink: /2008/04/07/little-brother-review/
+permalink: /blog/2008/04/07/little-brother-review/
 categories:
   - books
   - review

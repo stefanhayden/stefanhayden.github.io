@@ -5,7 +5,7 @@ date: 2008-02-04T20:11:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/04/lawence-lessig-says-it-best/
-permalink: /2008/02/04/lawence-lessig-says-it-best/
+permalink: /blog/2008/02/04/lawence-lessig-says-it-best/
 categories:
   - video
 ---

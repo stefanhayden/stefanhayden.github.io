@@ -5,7 +5,7 @@ date: 2008-05-28T17:27:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=883
-permalink: /2008/05/28/everyone-was-awesome-rise-of-group-youtube-channels/
+permalink: /blog/2008/05/28/everyone-was-awesome-rise-of-group-youtube-channels/
 categories:
   - review
   - video

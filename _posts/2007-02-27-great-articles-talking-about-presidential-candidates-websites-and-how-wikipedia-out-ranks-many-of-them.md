@@ -5,7 +5,7 @@ date: 2007-02-27T11:20:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/27/great-articles-talking-about-presidential-candidates-websites-and-how-wikipedia-out-ranks-many-of-them/
-permalink: /2007/02/27/great-articles-talking-about-presidential-candidates-websites-and-how-wikipedia-out-ranks-many-of-them/
+permalink: /blog/2007/02/27/great-articles-talking-about-presidential-candidates-websites-and-how-wikipedia-out-ranks-many-of-them/
 Post:
   - link
 categories:

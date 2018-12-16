@@ -5,7 +5,7 @@ date: 2012-12-28T11:51:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1657
-permalink: /2012/12/28/jquery-backstretch-slideshow/
+permalink: /blog/2012/12/28/jquery-backstretch-slideshow/
 categories:
   - Uncategorized
 ---

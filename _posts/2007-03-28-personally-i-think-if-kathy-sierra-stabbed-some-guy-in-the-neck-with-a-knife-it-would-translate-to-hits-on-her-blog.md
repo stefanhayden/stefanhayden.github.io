@@ -5,7 +5,7 @@ date: 2007-03-28T14:10:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/28/personally-i-think-if-kathy-sierra-stabbed-some-guy-in-the-neck-with-a-knife-it-would-translate-to-hits-on-her-blog/
-permalink: /2007/03/28/personally-i-think-if-kathy-sierra-stabbed-some-guy-in-the-neck-with-a-knife-it-would-translate-to-hits-on-her-blog/
+permalink: /blog/2007/03/28/personally-i-think-if-kathy-sierra-stabbed-some-guy-in-the-neck-with-a-knife-it-would-translate-to-hits-on-her-blog/
 Post:
   - link
 categories:

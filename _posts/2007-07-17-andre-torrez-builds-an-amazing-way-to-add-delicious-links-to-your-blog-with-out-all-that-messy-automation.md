@@ -5,7 +5,7 @@ date: 2007-07-17T10:50:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/17/andre-torrez-builds-an-amazing-way-to-add-delicious-links-to-your-blog-with-out-all-that-messy-automation/
-permalink: /2007/07/17/andre-torrez-builds-an-amazing-way-to-add-delicious-links-to-your-blog-with-out-all-that-messy-automation/
+permalink: /blog/2007/07/17/andre-torrez-builds-an-amazing-way-to-add-delicious-links-to-your-blog-with-out-all-that-messy-automation/
 Post:
   - link
 categories:

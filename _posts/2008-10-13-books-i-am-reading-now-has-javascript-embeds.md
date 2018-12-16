@@ -5,7 +5,7 @@ date: 2008-10-13T11:58:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1257
-permalink: /2008/10/13/books-i-am-reading-now-has-javascript-embeds/
+permalink: /blog/2008/10/13/books-i-am-reading-now-has-javascript-embeds/
 categories:
   - Books I Am Reading
 ---

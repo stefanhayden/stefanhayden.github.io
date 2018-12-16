@@ -5,7 +5,7 @@ date: 2006-09-25T11:47:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/25/a-white-knight-story-working-title-looks-awesome/
-permalink: /2006/09/25/a-white-knight-story-working-title-looks-awesome/
+permalink: /blog/2006/09/25/a-white-knight-story-working-title-looks-awesome/
 Post:
   - link
 enclosure:

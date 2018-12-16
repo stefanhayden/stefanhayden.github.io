@@ -5,7 +5,7 @@ date: 2008-09-12T08:41:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1164
-permalink: /2008/09/12/the-large-hadron-collider-lhc/
+permalink: /blog/2008/09/12/the-large-hadron-collider-lhc/
 openid_comments:
   - 'a:1:{i:0;i:49549;}'
 categories:

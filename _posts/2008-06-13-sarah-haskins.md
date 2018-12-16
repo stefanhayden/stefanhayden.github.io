@@ -5,7 +5,7 @@ date: 2008-06-13T19:48:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=903
-permalink: /2008/06/13/sarah-haskins/
+permalink: /blog/2008/06/13/sarah-haskins/
 Post:
   - link
 categories:

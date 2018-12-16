@@ -5,7 +5,7 @@ date: 2007-09-12T12:13:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/12/buzzfeed-has-a-great-list-of-links-to-all-the-videos-in-the-internet-people-video/
-permalink: /2007/09/12/buzzfeed-has-a-great-list-of-links-to-all-the-videos-in-the-internet-people-video/
+permalink: /blog/2007/09/12/buzzfeed-has-a-great-list-of-links-to-all-the-videos-in-the-internet-people-video/
 Post:
   - link
 categories:

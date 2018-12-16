@@ -5,7 +5,7 @@ date: 2006-09-19T20:25:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/19/kevin-airgids-book-web-designers-success-guide-is-now-a-free-pdf/
-permalink: /2006/09/19/kevin-airgids-book-web-designers-success-guide-is-now-a-free-pdf/
+permalink: /blog/2006/09/19/kevin-airgids-book-web-designers-success-guide-is-now-a-free-pdf/
 Post:
   - link
 categories:

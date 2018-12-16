@@ -5,7 +5,7 @@ date: 2008-10-01T10:50:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1226
-permalink: /2008/10/01/what-should-be-the-punishment-for-abortion/
+permalink: /blog/2008/10/01/what-should-be-the-punishment-for-abortion/
 categories:
   - video
 ---

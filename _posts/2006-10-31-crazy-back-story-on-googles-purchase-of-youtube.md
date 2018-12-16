@@ -5,7 +5,7 @@ date: 2006-10-31T14:36:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/31/crazy-back-story-on-googles-purchase-of-youtube/
-permalink: /2006/10/31/crazy-back-story-on-googles-purchase-of-youtube/
+permalink: /blog/2006/10/31/crazy-back-story-on-googles-purchase-of-youtube/
 Post:
   - link
 categories:

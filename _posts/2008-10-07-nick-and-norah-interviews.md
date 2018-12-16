@@ -5,7 +5,7 @@ date: 2008-10-07T12:01:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1233
-permalink: /2008/10/07/nick-and-norah-interviews/
+permalink: /blog/2008/10/07/nick-and-norah-interviews/
 categories:
   - video
 ---

@@ -5,7 +5,7 @@ date: 2008-01-23T12:21:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/23/the-difference-between-plot-and-narrative/
-permalink: /2008/01/23/the-difference-between-plot-and-narrative/
+permalink: /blog/2008/01/23/the-difference-between-plot-and-narrative/
 Post:
   - link
 categories:

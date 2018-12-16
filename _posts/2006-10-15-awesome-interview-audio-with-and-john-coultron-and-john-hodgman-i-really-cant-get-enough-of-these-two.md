@@ -5,7 +5,7 @@ date: 2006-10-15T21:58:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/15/awesome-interview-audio-with-and-john-coultron-and-john-hodgman-i-really-cant-get-enough-of-these-two/
-permalink: /2006/10/15/awesome-interview-audio-with-and-john-coultron-and-john-hodgman-i-really-cant-get-enough-of-these-two/
+permalink: /blog/2006/10/15/awesome-interview-audio-with-and-john-coultron-and-john-hodgman-i-really-cant-get-enough-of-these-two/
 Post:
   - link
 categories:

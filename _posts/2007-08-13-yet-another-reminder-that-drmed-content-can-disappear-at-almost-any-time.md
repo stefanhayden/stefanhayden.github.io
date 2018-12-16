@@ -5,7 +5,7 @@ date: 2007-08-13T09:13:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/13/yet-another-reminder-that-drmed-content-can-disappear-at-almost-any-time/
-permalink: /2007/08/13/yet-another-reminder-that-drmed-content-can-disappear-at-almost-any-time/
+permalink: /blog/2007/08/13/yet-another-reminder-that-drmed-content-can-disappear-at-almost-any-time/
 Post:
   - link
 categories:

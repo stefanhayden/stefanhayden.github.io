@@ -5,7 +5,7 @@ date: 2008-09-10T12:48:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1154
-permalink: /2008/09/10/flugpo-got-some-awesome-coverage-on-some-canadia-news-paper-which-then-got-alot-of-coverage-on-digg/
+permalink: /blog/2008/09/10/flugpo-got-some-awesome-coverage-on-some-canadia-news-paper-which-then-got-alot-of-coverage-on-digg/
 Post:
   - link
 categories:

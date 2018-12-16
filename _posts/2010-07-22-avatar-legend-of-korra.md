@@ -5,7 +5,7 @@ date: 2010-07-22T13:51:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1558
-permalink: /2010/07/22/avatar-legend-of-korra/
+permalink: /blog/2010/07/22/avatar-legend-of-korra/
 categories:
   - Uncategorized
 ---

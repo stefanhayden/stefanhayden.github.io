@@ -5,7 +5,7 @@ date: 2005-03-02T06:54:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=6
-permalink: /2005/03/02/paul-rand-is-an-asshole/
+permalink: /blog/2005/03/02/paul-rand-is-an-asshole/
 categories:
   - design
   - personal

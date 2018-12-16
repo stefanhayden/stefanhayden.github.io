@@ -5,7 +5,7 @@ date: 2010-08-04T15:12:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1567
-permalink: /2010/08/04/exclude-svn-files-from-grep/
+permalink: /blog/2010/08/04/exclude-svn-files-from-grep/
 categories:
   - Uncategorized
 ---

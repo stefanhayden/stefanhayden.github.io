@@ -5,7 +5,7 @@ date: 2007-06-09T23:45:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/09/ted-movie-is-disapointing/
-permalink: /2007/06/09/ted-movie-is-disapointing/
+permalink: /blog/2007/06/09/ted-movie-is-disapointing/
 categories:
   - review
 ---

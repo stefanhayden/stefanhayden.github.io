@@ -5,7 +5,7 @@ date: 2008-07-17T18:59:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=949
-permalink: /2008/07/17/fog-creek-for-an-awesome-open-house/
+permalink: /blog/2008/07/17/fog-creek-for-an-awesome-open-house/
 Post:
   - link
 categories:

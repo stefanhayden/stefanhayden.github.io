@@ -5,7 +5,7 @@ date: 2007-07-26T14:59:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/26/current-tabs-i-have-open/
-permalink: /2007/07/26/current-tabs-i-have-open/
+permalink: /blog/2007/07/26/current-tabs-i-have-open/
 categories:
   - personal
 ---

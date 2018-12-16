@@ -5,7 +5,7 @@ date: 2010-01-18T11:36:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1487
-permalink: /2010/01/18/how-many-videos-have-i-watched-on-youtube/
+permalink: /blog/2010/01/18/how-many-videos-have-i-watched-on-youtube/
 categories:
   - web
 ---

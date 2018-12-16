@@ -5,7 +5,7 @@ date: 2007-06-17T15:26:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/17/ive-been-working-on-a-site-to-post-to-twitter-in-pirate-speak-called-post-like-a-pirate/
-permalink: /2007/06/17/ive-been-working-on-a-site-to-post-to-twitter-in-pirate-speak-called-post-like-a-pirate/
+permalink: /blog/2007/06/17/ive-been-working-on-a-site-to-post-to-twitter-in-pirate-speak-called-post-like-a-pirate/
 Post:
   - link
 categories:

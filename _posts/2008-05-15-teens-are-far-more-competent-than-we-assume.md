@@ -5,7 +5,7 @@ date: 2008-05-15T21:24:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=875
-permalink: /2008/05/15/teens-are-far-more-competent-than-we-assume/
+permalink: /blog/2008/05/15/teens-are-far-more-competent-than-we-assume/
 Post:
   - link
 categories:

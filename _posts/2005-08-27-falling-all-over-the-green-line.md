@@ -5,7 +5,7 @@ date: 2005-08-27T10:55:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/08/27/falling-all-over-the-green-line/
-permalink: /2005/08/27/falling-all-over-the-green-line/
+permalink: /blog/2005/08/27/falling-all-over-the-green-line/
 categories:
   - personal
 ---

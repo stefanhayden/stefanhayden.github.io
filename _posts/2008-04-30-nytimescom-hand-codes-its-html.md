@@ -5,7 +5,7 @@ date: 2008-04-30T09:11:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=860
-permalink: /2008/04/30/nytimescom-hand-codes-its-html/
+permalink: /blog/2008/04/30/nytimescom-hand-codes-its-html/
 Post:
   - link
 categories:

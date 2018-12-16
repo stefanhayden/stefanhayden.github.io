@@ -5,7 +5,7 @@ date: 2008-06-11T13:46:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=901
-permalink: /2008/06/11/novelization-of-cory-doctorows-short-story-andas-game/
+permalink: /blog/2008/06/11/novelization-of-cory-doctorows-short-story-andas-game/
 Post:
   - link
 categories:

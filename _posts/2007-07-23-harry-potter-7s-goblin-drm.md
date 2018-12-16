@@ -5,7 +5,7 @@ date: 2007-07-23T21:40:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/23/harry-potter-7s-goblin-drm/
-permalink: /2007/07/23/harry-potter-7s-goblin-drm/
+permalink: /blog/2007/07/23/harry-potter-7s-goblin-drm/
 categories:
   - books
 ---

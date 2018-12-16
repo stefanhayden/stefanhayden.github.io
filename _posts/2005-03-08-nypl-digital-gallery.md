@@ -5,7 +5,7 @@ date: 2005-03-08T09:36:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=8
-permalink: /2005/03/08/nypl-digital-gallery/
+permalink: /blog/2005/03/08/nypl-digital-gallery/
 categories:
   - resources
 ---

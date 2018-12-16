@@ -5,7 +5,7 @@ date: 2008-05-16T10:18:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=876
-permalink: /2008/05/16/tethered-data-not-really-portable/
+permalink: /blog/2008/05/16/tethered-data-not-really-portable/
 categories:
   - web
 ---

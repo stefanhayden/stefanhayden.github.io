@@ -5,7 +5,7 @@ date: 2012-02-11T12:49:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1633
-permalink: /2012/02/11/new-computer-from-ibuypower/
+permalink: /blog/2012/02/11/new-computer-from-ibuypower/
 categories:
   - Uncategorized
 ---

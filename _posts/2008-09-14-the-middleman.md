@@ -5,7 +5,7 @@ date: 2008-09-14T00:20:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1173
-permalink: /2008/09/14/the-middleman/
+permalink: /blog/2008/09/14/the-middleman/
 categories:
   - tv
   - video

@@ -5,7 +5,7 @@ date: 2008-08-13T14:03:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1078
-permalink: /2008/08/13/star-trek-online/
+permalink: /blog/2008/08/13/star-trek-online/
 categories:
   - web
 ---

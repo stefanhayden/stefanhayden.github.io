@@ -5,7 +5,7 @@ date: 2008-10-31T11:08:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1328
-permalink: /2008/10/31/this-is-probably-where-jim-and-pam-should-have-tried-to-meet-between-nyc-and-scranton-pa/
+permalink: /blog/2008/10/31/this-is-probably-where-jim-and-pam-should-have-tried-to-meet-between-nyc-and-scranton-pa/
 Post:
   - link
 categories:

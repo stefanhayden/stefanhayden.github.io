@@ -5,7 +5,7 @@ date: 2008-06-14T11:22:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=904
-permalink: /2008/06/14/tax-cuts-obama-vs-mccain/
+permalink: /blog/2008/06/14/tax-cuts-obama-vs-mccain/
 categories:
   - politics
 ---

@@ -5,7 +5,7 @@ date: 2007-09-02T23:28:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/02/remove-vocals-from-mp3s-using-audacity/
-permalink: /2007/09/02/remove-vocals-from-mp3s-using-audacity/
+permalink: /blog/2007/09/02/remove-vocals-from-mp3s-using-audacity/
 categories:
   - video
 ---

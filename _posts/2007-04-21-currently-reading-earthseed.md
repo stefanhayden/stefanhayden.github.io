@@ -5,7 +5,7 @@ date: 2007-04-21T16:40:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/21/currently-reading-earthseed/
-permalink: /2007/04/21/currently-reading-earthseed/
+permalink: /blog/2007/04/21/currently-reading-earthseed/
 categories:
   - books
   - personal

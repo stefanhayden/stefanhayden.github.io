@@ -5,7 +5,7 @@ date: 2006-08-15T09:17:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/15/earthseed-by-pamela-sargent-was-one-of-my-favorite-books-from-junior-high/
-permalink: /2006/08/15/earthseed-by-pamela-sargent-was-one-of-my-favorite-books-from-junior-high/
+permalink: /blog/2006/08/15/earthseed-by-pamela-sargent-was-one-of-my-favorite-books-from-junior-high/
 Post:
   - link
 categories:

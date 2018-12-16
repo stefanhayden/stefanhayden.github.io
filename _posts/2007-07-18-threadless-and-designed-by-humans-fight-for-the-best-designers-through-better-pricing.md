@@ -5,7 +5,7 @@ date: 2007-07-18T23:09:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/18/threadless-and-designed-by-humans-fight-for-the-best-designers-through-better-pricing/
-permalink: /2007/07/18/threadless-and-designed-by-humans-fight-for-the-best-designers-through-better-pricing/
+permalink: /blog/2007/07/18/threadless-and-designed-by-humans-fight-for-the-best-designers-through-better-pricing/
 Post:
   - link
 categories:

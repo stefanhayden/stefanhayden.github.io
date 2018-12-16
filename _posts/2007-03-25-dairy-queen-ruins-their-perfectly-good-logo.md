@@ -5,7 +5,7 @@ date: 2007-03-25T20:23:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/25/dairy-queen-ruins-their-perfectly-good-logo/
-permalink: /2007/03/25/dairy-queen-ruins-their-perfectly-good-logo/
+permalink: /blog/2007/03/25/dairy-queen-ruins-their-perfectly-good-logo/
 Post:
   - link
 categories:

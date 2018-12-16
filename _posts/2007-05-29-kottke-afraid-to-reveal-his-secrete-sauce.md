@@ -5,7 +5,7 @@ date: 2007-05-29T23:27:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/29/kottke-afraid-to-reveal-his-secrete-sauce/
-permalink: /2007/05/29/kottke-afraid-to-reveal-his-secrete-sauce/
+permalink: /blog/2007/05/29/kottke-afraid-to-reveal-his-secrete-sauce/
 categories:
   - Uncategorized
 ---

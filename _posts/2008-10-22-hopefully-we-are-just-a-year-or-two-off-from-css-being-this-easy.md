@@ -5,7 +5,7 @@ date: 2008-10-22T09:59:46+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1309
-permalink: /2008/10/22/hopefully-we-are-just-a-year-or-two-off-from-css-being-this-easy/
+permalink: /blog/2008/10/22/hopefully-we-are-just-a-year-or-two-off-from-css-being-this-easy/
 Post:
   - link
 categories:

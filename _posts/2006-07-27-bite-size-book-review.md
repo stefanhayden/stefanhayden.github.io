@@ -5,7 +5,7 @@ date: 2006-07-27T21:41:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/27/bite-size-book-review/
-permalink: /2006/07/27/bite-size-book-review/
+permalink: /blog/2006/07/27/bite-size-book-review/
 categories:
   - personal
 ---

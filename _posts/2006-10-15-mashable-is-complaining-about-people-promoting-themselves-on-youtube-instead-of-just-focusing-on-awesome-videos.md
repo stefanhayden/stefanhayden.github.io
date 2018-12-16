@@ -5,7 +5,7 @@ date: 2006-10-15T19:35:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/15/mashable-is-complaining-about-people-promoting-themselves-on-youtube-instead-of-just-focusing-on-awesome-videos/
-permalink: /2006/10/15/mashable-is-complaining-about-people-promoting-themselves-on-youtube-instead-of-just-focusing-on-awesome-videos/
+permalink: /blog/2006/10/15/mashable-is-complaining-about-people-promoting-themselves-on-youtube-instead-of-just-focusing-on-awesome-videos/
 Post:
   - link
 categories:

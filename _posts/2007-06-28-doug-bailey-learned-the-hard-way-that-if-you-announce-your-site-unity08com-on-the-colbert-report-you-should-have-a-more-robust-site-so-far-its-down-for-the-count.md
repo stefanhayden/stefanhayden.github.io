@@ -5,7 +5,7 @@ date: 2007-06-28T23:00:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/28/doug-bailey-learned-the-hard-way-that-if-you-announce-your-site-unity08com-on-the-colbert-report-you-should-have-a-more-robust-site-so-far-its-down-for-the-count/
-permalink: /2007/06/28/doug-bailey-learned-the-hard-way-that-if-you-announce-your-site-unity08com-on-the-colbert-report-you-should-have-a-more-robust-site-so-far-its-down-for-the-count/
+permalink: /blog/2007/06/28/doug-bailey-learned-the-hard-way-that-if-you-announce-your-site-unity08com-on-the-colbert-report-you-should-have-a-more-robust-site-so-far-its-down-for-the-count/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-07-25T21:52:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/25/oh-how-i-love-social-networking/
-permalink: /2006/07/25/oh-how-i-love-social-networking/
+permalink: /blog/2006/07/25/oh-how-i-love-social-networking/
 Post:
   - link
 categories:

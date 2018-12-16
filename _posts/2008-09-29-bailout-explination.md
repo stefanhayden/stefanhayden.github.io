@@ -5,7 +5,7 @@ date: 2008-09-29T09:03:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1220
-permalink: /2008/09/29/bailout-explination/
+permalink: /blog/2008/09/29/bailout-explination/
 Post:
   - link
 categories:

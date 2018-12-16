@@ -5,7 +5,7 @@ date: 2007-11-07T00:37:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/07/gmail-contacts/
-permalink: /2007/11/07/gmail-contacts/
+permalink: /blog/2007/11/07/gmail-contacts/
 categories:
   - personal
   - review

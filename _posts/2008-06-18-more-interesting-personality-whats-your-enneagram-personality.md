@@ -5,7 +5,7 @@ date: 2008-06-18T15:24:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=906
-permalink: /2008/06/18/more-interesting-personality-whats-your-enneagram-personality/
+permalink: /blog/2008/06/18/more-interesting-personality-whats-your-enneagram-personality/
 categories:
   - personal
 ---

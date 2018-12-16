@@ -5,7 +5,7 @@ date: 2008-10-14T08:42:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1275
-permalink: /2008/10/14/if-you-forgot-how-good-obama-was-at-speaking/
+permalink: /blog/2008/10/14/if-you-forgot-how-good-obama-was-at-speaking/
 categories:
   - video
 ---

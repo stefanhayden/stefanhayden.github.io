@@ -5,7 +5,7 @@ date: 2008-12-21T23:56:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1405
-permalink: /2008/12/21/fa-la-freezing/
+permalink: /blog/2008/12/21/fa-la-freezing/
 categories:
   - web
 ---

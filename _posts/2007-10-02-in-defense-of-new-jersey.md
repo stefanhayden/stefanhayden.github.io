@@ -5,7 +5,7 @@ date: 2007-10-02T17:33:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/02/in-defense-of-new-jersey/
-permalink: /2007/10/02/in-defense-of-new-jersey/
+permalink: /blog/2007/10/02/in-defense-of-new-jersey/
 categories:
   - personal
   - web

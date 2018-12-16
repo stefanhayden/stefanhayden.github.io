@@ -5,7 +5,7 @@ date: 2008-10-17T22:20:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1290
-permalink: /2008/10/17/john-green-paper-town-event-in-nyc/
+permalink: /blog/2008/10/17/john-green-paper-town-event-in-nyc/
 categories:
   - books
   - personal

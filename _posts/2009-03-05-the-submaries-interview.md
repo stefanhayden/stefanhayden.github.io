@@ -5,7 +5,7 @@ date: 2009-03-05T09:17:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1431
-permalink: /2009/03/05/the-submaries-interview/
+permalink: /blog/2009/03/05/the-submaries-interview/
 categories:
   - web
 ---

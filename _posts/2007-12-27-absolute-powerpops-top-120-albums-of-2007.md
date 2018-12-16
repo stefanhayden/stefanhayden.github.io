@@ -5,7 +5,7 @@ date: 2007-12-27T10:26:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/27/absolute-powerpops-top-120-albums-of-2007/
-permalink: /2007/12/27/absolute-powerpops-top-120-albums-of-2007/
+permalink: /blog/2007/12/27/absolute-powerpops-top-120-albums-of-2007/
 Post:
   - link
 categories:

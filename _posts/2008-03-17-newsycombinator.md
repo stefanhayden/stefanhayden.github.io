@@ -5,7 +5,7 @@ date: 2008-03-17T21:13:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/17/newsycombinator/
-permalink: /2008/03/17/newsycombinator/
+permalink: /blog/2008/03/17/newsycombinator/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-11-01T15:11:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/01/mp3-this-song-by-margot-and-the-nuclear-so-and-sos-is-awesome-skeleton-key/
-permalink: /2006/11/01/mp3-this-song-by-margot-and-the-nuclear-so-and-sos-is-awesome-skeleton-key/
+permalink: /blog/2006/11/01/mp3-this-song-by-margot-and-the-nuclear-so-and-sos-is-awesome-skeleton-key/
 Post:
   - link
 enclosure:

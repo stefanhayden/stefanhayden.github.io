@@ -5,7 +5,7 @@ date: 2007-09-30T12:15:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/30/next-new-networks-emerging-iptv-company/
-permalink: /2007/09/30/next-new-networks-emerging-iptv-company/
+permalink: /blog/2007/09/30/next-new-networks-emerging-iptv-company/
 categories:
   - review
   - web

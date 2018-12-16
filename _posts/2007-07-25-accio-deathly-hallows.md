@@ -5,7 +5,7 @@ date: 2007-07-25T15:42:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/25/accio-deathly-hallows/
-permalink: /2007/07/25/accio-deathly-hallows/
+permalink: /blog/2007/07/25/accio-deathly-hallows/
 categories:
   - video
 ---

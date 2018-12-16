@@ -5,7 +5,7 @@ date: 2007-11-15T23:27:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/15/bitsie-tulloch/
-permalink: /2007/11/15/bitsie-tulloch/
+permalink: /blog/2007/11/15/bitsie-tulloch/
 Post:
   - link
 categories:

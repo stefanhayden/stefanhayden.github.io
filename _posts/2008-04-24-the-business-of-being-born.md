@@ -5,7 +5,7 @@ date: 2008-04-24T14:29:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=856
-permalink: /2008/04/24/the-business-of-being-born/
+permalink: /blog/2008/04/24/the-business-of-being-born/
 categories:
   - video
 ---

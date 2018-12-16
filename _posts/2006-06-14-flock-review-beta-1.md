@@ -5,7 +5,7 @@ date: 2006-06-14T08:56:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/06/14/flock-review-beta-1/
-permalink: /2006/06/14/flock-review-beta-1/
+permalink: /blog/2006/06/14/flock-review-beta-1/
 categories:
   - web
 ---

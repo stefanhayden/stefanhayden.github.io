@@ -5,7 +5,7 @@ date: 2007-06-22T22:11:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/22/if-i-had-the-money-and-time-i-would-get-my-ass-to-the-virtual-goods-summit-i-would-love-to-be-in-the-virtual-goods-business/
-permalink: /2007/06/22/if-i-had-the-money-and-time-i-would-get-my-ass-to-the-virtual-goods-summit-i-would-love-to-be-in-the-virtual-goods-business/
+permalink: /blog/2007/06/22/if-i-had-the-money-and-time-i-would-get-my-ass-to-the-virtual-goods-summit-i-would-love-to-be-in-the-virtual-goods-business/
 Post:
   - link
 categories:

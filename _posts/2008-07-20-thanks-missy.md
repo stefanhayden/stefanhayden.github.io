@@ -5,7 +5,7 @@ date: 2008-07-20T20:30:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=951
-permalink: /2008/07/20/thanks-missy/
+permalink: /blog/2008/07/20/thanks-missy/
 Post:
   - link
 categories:

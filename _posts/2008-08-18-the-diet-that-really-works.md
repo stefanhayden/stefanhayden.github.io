@@ -5,7 +5,7 @@ date: 2008-08-18T12:10:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1101
-permalink: /2008/08/18/the-diet-that-really-works/
+permalink: /blog/2008/08/18/the-diet-that-really-works/
 Post:
   - link
 openid_comments:

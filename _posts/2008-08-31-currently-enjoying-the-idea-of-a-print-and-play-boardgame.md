@@ -5,7 +5,7 @@ date: 2008-08-31T17:42:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1138
-permalink: /2008/08/31/currently-enjoying-the-idea-of-a-print-and-play-boardgame/
+permalink: /blog/2008/08/31/currently-enjoying-the-idea-of-a-print-and-play-boardgame/
 Post:
   - link
 categories:

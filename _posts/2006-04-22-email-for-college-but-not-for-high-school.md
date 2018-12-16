@@ -5,7 +5,7 @@ date: 2006-04-22T17:35:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/22/email-for-college-but-not-for-high-school/
-permalink: /2006/04/22/email-for-college-but-not-for-high-school/
+permalink: /blog/2006/04/22/email-for-college-but-not-for-high-school/
 categories:
   - web
 ---

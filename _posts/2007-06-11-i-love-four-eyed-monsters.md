@@ -5,7 +5,7 @@ date: 2007-06-11T12:18:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/11/i-love-four-eyed-monsters/
-permalink: /2007/06/11/i-love-four-eyed-monsters/
+permalink: /blog/2007/06/11/i-love-four-eyed-monsters/
 categories:
   - review
   - video

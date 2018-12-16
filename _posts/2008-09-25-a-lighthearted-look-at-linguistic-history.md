@@ -5,7 +5,7 @@ date: 2008-09-25T09:13:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1210
-permalink: /2008/09/25/a-lighthearted-look-at-linguistic-history/
+permalink: /blog/2008/09/25/a-lighthearted-look-at-linguistic-history/
 categories:
   - video
 ---

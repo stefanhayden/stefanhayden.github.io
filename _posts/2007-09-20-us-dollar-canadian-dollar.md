@@ -5,7 +5,7 @@ date: 2007-09-20T10:41:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/20/us-dollar-canadian-dollar/
-permalink: /2007/09/20/us-dollar-canadian-dollar/
+permalink: /blog/2007/09/20/us-dollar-canadian-dollar/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-03-18T22:24:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/18/sxsw-geek-t-shirts/
-permalink: /2007/03/18/sxsw-geek-t-shirts/
+permalink: /blog/2007/03/18/sxsw-geek-t-shirts/
 categories:
   - personal
 ---

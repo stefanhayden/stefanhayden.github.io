@@ -5,7 +5,7 @@ date: 2006-10-20T06:42:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/20/video-the-show-with-zefrank/
-permalink: /2006/10/20/video-the-show-with-zefrank/
+permalink: /blog/2006/10/20/video-the-show-with-zefrank/
 categories:
   - resources
   - video

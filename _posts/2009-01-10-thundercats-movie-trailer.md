@@ -5,7 +5,7 @@ date: 2009-01-10T09:49:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1416
-permalink: /2009/01/10/thundercats-movie-trailer/
+permalink: /blog/2009/01/10/thundercats-movie-trailer/
 categories:
   - video
 ---

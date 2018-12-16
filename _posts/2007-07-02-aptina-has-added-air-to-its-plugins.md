@@ -5,7 +5,7 @@ date: 2007-07-02T14:41:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/02/aptina-has-added-air-to-its-plugins/
-permalink: /2007/07/02/aptina-has-added-air-to-its-plugins/
+permalink: /blog/2007/07/02/aptina-has-added-air-to-its-plugins/
 Post:
   - link
 categories:

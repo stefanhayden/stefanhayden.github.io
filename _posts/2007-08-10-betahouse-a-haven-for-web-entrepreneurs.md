@@ -5,7 +5,7 @@ date: 2007-08-10T21:19:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/10/betahouse-a-haven-for-web-entrepreneurs/
-permalink: /2007/08/10/betahouse-a-haven-for-web-entrepreneurs/
+permalink: /blog/2007/08/10/betahouse-a-haven-for-web-entrepreneurs/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-08-23T16:37:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1115
-permalink: /2008/08/23/goodbye-elizabeth/
+permalink: /blog/2008/08/23/goodbye-elizabeth/
 categories:
   - personal
   - video

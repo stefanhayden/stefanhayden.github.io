@@ -5,7 +5,7 @@ date: 2005-11-12T01:06:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/11/12/a-talk-with-jeffery-zelman-and-aiga/
-permalink: /2005/11/12/a-talk-with-jeffery-zelman-and-aiga/
+permalink: /blog/2005/11/12/a-talk-with-jeffery-zelman-and-aiga/
 categories:
   - design
   - personal

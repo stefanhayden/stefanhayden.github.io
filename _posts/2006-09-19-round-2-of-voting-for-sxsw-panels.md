@@ -5,7 +5,7 @@ date: 2006-09-19T20:37:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/19/round-2-of-voting-for-sxsw-panels/
-permalink: /2006/09/19/round-2-of-voting-for-sxsw-panels/
+permalink: /blog/2006/09/19/round-2-of-voting-for-sxsw-panels/
 Post:
   - link
 categories:

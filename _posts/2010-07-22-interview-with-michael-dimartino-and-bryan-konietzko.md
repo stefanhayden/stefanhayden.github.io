@@ -5,7 +5,7 @@ date: 2010-07-22T22:23:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1561
-permalink: /2010/07/22/interview-with-michael-dimartino-and-bryan-konietzko/
+permalink: /blog/2010/07/22/interview-with-michael-dimartino-and-bryan-konietzko/
 categories:
   - tv
 ---

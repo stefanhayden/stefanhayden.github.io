@@ -5,7 +5,7 @@ date: 2006-07-25T21:33:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/25/its-really-interesting-to-see-designers-get-more-and-more-in-to-development/
-permalink: /2006/07/25/its-really-interesting-to-see-designers-get-more-and-more-in-to-development/
+permalink: /blog/2006/07/25/its-really-interesting-to-see-designers-get-more-and-more-in-to-development/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-10-15T12:11:57+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/15/flowery-apology-to-ursula-k-le-guin/
-permalink: /2007/10/15/flowery-apology-to-ursula-k-le-guin/
+permalink: /blog/2007/10/15/flowery-apology-to-ursula-k-le-guin/
 Post:
   - link
 categories:

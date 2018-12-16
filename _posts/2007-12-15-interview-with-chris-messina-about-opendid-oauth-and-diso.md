@@ -5,7 +5,7 @@ date: 2007-12-15T21:29:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/15/interview-with-chris-messina-about-opendid-oauth-and-diso/
-permalink: /2007/12/15/interview-with-chris-messina-about-opendid-oauth-and-diso/
+permalink: /blog/2007/12/15/interview-with-chris-messina-about-opendid-oauth-and-diso/
 Post:
   - link
 enclosure:

@@ -5,7 +5,7 @@ date: 2007-07-12T16:02:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/12/patton-oswalt-and-me/
-permalink: /2007/07/12/patton-oswalt-and-me/
+permalink: /blog/2007/07/12/patton-oswalt-and-me/
 categories:
   - web
 ---

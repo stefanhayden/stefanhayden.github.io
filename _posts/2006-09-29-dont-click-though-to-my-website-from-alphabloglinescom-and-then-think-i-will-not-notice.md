@@ -5,7 +5,7 @@ date: 2006-09-29T23:03:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/29/dont-click-though-to-my-website-from-alphabloglinescom-and-then-think-i-will-not-notice/
-permalink: /2006/09/29/dont-click-though-to-my-website-from-alphabloglinescom-and-then-think-i-will-not-notice/
+permalink: /blog/2006/09/29/dont-click-though-to-my-website-from-alphabloglinescom-and-then-think-i-will-not-notice/
 Post:
   - link
 categories:

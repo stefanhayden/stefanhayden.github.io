@@ -5,7 +5,7 @@ date: 2006-08-19T18:24:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/19/harry-and-the-potters-at-harvard-square/
-permalink: /2006/08/19/harry-and-the-potters-at-harvard-square/
+permalink: /blog/2006/08/19/harry-and-the-potters-at-harvard-square/
 categories:
   - personal
 ---

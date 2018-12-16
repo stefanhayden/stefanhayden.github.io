@@ -5,7 +5,7 @@ date: 2008-04-18T22:36:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=849
-permalink: /2008/04/18/harry-potter-needs-a-creative-commons-license/
+permalink: /blog/2008/04/18/harry-potter-needs-a-creative-commons-license/
 openid_comments:
   - 'a:1:{i:0;s:5:"49097";}'
 categories:

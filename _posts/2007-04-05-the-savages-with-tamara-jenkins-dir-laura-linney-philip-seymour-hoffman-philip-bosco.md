@@ -5,7 +5,7 @@ date: 2007-04-05T23:06:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/05/the-savages-with-tamara-jenkins-dir-laura-linney-philip-seymour-hoffman-philip-bosco/
-permalink: /2007/04/05/the-savages-with-tamara-jenkins-dir-laura-linney-philip-seymour-hoffman-philip-bosco/
+permalink: /blog/2007/04/05/the-savages-with-tamara-jenkins-dir-laura-linney-philip-seymour-hoffman-philip-bosco/
 Post:
   - link
 categories:

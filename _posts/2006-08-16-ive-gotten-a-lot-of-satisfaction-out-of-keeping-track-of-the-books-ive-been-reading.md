@@ -5,7 +5,7 @@ date: 2006-08-16T21:22:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/16/ive-gotten-a-lot-of-satisfaction-out-of-keeping-track-of-the-books-ive-been-reading/
-permalink: /2006/08/16/ive-gotten-a-lot-of-satisfaction-out-of-keeping-track-of-the-books-ive-been-reading/
+permalink: /blog/2006/08/16/ive-gotten-a-lot-of-satisfaction-out-of-keeping-track-of-the-books-ive-been-reading/
 Post:
   - link
 categories:

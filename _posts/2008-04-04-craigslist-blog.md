@@ -5,7 +5,7 @@ date: 2008-04-04T10:52:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=833
-permalink: /2008/04/04/craigslist-blog/
+permalink: /blog/2008/04/04/craigslist-blog/
 Post:
   - link
 categories:

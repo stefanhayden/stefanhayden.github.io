@@ -5,7 +5,7 @@ date: 2005-03-20T23:19:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=15
-permalink: /2005/03/20/eris-hits-it-on-the-nose/
+permalink: /blog/2005/03/20/eris-hits-it-on-the-nose/
 categories:
   - blog
   - personal

@@ -5,7 +5,7 @@ date: 2007-06-11T17:55:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/11/omg-safari-for-the-pc-i-hate-safari/
-permalink: /2007/06/11/omg-safari-for-the-pc-i-hate-safari/
+permalink: /blog/2007/06/11/omg-safari-for-the-pc-i-hate-safari/
 Post:
   - link
 categories:

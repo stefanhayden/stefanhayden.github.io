@@ -5,7 +5,7 @@ date: 2007-09-06T16:25:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/06/google-reader-redesign/
-permalink: /2007/09/06/google-reader-redesign/
+permalink: /blog/2007/09/06/google-reader-redesign/
 categories:
   - design
   - web

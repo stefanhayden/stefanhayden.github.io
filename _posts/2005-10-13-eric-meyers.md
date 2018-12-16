@@ -5,7 +5,7 @@ date: 2005-10-13T00:52:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/10/13/eric-meyers/
-permalink: /2005/10/13/eric-meyers/
+permalink: /blog/2005/10/13/eric-meyers/
 categories:
   - design
   - web

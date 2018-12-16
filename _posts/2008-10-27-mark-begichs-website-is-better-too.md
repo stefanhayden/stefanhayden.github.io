@@ -5,7 +5,7 @@ date: 2008-10-27T17:04:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1322
-permalink: /2008/10/27/mark-begichs-website-is-better-too/
+permalink: /blog/2008/10/27/mark-begichs-website-is-better-too/
 Post:
   - link
 categories:

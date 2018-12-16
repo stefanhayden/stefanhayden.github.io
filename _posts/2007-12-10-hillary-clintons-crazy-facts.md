@@ -5,7 +5,7 @@ date: 2007-12-10T20:28:57+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/10/hillary-clintons-crazy-facts/
-permalink: /2007/12/10/hillary-clintons-crazy-facts/
+permalink: /blog/2007/12/10/hillary-clintons-crazy-facts/
 Post:
   - link
 categories:

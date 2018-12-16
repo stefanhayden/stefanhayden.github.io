@@ -5,7 +5,7 @@ date: 2007-01-03T00:01:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/03/dvd-commentary-election/
-permalink: /2007/01/03/dvd-commentary-election/
+permalink: /blog/2007/01/03/dvd-commentary-election/
 categories:
   - review
 ---

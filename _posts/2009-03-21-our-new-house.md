@@ -5,7 +5,7 @@ date: 2009-03-21T16:29:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1435
-permalink: /2009/03/21/our-new-house/
+permalink: /blog/2009/03/21/our-new-house/
 categories:
   - video
 ---

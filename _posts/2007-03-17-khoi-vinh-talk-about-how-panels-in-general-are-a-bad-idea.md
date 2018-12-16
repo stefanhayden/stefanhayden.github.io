@@ -5,7 +5,7 @@ date: 2007-03-17T18:36:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/17/khoi-vinh-talk-about-how-panels-in-general-are-a-bad-idea/
-permalink: /2007/03/17/khoi-vinh-talk-about-how-panels-in-general-are-a-bad-idea/
+permalink: /blog/2007/03/17/khoi-vinh-talk-about-how-panels-in-general-are-a-bad-idea/
 Post:
   - link
 categories:

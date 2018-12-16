@@ -5,7 +5,7 @@ date: 2007-05-13T16:09:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/13/this-is-an-awesome-map-of-online-communities-from-xkcd/
-permalink: /2007/05/13/this-is-an-awesome-map-of-online-communities-from-xkcd/
+permalink: /blog/2007/05/13/this-is-an-awesome-map-of-online-communities-from-xkcd/
 categories:
   - web
 ---

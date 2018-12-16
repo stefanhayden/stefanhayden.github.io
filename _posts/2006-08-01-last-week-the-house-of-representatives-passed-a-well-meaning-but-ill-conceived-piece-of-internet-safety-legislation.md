@@ -5,7 +5,7 @@ date: 2006-08-01T15:53:46+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/01/last-week-the-house-of-representatives-passed-a-well-meaning-but-ill-conceived-piece-of-internet-safety-legislation/
-permalink: /2006/08/01/last-week-the-house-of-representatives-passed-a-well-meaning-but-ill-conceived-piece-of-internet-safety-legislation/
+permalink: /blog/2006/08/01/last-week-the-house-of-representatives-passed-a-well-meaning-but-ill-conceived-piece-of-internet-safety-legislation/
 Post:
   - link
 categories:

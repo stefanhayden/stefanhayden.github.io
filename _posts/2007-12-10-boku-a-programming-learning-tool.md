@@ -5,7 +5,7 @@ date: 2007-12-10T13:09:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/10/boku-a-programming-learning-tool/
-permalink: /2007/12/10/boku-a-programming-learning-tool/
+permalink: /blog/2007/12/10/boku-a-programming-learning-tool/
 Post:
   - link
 categories:

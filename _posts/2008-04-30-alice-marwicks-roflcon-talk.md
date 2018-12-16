@@ -5,7 +5,7 @@ date: 2008-04-30T10:19:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=861
-permalink: /2008/04/30/alice-marwicks-roflcon-talk/
+permalink: /blog/2008/04/30/alice-marwicks-roflcon-talk/
 categories:
   - web
 ---

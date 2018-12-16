@@ -5,7 +5,7 @@ date: 2007-07-13T21:52:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/13/okay-this-really-looks-like-my-kind-of-movie-rocket-science/
-permalink: /2007/07/13/okay-this-really-looks-like-my-kind-of-movie-rocket-science/
+permalink: /blog/2007/07/13/okay-this-really-looks-like-my-kind-of-movie-rocket-science/
 Post:
   - link
 categories:

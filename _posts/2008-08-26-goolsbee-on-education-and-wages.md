@@ -5,7 +5,7 @@ date: 2008-08-26T12:58:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1122
-permalink: /2008/08/26/goolsbee-on-education-and-wages/
+permalink: /blog/2008/08/26/goolsbee-on-education-and-wages/
 Post:
   - link
 categories:

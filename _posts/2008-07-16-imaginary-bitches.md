@@ -5,7 +5,7 @@ date: 2008-07-16T23:14:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=943
-permalink: /2008/07/16/imaginary-bitches/
+permalink: /blog/2008/07/16/imaginary-bitches/
 categories:
   - video
 ---

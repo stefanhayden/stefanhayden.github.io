@@ -5,7 +5,7 @@ date: 2005-07-06T02:18:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=36
-permalink: /2005/07/06/browsershots-a-quick-review/
+permalink: /blog/2005/07/06/browsershots-a-quick-review/
 categories:
   - design
   - resources

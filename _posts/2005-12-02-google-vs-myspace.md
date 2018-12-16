@@ -5,7 +5,7 @@ date: 2005-12-02T00:29:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/12/02/google-vs-myspace/
-permalink: /2005/12/02/google-vs-myspace/
+permalink: /blog/2005/12/02/google-vs-myspace/
 categories:
   - web
 ---

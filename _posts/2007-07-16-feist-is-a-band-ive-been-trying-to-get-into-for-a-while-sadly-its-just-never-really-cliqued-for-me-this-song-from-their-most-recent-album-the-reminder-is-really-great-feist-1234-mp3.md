@@ -5,7 +5,7 @@ date: 2007-07-16T09:57:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/16/feist-is-a-band-ive-been-trying-to-get-into-for-a-while-sadly-its-just-never-really-cliqued-for-me-this-song-from-their-most-recent-album-the-reminder-is-really-great-feist-1234-mp3/
-permalink: /2007/07/16/feist-is-a-band-ive-been-trying-to-get-into-for-a-while-sadly-its-just-never-really-cliqued-for-me-this-song-from-their-most-recent-album-the-reminder-is-really-great-feist-1234-mp3/
+permalink: /blog/2007/07/16/feist-is-a-band-ive-been-trying-to-get-into-for-a-while-sadly-its-just-never-really-cliqued-for-me-this-song-from-their-most-recent-album-the-reminder-is-really-great-feist-1234-mp3/
 enclosure:
   - |
     http://www.stefanhayden.com/mp3/Feist%20-%201234.mp3

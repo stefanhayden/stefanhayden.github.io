@@ -5,7 +5,7 @@ date: 2007-07-01T22:59:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/01/ideas-for-suggestive-selling/
-permalink: /2007/07/01/ideas-for-suggestive-selling/
+permalink: /blog/2007/07/01/ideas-for-suggestive-selling/
 categories:
   - web
 ---

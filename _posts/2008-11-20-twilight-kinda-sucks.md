@@ -5,7 +5,7 @@ date: 2008-11-20T15:26:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1374
-permalink: /2008/11/20/twilight-kinda-sucks/
+permalink: /blog/2008/11/20/twilight-kinda-sucks/
 Post:
   - link
 categories:

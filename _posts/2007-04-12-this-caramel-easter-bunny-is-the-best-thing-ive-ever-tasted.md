@@ -5,7 +5,7 @@ date: 2007-04-12T19:45:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/12/this-caramel-easter-bunny-is-the-best-thing-ive-ever-tasted/
-permalink: /2007/04/12/this-caramel-easter-bunny-is-the-best-thing-ive-ever-tasted/
+permalink: /blog/2007/04/12/this-caramel-easter-bunny-is-the-best-thing-ive-ever-tasted/
 Post:
   - link
 categories:

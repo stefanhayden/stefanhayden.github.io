@@ -5,7 +5,7 @@ date: 2005-07-06T19:23:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/07/06/an-open-letter-to-tcnjs-social-software/
-permalink: /2005/07/06/an-open-letter-to-tcnjs-social-software/
+permalink: /blog/2005/07/06/an-open-letter-to-tcnjs-social-software/
 categories:
   - design
   - personal

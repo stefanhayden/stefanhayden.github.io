@@ -5,7 +5,7 @@ date: 2007-05-22T23:31:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/22/comprehensive-overview-of-fanlib-the-new-and-controversial-fanfic-web-site/
-permalink: /2007/05/22/comprehensive-overview-of-fanlib-the-new-and-controversial-fanfic-web-site/
+permalink: /blog/2007/05/22/comprehensive-overview-of-fanlib-the-new-and-controversial-fanfic-web-site/
 Post:
   - link
 categories:

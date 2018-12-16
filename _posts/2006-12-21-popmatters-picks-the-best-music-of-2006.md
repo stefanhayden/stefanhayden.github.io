@@ -5,7 +5,7 @@ date: 2006-12-21T10:09:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/21/popmatters-picks-the-best-music-of-2006/
-permalink: /2006/12/21/popmatters-picks-the-best-music-of-2006/
+permalink: /blog/2006/12/21/popmatters-picks-the-best-music-of-2006/
 Post:
   - link
 categories:

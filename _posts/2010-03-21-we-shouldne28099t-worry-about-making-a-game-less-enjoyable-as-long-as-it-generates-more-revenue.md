@@ -5,7 +5,7 @@ date: 2010-03-21T10:31:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1494
-permalink: '/2010/03/21/we-shouldn%e2%80%99t-worry-about-making-a-game-less-enjoyable-as-long-as-it-generates-more-revenue/'
+permalink: /blog'/2010/03/21/we-shouldn%e2%80%99t-worry-about-making-a-game-less-enjoyable-as-long-as-it-generates-more-revenue/'
 Post:
   - link
 categories:

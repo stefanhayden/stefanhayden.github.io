@@ -5,7 +5,7 @@ date: 2009-04-30T07:48:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1447
-permalink: /2009/04/30/chipotle-updates-logo/
+permalink: /blog/2009/04/30/chipotle-updates-logo/
 Post:
   - link
 categories:

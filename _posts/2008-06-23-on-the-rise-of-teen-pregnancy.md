@@ -5,7 +5,7 @@ date: 2008-06-23T15:44:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=917
-permalink: /2008/06/23/on-the-rise-of-teen-pregnancy/
+permalink: /blog/2008/06/23/on-the-rise-of-teen-pregnancy/
 categories:
   - comment
 ---

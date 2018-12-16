@@ -5,7 +5,7 @@ date: 2006-11-27T09:40:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/27/nintendo-wii-adventures/
-permalink: /2006/11/27/nintendo-wii-adventures/
+permalink: /blog/2006/11/27/nintendo-wii-adventures/
 categories:
   - personal
 ---

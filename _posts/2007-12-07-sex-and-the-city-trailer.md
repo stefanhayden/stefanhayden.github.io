@@ -5,7 +5,7 @@ date: 2007-12-07T11:22:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/07/sex-and-the-city-trailer/
-permalink: /2007/12/07/sex-and-the-city-trailer/
+permalink: /blog/2007/12/07/sex-and-the-city-trailer/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-05-29T16:31:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/29/urban-myth-dented-cans-contain-botulism/
-permalink: /2007/05/29/urban-myth-dented-cans-contain-botulism/
+permalink: /blog/2007/05/29/urban-myth-dented-cans-contain-botulism/
 categories:
   - Uncategorized
 ---

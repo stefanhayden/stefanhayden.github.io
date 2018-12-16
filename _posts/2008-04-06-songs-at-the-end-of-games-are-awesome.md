@@ -5,7 +5,7 @@ date: 2008-04-06T14:42:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=834
-permalink: /2008/04/06/songs-at-the-end-of-games-are-awesome/
+permalink: /blog/2008/04/06/songs-at-the-end-of-games-are-awesome/
 Post:
   - link
 categories:

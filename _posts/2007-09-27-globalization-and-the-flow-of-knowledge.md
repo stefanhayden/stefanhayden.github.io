@@ -5,7 +5,7 @@ date: 2007-09-27T14:26:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/27/globalization-and-the-flow-of-knowledge/
-permalink: /2007/09/27/globalization-and-the-flow-of-knowledge/
+permalink: /blog/2007/09/27/globalization-and-the-flow-of-knowledge/
 categories:
   - video
 ---

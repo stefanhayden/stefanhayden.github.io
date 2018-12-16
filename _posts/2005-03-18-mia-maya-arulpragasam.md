@@ -5,7 +5,7 @@ date: 2005-03-18T01:08:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=14
-permalink: /2005/03/18/mia-maya-arulpragasam/
+permalink: /blog/2005/03/18/mia-maya-arulpragasam/
 categories:
   - personal
 ---

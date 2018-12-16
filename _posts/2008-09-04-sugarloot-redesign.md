@@ -5,7 +5,7 @@ date: 2008-09-04T13:20:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1143
-permalink: /2008/09/04/sugarloot-redesign/
+permalink: /blog/2008/09/04/sugarloot-redesign/
 Post:
   - link
 categories:

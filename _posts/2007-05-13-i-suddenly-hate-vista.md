@@ -5,7 +5,7 @@ date: 2007-05-13T17:17:08+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/13/i-suddenly-hate-vista/
-permalink: /2007/05/13/i-suddenly-hate-vista/
+permalink: /blog/2007/05/13/i-suddenly-hate-vista/
 categories:
   - personal
   - review

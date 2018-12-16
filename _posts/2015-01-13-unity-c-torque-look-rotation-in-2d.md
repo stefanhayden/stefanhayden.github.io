@@ -5,7 +5,7 @@ date: 2015-01-13T00:40:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1738
-permalink: /2015/01/13/unity-c-torque-look-rotation-in-2d/
+permalink: /blog/2015/01/13/unity-c-torque-look-rotation-in-2d/
 categories:
   - development
   - unity

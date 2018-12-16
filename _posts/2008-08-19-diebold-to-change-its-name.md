@@ -5,7 +5,7 @@ date: 2008-08-19T15:08:46+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1109
-permalink: /2008/08/19/diebold-to-change-its-name/
+permalink: /blog/2008/08/19/diebold-to-change-its-name/
 Post:
   - link
 categories:

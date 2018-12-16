@@ -5,7 +5,7 @@ date: 2005-11-25T23:22:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/11/25/google-analytics-will-not-crush-mint-or-measure-map/
-permalink: /2005/11/25/google-analytics-will-not-crush-mint-or-measure-map/
+permalink: /blog/2005/11/25/google-analytics-will-not-crush-mint-or-measure-map/
 categories:
   - blog
   - design

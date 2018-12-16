@@ -5,7 +5,7 @@ date: 2009-02-26T09:31:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1427
-permalink: /2009/02/26/most-improbable-lil-jon-mashup-ever/
+permalink: /blog/2009/02/26/most-improbable-lil-jon-mashup-ever/
 categories:
   - video
 ---

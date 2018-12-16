@@ -5,7 +5,7 @@ date: 2008-11-21T11:35:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1380
-permalink: /2008/11/21/arrested-development-film-seems-to-be-happening/
+permalink: /blog/2008/11/21/arrested-development-film-seems-to-be-happening/
 Post:
   - link
 categories:

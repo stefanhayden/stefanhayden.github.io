@@ -5,7 +5,7 @@ date: 2006-10-04T08:35:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/04/some-people-are-starting-to-complain-that-the-nintendo-wii-does-not-play-dvds-or-cds/
-permalink: /2006/10/04/some-people-are-starting-to-complain-that-the-nintendo-wii-does-not-play-dvds-or-cds/
+permalink: /blog/2006/10/04/some-people-are-starting-to-complain-that-the-nintendo-wii-does-not-play-dvds-or-cds/
 Post:
   - link
 categories:

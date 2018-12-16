@@ -5,7 +5,7 @@ date: 2005-10-31T23:33:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/10/31/i-hate-tivo-and-want-mythtv/
-permalink: /2005/10/31/i-hate-tivo-and-want-mythtv/
+permalink: /blog/2005/10/31/i-hate-tivo-and-want-mythtv/
 categories:
   - personal
 ---

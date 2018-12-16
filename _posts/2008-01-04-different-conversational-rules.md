@@ -5,7 +5,7 @@ date: 2008-01-04T15:08:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/04/different-conversational-rules/
-permalink: /2008/01/04/different-conversational-rules/
+permalink: /blog/2008/01/04/different-conversational-rules/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-11-21T00:26:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1378
-permalink: /2008/11/21/getting-a-g1-phone-part-1/
+permalink: /blog/2008/11/21/getting-a-g1-phone-part-1/
 categories:
   - personal
   - review

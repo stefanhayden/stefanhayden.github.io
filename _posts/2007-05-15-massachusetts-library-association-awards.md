@@ -5,7 +5,7 @@ date: 2007-05-15T08:37:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/15/massachusetts-library-association-awards/
-permalink: /2007/05/15/massachusetts-library-association-awards/
+permalink: /blog/2007/05/15/massachusetts-library-association-awards/
 categories:
   - design
 ---

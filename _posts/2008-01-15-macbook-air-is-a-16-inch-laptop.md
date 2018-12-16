@@ -5,7 +5,7 @@ date: 2008-01-15T15:54:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/15/macbook-air-is-a-16-inch-laptop/
-permalink: /2008/01/15/macbook-air-is-a-16-inch-laptop/
+permalink: /blog/2008/01/15/macbook-air-is-a-16-inch-laptop/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2005-09-07T11:34:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/09/07/7-eleven-not-24-hours/
-permalink: /2005/09/07/7-eleven-not-24-hours/
+permalink: /blog/2005/09/07/7-eleven-not-24-hours/
 categories:
   - personal
 ---

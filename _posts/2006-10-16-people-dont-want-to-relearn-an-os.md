@@ -5,7 +5,7 @@ date: 2006-10-16T08:53:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/16/people-dont-want-to-relearn-an-os/
-permalink: /2006/10/16/people-dont-want-to-relearn-an-os/
+permalink: /blog/2006/10/16/people-dont-want-to-relearn-an-os/
 categories:
   - web
 ---

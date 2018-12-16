@@ -5,7 +5,7 @@ date: 2008-02-11T15:03:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/11/friday-night-lights/
-permalink: /2008/02/11/friday-night-lights/
+permalink: /blog/2008/02/11/friday-night-lights/
 Post:
   - link
 categories:

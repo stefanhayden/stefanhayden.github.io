@@ -5,7 +5,7 @@ date: 2009-06-19T08:53:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1467
-permalink: /2009/06/19/thefacebook/
+permalink: /blog/2009/06/19/thefacebook/
 categories:
   - web
 ---

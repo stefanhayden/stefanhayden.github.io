@@ -5,7 +5,7 @@ date: 2006-03-15T22:06:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/15/sxsw-reference/
-permalink: /2006/03/15/sxsw-reference/
+permalink: /blog/2006/03/15/sxsw-reference/
 categories:
   - blog
   - design

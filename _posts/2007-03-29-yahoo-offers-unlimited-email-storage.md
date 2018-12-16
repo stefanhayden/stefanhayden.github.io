@@ -5,7 +5,7 @@ date: 2007-03-29T10:33:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/29/yahoo-offers-unlimited-email-storage/
-permalink: /2007/03/29/yahoo-offers-unlimited-email-storage/
+permalink: /blog/2007/03/29/yahoo-offers-unlimited-email-storage/
 Post:
   - link
 categories:

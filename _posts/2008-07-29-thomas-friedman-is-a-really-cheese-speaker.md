@@ -5,7 +5,7 @@ date: 2008-07-29T14:03:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=996
-permalink: /2008/07/29/thomas-friedman-is-a-really-cheese-speaker/
+permalink: /blog/2008/07/29/thomas-friedman-is-a-really-cheese-speaker/
 Post:
   - link
 categories:

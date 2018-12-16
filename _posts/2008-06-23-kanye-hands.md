@@ -5,7 +5,7 @@ date: 2008-06-23T13:04:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=914
-permalink: /2008/06/23/kanye-hands/
+permalink: /blog/2008/06/23/kanye-hands/
 Post:
   - link
 categories:

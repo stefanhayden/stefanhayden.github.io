@@ -5,7 +5,7 @@ date: 2007-12-20T22:21:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/20/snapple-destroys-their-logo/
-permalink: /2007/12/20/snapple-destroys-their-logo/
+permalink: /blog/2007/12/20/snapple-destroys-their-logo/
 Post:
   - link
 categories:

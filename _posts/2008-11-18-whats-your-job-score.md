@@ -5,7 +5,7 @@ date: 2008-11-18T10:08:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1355
-permalink: /2008/11/18/whats-your-job-score/
+permalink: /blog/2008/11/18/whats-your-job-score/
 categories:
   - personal
 ---

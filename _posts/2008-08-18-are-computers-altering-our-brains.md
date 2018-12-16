@@ -5,7 +5,7 @@ date: 2008-08-18T13:46:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1104
-permalink: /2008/08/18/are-computers-altering-our-brains/
+permalink: /blog/2008/08/18/are-computers-altering-our-brains/
 categories:
   - comment
 ---

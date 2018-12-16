@@ -5,7 +5,7 @@ date: 2005-04-01T22:40:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=17
-permalink: /2005/04/01/never-buy-a-western-digital/
+permalink: /blog/2005/04/01/never-buy-a-western-digital/
 categories:
   - resources
 ---

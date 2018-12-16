@@ -5,7 +5,7 @@ date: 2007-04-05T22:28:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/05/joe-biden-is-innovating-with-his-new-project-head-to-head-08-that-does-a-great-job-of-comparing-candidates-view-on-issues/
-permalink: /2007/04/05/joe-biden-is-innovating-with-his-new-project-head-to-head-08-that-does-a-great-job-of-comparing-candidates-view-on-issues/
+permalink: /blog/2007/04/05/joe-biden-is-innovating-with-his-new-project-head-to-head-08-that-does-a-great-job-of-comparing-candidates-view-on-issues/
 Post:
   - link
 categories:

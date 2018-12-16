@@ -5,7 +5,7 @@ date: 2007-10-15T17:10:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/15/squidpunk-manifesto/
-permalink: /2007/10/15/squidpunk-manifesto/
+permalink: /blog/2007/10/15/squidpunk-manifesto/
 Post:
   - link
 categories:

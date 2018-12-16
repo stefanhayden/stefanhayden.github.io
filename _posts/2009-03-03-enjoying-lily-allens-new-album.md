@@ -5,7 +5,7 @@ date: 2009-03-03T08:55:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1429
-permalink: /2009/03/03/enjoying-lily-allens-new-album/
+permalink: /blog/2009/03/03/enjoying-lily-allens-new-album/
 categories:
   - mp3
 ---

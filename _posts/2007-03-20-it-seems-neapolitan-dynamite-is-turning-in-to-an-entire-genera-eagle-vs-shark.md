@@ -5,7 +5,7 @@ date: 2007-03-20T19:25:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/20/it-seems-neapolitan-dynamite-is-turning-in-to-an-entire-genera-eagle-vs-shark/
-permalink: /2007/03/20/it-seems-neapolitan-dynamite-is-turning-in-to-an-entire-genera-eagle-vs-shark/
+permalink: /blog/2007/03/20/it-seems-neapolitan-dynamite-is-turning-in-to-an-entire-genera-eagle-vs-shark/
 Post:
   - link
 categories:

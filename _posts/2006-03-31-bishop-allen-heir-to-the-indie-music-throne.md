@@ -5,7 +5,7 @@ date: 2006-03-31T17:46:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/31/bishop-allen-heir-to-the-indie-music-throne/
-permalink: /2006/03/31/bishop-allen-heir-to-the-indie-music-throne/
+permalink: /blog/2006/03/31/bishop-allen-heir-to-the-indie-music-throne/
 enclosure:
   - |
     http://www.bishopallen.com/music/Corazon.mp3

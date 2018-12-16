@@ -5,7 +5,7 @@ date: 2007-07-20T08:24:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/20/ben-folds-five-army-performed-by-ok-go-on-treadmills/
-permalink: /2007/07/20/ben-folds-five-army-performed-by-ok-go-on-treadmills/
+permalink: /blog/2007/07/20/ben-folds-five-army-performed-by-ok-go-on-treadmills/
 categories:
   - video
 ---

@@ -5,7 +5,7 @@ date: 2008-02-07T09:34:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/07/another-great-review-of-juno/
-permalink: /2008/02/07/another-great-review-of-juno/
+permalink: /blog/2008/02/07/another-great-review-of-juno/
 Post:
   - link
 categories:

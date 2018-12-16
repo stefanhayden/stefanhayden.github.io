@@ -5,7 +5,7 @@ date: 2006-02-24T16:18:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/02/24/my-sxsw-trip/
-permalink: /2006/02/24/my-sxsw-trip/
+permalink: /blog/2006/02/24/my-sxsw-trip/
 categories:
   - design
   - personal

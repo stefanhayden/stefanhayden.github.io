@@ -5,7 +5,7 @@ date: 2005-10-15T23:20:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/10/15/the-boston-crew/
-permalink: /2005/10/15/the-boston-crew/
+permalink: /blog/2005/10/15/the-boston-crew/
 categories:
   - resources
   - web

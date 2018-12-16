@@ -5,7 +5,7 @@ date: 2006-12-21T10:08:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/21/the-top-ten-stories-you-missed-in-2006-there-needs-to-be-more-coverage-of-news-stories-that-dont-get-coverage-if-that-makes-any-sense/
-permalink: /2006/12/21/the-top-ten-stories-you-missed-in-2006-there-needs-to-be-more-coverage-of-news-stories-that-dont-get-coverage-if-that-makes-any-sense/
+permalink: /blog/2006/12/21/the-top-ten-stories-you-missed-in-2006-there-needs-to-be-more-coverage-of-news-stories-that-dont-get-coverage-if-that-makes-any-sense/
 Post:
   - link
 categories:

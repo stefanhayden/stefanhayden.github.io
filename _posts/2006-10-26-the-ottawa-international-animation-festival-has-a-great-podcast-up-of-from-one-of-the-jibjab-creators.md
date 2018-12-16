@@ -5,7 +5,7 @@ date: 2006-10-26T14:04:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/26/the-ottawa-international-animation-festival-has-a-great-podcast-up-of-from-one-of-the-jibjab-creators/
-permalink: /2006/10/26/the-ottawa-international-animation-festival-has-a-great-podcast-up-of-from-one-of-the-jibjab-creators/
+permalink: /blog/2006/10/26/the-ottawa-international-animation-festival-has-a-great-podcast-up-of-from-one-of-the-jibjab-creators/
 Post:
   - link
 categories:

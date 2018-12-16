@@ -5,7 +5,7 @@ date: 2008-07-03T12:01:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=927
-permalink: /2008/07/03/im-pretty-excited-for-the-wackness-staring-ben-kingsley-josh-peck-olivia-thirlby-mary-kate-olsen-method-man/
+permalink: /blog/2008/07/03/im-pretty-excited-for-the-wackness-staring-ben-kingsley-josh-peck-olivia-thirlby-mary-kate-olsen-method-man/
 Post:
   - link
 categories:

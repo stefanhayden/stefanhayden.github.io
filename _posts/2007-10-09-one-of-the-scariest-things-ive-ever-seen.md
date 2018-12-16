@@ -5,7 +5,7 @@ date: 2007-10-09T10:20:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/09/one-of-the-scariest-things-ive-ever-seen/
-permalink: /2007/10/09/one-of-the-scariest-things-ive-ever-seen/
+permalink: /blog/2007/10/09/one-of-the-scariest-things-ive-ever-seen/
 Post:
   - link
 categories:

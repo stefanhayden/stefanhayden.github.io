@@ -5,7 +5,7 @@ date: 2007-03-14T16:27:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/14/sxsw-ugliest-shirt-yahoo-pipes/
-permalink: /2007/03/14/sxsw-ugliest-shirt-yahoo-pipes/
+permalink: /blog/2007/03/14/sxsw-ugliest-shirt-yahoo-pipes/
 categories:
   - review
   - web

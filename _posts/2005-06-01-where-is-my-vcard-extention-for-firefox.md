@@ -5,7 +5,7 @@ date: 2005-06-01T10:04:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/06/01/where-is-my-vcard-extention-for-firefox/
-permalink: /2005/06/01/where-is-my-vcard-extention-for-firefox/
+permalink: /blog/2005/06/01/where-is-my-vcard-extention-for-firefox/
 categories:
   - personal
   - web

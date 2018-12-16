@@ -5,7 +5,7 @@ date: 2008-07-26T10:39:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=979
-permalink: /2008/07/26/dr-horrible-panel-at-comicon/
+permalink: /blog/2008/07/26/dr-horrible-panel-at-comicon/
 Post:
   - link
 categories:

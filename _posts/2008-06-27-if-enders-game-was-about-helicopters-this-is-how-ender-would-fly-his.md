@@ -5,7 +5,7 @@ date: 2008-06-27T14:43:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=920
-permalink: /2008/06/27/if-enders-game-was-about-helicopters-this-is-how-ender-would-fly-his/
+permalink: /blog/2008/06/27/if-enders-game-was-about-helicopters-this-is-how-ender-would-fly-his/
 Post:
   - link
 categories:

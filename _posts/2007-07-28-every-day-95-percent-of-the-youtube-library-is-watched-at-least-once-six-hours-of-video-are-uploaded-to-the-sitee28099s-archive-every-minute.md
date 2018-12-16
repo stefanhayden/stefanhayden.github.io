@@ -5,7 +5,7 @@ date: 2007-07-28T08:33:52+00:00
 author: Stefan Hayden
 layout: post
 guid: 'http://www.stefanhayden.com/blog/2007/07/28/every-day-95-percent-of-the-youtube-library-is-watched-at-least-once-six-hours-of-video-are-uploaded-to-the-site%e2%80%99s-archive-every-minute/'
-permalink: '/2007/07/28/every-day-95-percent-of-the-youtube-library-is-watched-at-least-once-six-hours-of-video-are-uploaded-to-the-site%e2%80%99s-archive-every-minute/'
+permalink: /blog'/2007/07/28/every-day-95-percent-of-the-youtube-library-is-watched-at-least-once-six-hours-of-video-are-uploaded-to-the-site%e2%80%99s-archive-every-minute/'
 Post:
   - link
 categories:

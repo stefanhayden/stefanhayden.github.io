@@ -5,7 +5,7 @@ date: 2007-07-22T12:27:17+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/22/a-nasal-spray-to-shed-your-shyness/
-permalink: /2007/07/22/a-nasal-spray-to-shed-your-shyness/
+permalink: /blog/2007/07/22/a-nasal-spray-to-shed-your-shyness/
 Post:
   - link
 categories:

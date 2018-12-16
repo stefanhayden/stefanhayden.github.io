@@ -5,7 +5,7 @@ date: 2008-01-02T01:00:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/02/the-year-in-feminism/
-permalink: /2008/01/02/the-year-in-feminism/
+permalink: /blog/2008/01/02/the-year-in-feminism/
 Post:
   - link
 categories:

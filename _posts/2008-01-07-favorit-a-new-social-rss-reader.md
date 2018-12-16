@@ -5,7 +5,7 @@ date: 2008-01-07T00:41:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/07/favorit-a-new-social-rss-reader/
-permalink: /2008/01/07/favorit-a-new-social-rss-reader/
+permalink: /blog/2008/01/07/favorit-a-new-social-rss-reader/
 categories:
   - web
 ---

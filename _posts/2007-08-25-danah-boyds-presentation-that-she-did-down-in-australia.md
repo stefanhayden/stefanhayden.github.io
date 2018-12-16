@@ -5,7 +5,7 @@ date: 2007-08-25T18:34:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/25/danah-boyds-presentation-that-she-did-down-in-australia/
-permalink: /2007/08/25/danah-boyds-presentation-that-she-did-down-in-australia/
+permalink: /blog/2007/08/25/danah-boyds-presentation-that-she-did-down-in-australia/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-02-05T22:42:17+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/02/05/young-adult-book-release-dates/
-permalink: /2006/02/05/young-adult-book-release-dates/
+permalink: /blog/2006/02/05/young-adult-book-release-dates/
 categories:
   - design
   - personal

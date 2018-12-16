@@ -5,7 +5,7 @@ date: 2009-10-27T08:28:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2009/10/27/windows-7-first-glance/
-permalink: /2009/10/27/windows-7-first-glance/
+permalink: /blog/2009/10/27/windows-7-first-glance/
 categories:
   - Uncategorized
 ---

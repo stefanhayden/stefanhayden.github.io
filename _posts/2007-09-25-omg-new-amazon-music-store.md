@@ -5,7 +5,7 @@ date: 2007-09-25T18:21:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/25/omg-new-amazon-music-store/
-permalink: /2007/09/25/omg-new-amazon-music-store/
+permalink: /blog/2007/09/25/omg-new-amazon-music-store/
 Post:
   - link
 categories:

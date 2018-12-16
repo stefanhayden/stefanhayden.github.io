@@ -5,7 +5,7 @@ date: 2007-02-27T11:05:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/27/great-video-with-the-ceo-of-ning-which-is-a-site-that-lets-anyone-create-a-social-network/
-permalink: /2007/02/27/great-video-with-the-ceo-of-ning-which-is-a-site-that-lets-anyone-create-a-social-network/
+permalink: /blog/2007/02/27/great-video-with-the-ceo-of-ning-which-is-a-site-that-lets-anyone-create-a-social-network/
 Post:
   - link
 categories:

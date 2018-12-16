@@ -5,7 +5,7 @@ date: 2008-02-02T18:42:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/02/state-of-the-comic-book-industry/
-permalink: /2008/02/02/state-of-the-comic-book-industry/
+permalink: /blog/2008/02/02/state-of-the-comic-book-industry/
 categories:
   - web
 tags:

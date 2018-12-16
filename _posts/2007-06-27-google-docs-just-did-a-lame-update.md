@@ -5,7 +5,7 @@ date: 2007-06-27T15:38:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/27/google-docs-just-did-a-lame-update/
-permalink: /2007/06/27/google-docs-just-did-a-lame-update/
+permalink: /blog/2007/06/27/google-docs-just-did-a-lame-update/
 Post:
   - link
 categories:

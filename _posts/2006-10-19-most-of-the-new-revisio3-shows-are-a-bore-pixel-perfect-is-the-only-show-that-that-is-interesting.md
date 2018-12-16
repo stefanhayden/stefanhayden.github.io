@@ -5,7 +5,7 @@ date: 2006-10-19T22:15:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/19/most-of-the-new-revisio3-shows-are-a-bore-pixel-perfect-is-the-only-show-that-that-is-interesting/
-permalink: /2006/10/19/most-of-the-new-revisio3-shows-are-a-bore-pixel-perfect-is-the-only-show-that-that-is-interesting/
+permalink: /blog/2006/10/19/most-of-the-new-revisio3-shows-are-a-bore-pixel-perfect-is-the-only-show-that-that-is-interesting/
 Post:
   - link
 categories:

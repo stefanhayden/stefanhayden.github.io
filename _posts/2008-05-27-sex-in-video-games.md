@@ -5,7 +5,7 @@ date: 2008-05-27T09:21:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=884
-permalink: /2008/05/27/sex-in-video-games/
+permalink: /blog/2008/05/27/sex-in-video-games/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-07-20T20:54:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=953
-permalink: /2008/07/20/dr-horrible/
+permalink: /blog/2008/07/20/dr-horrible/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-11-06T11:56:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/06/electronic-voting-machines-are-very-much-broken-video/
-permalink: /2006/11/06/electronic-voting-machines-are-very-much-broken-video/
+permalink: /blog/2006/11/06/electronic-voting-machines-are-very-much-broken-video/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-04-03T16:57:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=831
-permalink: /2008/04/03/remnants-of-skystone/
+permalink: /blog/2008/04/03/remnants-of-skystone/
 Post:
   - link
 categories:

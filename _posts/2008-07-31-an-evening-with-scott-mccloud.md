@@ -5,7 +5,7 @@ date: 2008-07-31T09:20:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1020
-permalink: /2008/07/31/an-evening-with-scott-mccloud/
+permalink: /blog/2008/07/31/an-evening-with-scott-mccloud/
 categories:
   - local
 ---

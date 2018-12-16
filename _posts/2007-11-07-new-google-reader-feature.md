@@ -5,7 +5,7 @@ date: 2007-11-07T08:07:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/07/new-google-reader-feature/
-permalink: /2007/11/07/new-google-reader-feature/
+permalink: /blog/2007/11/07/new-google-reader-feature/
 categories:
   - review
 ---

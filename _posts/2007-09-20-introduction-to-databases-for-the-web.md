@@ -5,7 +5,7 @@ date: 2007-09-20T12:43:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/20/introduction-to-databases-for-the-web/
-permalink: /2007/09/20/introduction-to-databases-for-the-web/
+permalink: /blog/2007/09/20/introduction-to-databases-for-the-web/
 Post:
   - link
 categories:

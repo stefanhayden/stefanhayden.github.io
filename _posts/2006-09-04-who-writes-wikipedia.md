@@ -5,7 +5,7 @@ date: 2006-09-04T16:32:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/04/who-writes-wikipedia/
-permalink: /2006/09/04/who-writes-wikipedia/
+permalink: /blog/2006/09/04/who-writes-wikipedia/
 Post:
   - link
 categories:

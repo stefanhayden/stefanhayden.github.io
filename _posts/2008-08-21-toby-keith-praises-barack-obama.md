@@ -5,7 +5,7 @@ date: 2008-08-21T09:55:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1111
-permalink: /2008/08/21/toby-keith-praises-barack-obama/
+permalink: /blog/2008/08/21/toby-keith-praises-barack-obama/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-07-17T09:50:16+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=945
-permalink: /2008/07/17/five-awesome-complainers/
+permalink: /blog/2008/07/17/five-awesome-complainers/
 categories:
   - video
   - web

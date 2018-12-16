@@ -5,7 +5,7 @@ date: 2005-05-24T08:05:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/05/24/flawed-but-fun/
-permalink: /2005/05/24/flawed-but-fun/
+permalink: /blog/2005/05/24/flawed-but-fun/
 categories:
   - personal
 ---

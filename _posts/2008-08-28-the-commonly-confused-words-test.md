@@ -5,7 +5,7 @@ date: 2008-08-28T23:03:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1131
-permalink: /2008/08/28/the-commonly-confused-words-test/
+permalink: /blog/2008/08/28/the-commonly-confused-words-test/
 openid_comments:
   - 'a:1:{i:0;s:5:"49454";}'
 categories:

@@ -5,7 +5,7 @@ date: 2007-03-05T10:14:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/05/bill-richardson-webdesign-analysis/
-permalink: /2007/03/05/bill-richardson-webdesign-analysis/
+permalink: /blog/2007/03/05/bill-richardson-webdesign-analysis/
 categories:
   - design
   - web

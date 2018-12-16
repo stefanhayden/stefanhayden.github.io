@@ -5,7 +5,7 @@ date: 2008-08-07T19:08:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1050
-permalink: /2008/08/07/your-new-favorite-youtube-channel-mitchmagee/
+permalink: /blog/2008/08/07/your-new-favorite-youtube-channel-mitchmagee/
 Post:
   - link
 categories:

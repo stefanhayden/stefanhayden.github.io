@@ -5,7 +5,7 @@ date: 2007-10-16T12:32:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/16/zapposcom/
-permalink: /2007/10/16/zapposcom/
+permalink: /blog/2007/10/16/zapposcom/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-07-02T16:19:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/02/superman-doomsday-trailer/
-permalink: /2007/07/02/superman-doomsday-trailer/
+permalink: /blog/2007/07/02/superman-doomsday-trailer/
 categories:
   - video
 ---

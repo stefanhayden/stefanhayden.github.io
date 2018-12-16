@@ -5,7 +5,7 @@ date: 2013-01-23T22:25:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1664
-permalink: /2013/01/23/youtube-stars-joey-and-meghan-to-be-in-cbs-show-the-amazing-race/
+permalink: /blog/2013/01/23/youtube-stars-joey-and-meghan-to-be-in-cbs-show-the-amazing-race/
 categories:
   - youtube
 ---

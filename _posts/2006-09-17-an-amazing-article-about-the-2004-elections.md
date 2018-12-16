@@ -5,7 +5,7 @@ date: 2006-09-17T21:42:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/17/an-amazing-article-about-the-2004-elections/
-permalink: /2006/09/17/an-amazing-article-about-the-2004-elections/
+permalink: /blog/2006/09/17/an-amazing-article-about-the-2004-elections/
 Post:
   - link
 categories:

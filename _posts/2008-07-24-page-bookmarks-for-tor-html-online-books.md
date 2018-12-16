@@ -5,7 +5,7 @@ date: 2008-07-24T11:36:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=963
-permalink: /2008/07/24/page-bookmarks-for-tor-html-online-books/
+permalink: /blog/2008/07/24/page-bookmarks-for-tor-html-online-books/
 categories:
   - books
   - web

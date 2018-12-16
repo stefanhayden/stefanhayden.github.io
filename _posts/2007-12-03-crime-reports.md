@@ -5,7 +5,7 @@ date: 2007-12-03T16:01:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/03/crime-reports/
-permalink: /2007/12/03/crime-reports/
+permalink: /blog/2007/12/03/crime-reports/
 Post:
   - link
 categories:

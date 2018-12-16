@@ -5,7 +5,7 @@ date: 2006-08-22T14:25:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/22/i-love-screencasts-and-they-seem-to-be-picking-up-steam/
-permalink: /2006/08/22/i-love-screencasts-and-they-seem-to-be-picking-up-steam/
+permalink: /blog/2006/08/22/i-love-screencasts-and-they-seem-to-be-picking-up-steam/
 Post:
   - link
 enclosure:

@@ -5,7 +5,7 @@ date: 2007-09-22T10:48:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/22/airplane-trips-shorter-than-500-miles-flying-was-no-faster-than-driving/
-permalink: /2007/09/22/airplane-trips-shorter-than-500-miles-flying-was-no-faster-than-driving/
+permalink: /blog/2007/09/22/airplane-trips-shorter-than-500-miles-flying-was-no-faster-than-driving/
 Post:
   - link
 categories:

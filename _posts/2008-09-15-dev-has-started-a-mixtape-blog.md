@@ -5,7 +5,7 @@ date: 2008-09-15T13:36:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1152
-permalink: /2008/09/15/dev-has-started-a-mixtape-blog/
+permalink: /blog/2008/09/15/dev-has-started-a-mixtape-blog/
 Post:
   - link
 categories:

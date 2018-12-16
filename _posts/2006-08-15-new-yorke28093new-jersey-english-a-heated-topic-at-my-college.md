@@ -5,7 +5,7 @@ date: 2006-08-15T12:02:02+00:00
 author: Stefan Hayden
 layout: post
 guid: 'http://www.stefanhayden.com/blog/2006/08/15/new-york%e2%80%93new-jersey-english-a-heated-topic-at-my-college/'
-permalink: '/2006/08/15/new-york%e2%80%93new-jersey-english-a-heated-topic-at-my-college/'
+permalink: /blog'/2006/08/15/new-york%e2%80%93new-jersey-english-a-heated-topic-at-my-college/'
 Post:
   - link
 categories:

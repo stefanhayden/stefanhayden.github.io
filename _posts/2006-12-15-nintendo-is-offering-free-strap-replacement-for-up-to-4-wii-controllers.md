@@ -5,7 +5,7 @@ date: 2006-12-15T10:06:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/15/nintendo-is-offering-free-strap-replacement-for-up-to-4-wii-controllers/
-permalink: /2006/12/15/nintendo-is-offering-free-strap-replacement-for-up-to-4-wii-controllers/
+permalink: /blog/2006/12/15/nintendo-is-offering-free-strap-replacement-for-up-to-4-wii-controllers/
 Post:
   - link
 categories:

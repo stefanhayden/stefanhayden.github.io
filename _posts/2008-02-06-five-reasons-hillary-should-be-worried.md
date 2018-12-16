@@ -5,7 +5,7 @@ date: 2008-02-06T16:35:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/06/five-reasons-hillary-should-be-worried/
-permalink: /2008/02/06/five-reasons-hillary-should-be-worried/
+permalink: /blog/2008/02/06/five-reasons-hillary-should-be-worried/
 Post:
   - link
 categories:

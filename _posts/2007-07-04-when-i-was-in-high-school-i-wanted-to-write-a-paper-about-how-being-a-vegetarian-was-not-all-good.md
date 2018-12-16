@@ -5,7 +5,7 @@ date: 2007-07-04T12:08:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/04/when-i-was-in-high-school-i-wanted-to-write-a-paper-about-how-being-a-vegetarian-was-not-all-good/
-permalink: /2007/07/04/when-i-was-in-high-school-i-wanted-to-write-a-paper-about-how-being-a-vegetarian-was-not-all-good/
+permalink: /blog/2007/07/04/when-i-was-in-high-school-i-wanted-to-write-a-paper-about-how-being-a-vegetarian-was-not-all-good/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2005-09-15T23:35:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/09/15/gaphic-design-should-be-more-then-just-print-design/
-permalink: /2005/09/15/gaphic-design-should-be-more-then-just-print-design/
+permalink: /blog/2005/09/15/gaphic-design-should-be-more-then-just-print-design/
 categories:
   - design
 ---

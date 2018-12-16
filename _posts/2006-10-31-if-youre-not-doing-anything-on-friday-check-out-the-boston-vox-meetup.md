@@ -5,7 +5,7 @@ date: 2006-10-31T23:15:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/31/if-youre-not-doing-anything-on-friday-check-out-the-boston-vox-meetup/
-permalink: /2006/10/31/if-youre-not-doing-anything-on-friday-check-out-the-boston-vox-meetup/
+permalink: /blog/2006/10/31/if-youre-not-doing-anything-on-friday-check-out-the-boston-vox-meetup/
 Post:
   - link
 categories:

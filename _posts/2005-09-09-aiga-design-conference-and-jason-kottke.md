@@ -5,7 +5,7 @@ date: 2005-09-09T20:12:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/09/09/aiga-design-conference-and-jason-kottke/
-permalink: /2005/09/09/aiga-design-conference-and-jason-kottke/
+permalink: /blog/2005/09/09/aiga-design-conference-and-jason-kottke/
 categories:
   - design
   - personal

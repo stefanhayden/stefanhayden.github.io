@@ -5,7 +5,7 @@ date: 2007-07-18T16:47:57+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/18/these-take-away-shows-are-amazing/
-permalink: /2007/07/18/these-take-away-shows-are-amazing/
+permalink: /blog/2007/07/18/these-take-away-shows-are-amazing/
 Post:
   - link
 categories:

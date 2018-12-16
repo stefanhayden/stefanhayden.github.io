@@ -5,7 +5,7 @@ date: 2007-06-11T21:50:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/11/congratulations-to-brooke-and-ricardo-for-winning-nyfa-awards/
-permalink: /2007/06/11/congratulations-to-brooke-and-ricardo-for-winning-nyfa-awards/
+permalink: /blog/2007/06/11/congratulations-to-brooke-and-ricardo-for-winning-nyfa-awards/
 Post:
   - link
 categories:

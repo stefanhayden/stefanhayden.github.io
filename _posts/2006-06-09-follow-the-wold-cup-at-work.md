@@ -5,7 +5,7 @@ date: 2006-06-09T12:51:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/06/09/follow-the-wold-cup-at-work/
-permalink: /2006/06/09/follow-the-wold-cup-at-work/
+permalink: /blog/2006/06/09/follow-the-wold-cup-at-work/
 categories:
   - resources
   - web

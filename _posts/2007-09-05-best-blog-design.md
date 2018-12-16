@@ -5,7 +5,7 @@ date: 2007-09-05T23:50:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/05/best-blog-design/
-permalink: /2007/09/05/best-blog-design/
+permalink: /blog/2007/09/05/best-blog-design/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-11-18T15:23:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/18/zach-inglis/
-permalink: /2007/11/18/zach-inglis/
+permalink: /blog/2007/11/18/zach-inglis/
 Post:
   - link
 categories:

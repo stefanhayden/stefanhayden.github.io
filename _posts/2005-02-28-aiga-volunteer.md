@@ -5,7 +5,7 @@ date: 2005-02-28T00:24:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=3
-permalink: /2005/02/28/aiga-volunteer/
+permalink: /blog/2005/02/28/aiga-volunteer/
 categories:
   - design
 ---

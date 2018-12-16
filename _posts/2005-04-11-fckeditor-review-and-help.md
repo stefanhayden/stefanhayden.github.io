@@ -5,7 +5,7 @@ date: 2005-04-11T04:13:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=19
-permalink: /2005/04/11/fckeditor-review-and-help/
+permalink: /blog/2005/04/11/fckeditor-review-and-help/
 categories:
   - design
   - web

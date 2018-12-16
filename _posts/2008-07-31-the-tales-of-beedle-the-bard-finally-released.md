@@ -5,7 +5,7 @@ date: 2008-07-31T09:57:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1022
-permalink: /2008/07/31/the-tales-of-beedle-the-bard-finally-released/
+permalink: /blog/2008/07/31/the-tales-of-beedle-the-bard-finally-released/
 categories:
   - books
 ---

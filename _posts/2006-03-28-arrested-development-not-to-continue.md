@@ -5,7 +5,7 @@ date: 2006-03-28T10:09:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/28/arrested-development-not-to-continue/
-permalink: /2006/03/28/arrested-development-not-to-continue/
+permalink: /blog/2006/03/28/arrested-development-not-to-continue/
 categories:
   - Uncategorized
 ---

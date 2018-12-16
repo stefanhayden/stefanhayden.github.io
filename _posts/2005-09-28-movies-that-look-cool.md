@@ -5,7 +5,7 @@ date: 2005-09-28T21:23:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=64
-permalink: /2005/09/28/movies-that-look-cool/
+permalink: /blog/2005/09/28/movies-that-look-cool/
 categories:
   - personal
 ---

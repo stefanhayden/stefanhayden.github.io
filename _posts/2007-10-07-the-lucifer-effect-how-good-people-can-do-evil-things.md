@@ -5,7 +5,7 @@ date: 2007-10-07T14:16:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/07/the-lucifer-effect-how-good-people-can-do-evil-things/
-permalink: /2007/10/07/the-lucifer-effect-how-good-people-can-do-evil-things/
+permalink: /blog/2007/10/07/the-lucifer-effect-how-good-people-can-do-evil-things/
 categories:
   - video
 ---

@@ -5,7 +5,7 @@ date: 2008-11-06T09:53:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1334
-permalink: /2008/11/06/nj-ballot-questions/
+permalink: /blog/2008/11/06/nj-ballot-questions/
 Post:
   - link
 categories:

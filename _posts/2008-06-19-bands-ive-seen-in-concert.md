@@ -5,7 +5,7 @@ date: 2008-06-19T14:13:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=907
-permalink: /2008/06/19/bands-ive-seen-in-concert/
+permalink: /blog/2008/06/19/bands-ive-seen-in-concert/
 categories:
   - personal
 ---

@@ -5,7 +5,7 @@ date: 2008-08-15T13:46:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1088
-permalink: /2008/08/15/books-i-am-reading-stats/
+permalink: /blog/2008/08/15/books-i-am-reading-stats/
 categories:
   - Books I Am Reading
   - web

@@ -5,7 +5,7 @@ date: 2005-03-21T17:29:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=16
-permalink: /2005/03/21/wheres-dunstan/
+permalink: /blog/2005/03/21/wheres-dunstan/
 categories:
   - blog
   - web

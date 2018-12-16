@@ -5,7 +5,7 @@ date: 2007-06-06T10:43:46+00:00
 author: Stefan Hayden
 layout: post
 guid: 'http://www.stefanhayden.com/blog/2007/06/06/quirky-ysabella-brave-of-youtube-fame-got-signed-to-warner-music%e2%80%99s-cordless-recordings/'
-permalink: '/2007/06/06/quirky-ysabella-brave-of-youtube-fame-got-signed-to-warner-music%e2%80%99s-cordless-recordings/'
+permalink: /blog'/2007/06/06/quirky-ysabella-brave-of-youtube-fame-got-signed-to-warner-music%e2%80%99s-cordless-recordings/'
 Post:
   - link
 categories:

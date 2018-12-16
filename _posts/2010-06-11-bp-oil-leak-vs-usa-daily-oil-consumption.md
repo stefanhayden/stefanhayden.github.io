@@ -5,7 +5,7 @@ date: 2010-06-11T20:14:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1524
-permalink: /2010/06/11/bp-oil-leak-vs-usa-daily-oil-consumption/
+permalink: /blog/2010/06/11/bp-oil-leak-vs-usa-daily-oil-consumption/
 categories:
   - politics
 ---

@@ -5,7 +5,7 @@ date: 2007-06-18T21:17:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/18/bring-comics-online-before-they-die-offline/
-permalink: /2007/06/18/bring-comics-online-before-they-die-offline/
+permalink: /blog/2007/06/18/bring-comics-online-before-they-die-offline/
 categories:
   - personal
   - web

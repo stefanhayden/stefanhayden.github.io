@@ -5,7 +5,7 @@ date: 2008-09-24T11:48:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1208
-permalink: /2008/09/24/rachel-maddow-explains-the-wall-street-bailout/
+permalink: /blog/2008/09/24/rachel-maddow-explains-the-wall-street-bailout/
 categories:
   - video
 ---

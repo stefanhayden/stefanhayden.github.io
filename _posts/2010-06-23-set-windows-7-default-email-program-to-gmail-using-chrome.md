@@ -5,7 +5,7 @@ date: 2010-06-23T23:02:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1542
-permalink: /2010/06/23/set-windows-7-default-email-program-to-gmail-using-chrome/
+permalink: /blog/2010/06/23/set-windows-7-default-email-program-to-gmail-using-chrome/
 categories:
   - resources
 ---

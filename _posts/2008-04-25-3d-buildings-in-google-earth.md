@@ -5,7 +5,7 @@ date: 2008-04-25T19:56:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=857
-permalink: /2008/04/25/3d-buildings-in-google-earth/
+permalink: /blog/2008/04/25/3d-buildings-in-google-earth/
 Post:
   - link
 categories:

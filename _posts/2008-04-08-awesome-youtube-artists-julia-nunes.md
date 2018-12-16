@@ -5,7 +5,7 @@ date: 2008-04-08T17:05:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=836
-permalink: /2008/04/08/awesome-youtube-artists-julia-nunes/
+permalink: /blog/2008/04/08/awesome-youtube-artists-julia-nunes/
 categories:
   - video
   - web

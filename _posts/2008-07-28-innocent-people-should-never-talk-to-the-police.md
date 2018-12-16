@@ -5,7 +5,7 @@ date: 2008-07-28T09:13:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=985
-permalink: /2008/07/28/innocent-people-should-never-talk-to-the-police/
+permalink: /blog/2008/07/28/innocent-people-should-never-talk-to-the-police/
 categories:
   - video
   - web

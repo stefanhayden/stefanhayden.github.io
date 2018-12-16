@@ -5,7 +5,7 @@ date: 2006-10-23T21:42:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/23/leave-a-comment-below/
-permalink: /2006/10/23/leave-a-comment-below/
+permalink: /blog/2006/10/23/leave-a-comment-below/
 categories:
   - blog
   - personal

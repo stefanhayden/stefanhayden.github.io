@@ -5,7 +5,7 @@ date: 2006-07-28T18:29:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/28/is-gametap-worthit/
-permalink: /2006/07/28/is-gametap-worthit/
+permalink: /blog/2006/07/28/is-gametap-worthit/
 categories:
   - personal
 ---

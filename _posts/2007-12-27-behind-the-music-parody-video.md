@@ -5,7 +5,7 @@ date: 2007-12-27T11:03:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/27/behind-the-music-parody-video/
-permalink: /2007/12/27/behind-the-music-parody-video/
+permalink: /blog/2007/12/27/behind-the-music-parody-video/
 categories:
   - video
 ---

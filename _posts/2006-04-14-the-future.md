@@ -5,7 +5,7 @@ date: 2006-04-14T06:58:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/14/the-future/
-permalink: /2006/04/14/the-future/
+permalink: /blog/2006/04/14/the-future/
 categories:
   - blog
   - personal

@@ -5,7 +5,7 @@ date: 2007-03-01T10:32:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/01/this-has-to-be-one-of-the-worst-songs-and-music-videos-ever/
-permalink: /2007/03/01/this-has-to-be-one-of-the-worst-songs-and-music-videos-ever/
+permalink: /blog/2007/03/01/this-has-to-be-one-of-the-worst-songs-and-music-videos-ever/
 Post:
   - link
 categories:

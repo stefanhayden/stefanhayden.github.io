@@ -5,7 +5,7 @@ date: 2008-01-23T13:57:08+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/23/a-market-view-of-marriage-and-how-its-changing-from-a-productive-marriage-to-a-hedonic/
-permalink: /2008/01/23/a-market-view-of-marriage-and-how-its-changing-from-a-productive-marriage-to-a-hedonic/
+permalink: /blog/2008/01/23/a-market-view-of-marriage-and-how-its-changing-from-a-productive-marriage-to-a-hedonic/
 Post:
   - link
 categories:

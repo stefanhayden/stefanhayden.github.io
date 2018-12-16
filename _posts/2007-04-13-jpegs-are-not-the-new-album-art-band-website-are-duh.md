@@ -5,7 +5,7 @@ date: 2007-04-13T12:49:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/13/jpegs-are-not-the-new-album-art-band-website-are-duh/
-permalink: /2007/04/13/jpegs-are-not-the-new-album-art-band-website-are-duh/
+permalink: /blog/2007/04/13/jpegs-are-not-the-new-album-art-band-website-are-duh/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-07-30T18:31:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/30/open-source-music-genome-project/
-permalink: /2006/07/30/open-source-music-genome-project/
+permalink: /blog/2006/07/30/open-source-music-genome-project/
 categories:
   - personal
   - resources

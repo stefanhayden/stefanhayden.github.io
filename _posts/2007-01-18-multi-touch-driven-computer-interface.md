@@ -5,7 +5,7 @@ date: 2007-01-18T20:12:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/18/multi-touch-driven-computer-interface/
-permalink: /2007/01/18/multi-touch-driven-computer-interface/
+permalink: /blog/2007/01/18/multi-touch-driven-computer-interface/
 categories:
   - video
 ---

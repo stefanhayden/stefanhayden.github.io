@@ -5,7 +5,7 @@ date: 2006-07-28T19:56:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/28/cyworld-comes-to-the-us/
-permalink: /2006/07/28/cyworld-comes-to-the-us/
+permalink: /blog/2006/07/28/cyworld-comes-to-the-us/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2009-06-26T09:31:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1472
-permalink: /2009/06/26/if-you-have-vista-and-want-to-upgrade-to-windows-7-then-now-is-the-time-to-do-it/
+permalink: /blog/2009/06/26/if-you-have-vista-and-want-to-upgrade-to-windows-7-then-now-is-the-time-to-do-it/
 Post:
   - link
 categories:

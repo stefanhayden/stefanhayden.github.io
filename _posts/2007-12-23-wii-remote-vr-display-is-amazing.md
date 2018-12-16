@@ -5,7 +5,7 @@ date: 2007-12-23T11:29:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/23/wii-remote-vr-display-is-amazing/
-permalink: /2007/12/23/wii-remote-vr-display-is-amazing/
+permalink: /blog/2007/12/23/wii-remote-vr-display-is-amazing/
 categories:
   - video
 ---

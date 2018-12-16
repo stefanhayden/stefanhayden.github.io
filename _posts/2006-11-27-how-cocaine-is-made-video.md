@@ -5,7 +5,7 @@ date: 2006-11-27T13:13:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/27/how-cocaine-is-made-video/
-permalink: /2006/11/27/how-cocaine-is-made-video/
+permalink: /blog/2006/11/27/how-cocaine-is-made-video/
 Post:
   - link
 categories:

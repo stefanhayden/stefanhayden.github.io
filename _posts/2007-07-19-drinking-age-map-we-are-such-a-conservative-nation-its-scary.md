@@ -5,7 +5,7 @@ date: 2007-07-19T07:16:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/19/drinking-age-map-we-are-such-a-conservative-nation-its-scary/
-permalink: /2007/07/19/drinking-age-map-we-are-such-a-conservative-nation-its-scary/
+permalink: /blog/2007/07/19/drinking-age-map-we-are-such-a-conservative-nation-its-scary/
 Post:
   - link
 categories:

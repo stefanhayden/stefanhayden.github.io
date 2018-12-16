@@ -5,7 +5,7 @@ date: 2007-12-04T21:17:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/04/gmail-finally-ads-aim-suport/
-permalink: /2007/12/04/gmail-finally-ads-aim-suport/
+permalink: /blog/2007/12/04/gmail-finally-ads-aim-suport/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-07-05T09:20:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=931
-permalink: /2008/07/05/there-are-now-more-overweight-than-malnourished-people-in-the-world/
+permalink: /blog/2008/07/05/there-are-now-more-overweight-than-malnourished-people-in-the-world/
 Post:
   - link
 categories:

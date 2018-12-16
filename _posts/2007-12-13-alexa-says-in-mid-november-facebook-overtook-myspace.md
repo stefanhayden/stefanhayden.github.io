@@ -5,7 +5,7 @@ date: 2007-12-13T12:28:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/13/alexa-says-in-mid-november-facebook-overtook-myspace/
-permalink: /2007/12/13/alexa-says-in-mid-november-facebook-overtook-myspace/
+permalink: /blog/2007/12/13/alexa-says-in-mid-november-facebook-overtook-myspace/
 Post:
   - link
 categories:

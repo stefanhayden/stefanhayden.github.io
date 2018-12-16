@@ -5,7 +5,7 @@ date: 2005-06-04T16:37:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/06/04/rhizome-a-raw-rss-feed/
-permalink: /2005/06/04/rhizome-a-raw-rss-feed/
+permalink: /blog/2005/06/04/rhizome-a-raw-rss-feed/
 categories:
   - resources
   - web

@@ -5,7 +5,7 @@ date: 2007-12-19T13:43:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/19/i-love-meta-marketing/
-permalink: /2007/12/19/i-love-meta-marketing/
+permalink: /blog/2007/12/19/i-love-meta-marketing/
 categories:
   - video
 ---

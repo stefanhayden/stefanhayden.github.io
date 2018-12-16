@@ -5,7 +5,7 @@ date: 2006-04-18T12:28:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/18/i-dont-remember-this-happening-on-the-jetsons/
-permalink: /2006/04/18/i-dont-remember-this-happening-on-the-jetsons/
+permalink: /blog/2006/04/18/i-dont-remember-this-happening-on-the-jetsons/
 categories:
   - personal
 ---

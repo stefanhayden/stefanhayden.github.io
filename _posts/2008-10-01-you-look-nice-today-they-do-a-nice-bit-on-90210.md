@@ -5,7 +5,7 @@ date: 2008-10-01T18:03:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1228
-permalink: /2008/10/01/you-look-nice-today-they-do-a-nice-bit-on-90210/
+permalink: /blog/2008/10/01/you-look-nice-today-they-do-a-nice-bit-on-90210/
 Post:
   - link
 categories:

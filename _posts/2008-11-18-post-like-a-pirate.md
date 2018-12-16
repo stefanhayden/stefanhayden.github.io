@@ -5,7 +5,7 @@ date: 2008-11-18T07:46:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1353
-permalink: /2008/11/18/post-like-a-pirate/
+permalink: /blog/2008/11/18/post-like-a-pirate/
 Post:
   - link
 categories:

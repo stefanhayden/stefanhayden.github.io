@@ -5,7 +5,7 @@ date: 2007-09-07T19:43:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/07/coscripter-sucks/
-permalink: /2007/09/07/coscripter-sucks/
+permalink: /blog/2007/09/07/coscripter-sucks/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-12-14T14:53:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/14/best-web-series-of-2007-the-stack/
-permalink: /2007/12/14/best-web-series-of-2007-the-stack/
+permalink: /blog/2007/12/14/best-web-series-of-2007-the-stack/
 categories:
   - video
   - web

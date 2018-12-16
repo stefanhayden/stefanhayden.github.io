@@ -5,7 +5,7 @@ date: 2007-09-09T23:24:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/09/delicious-redesign/
-permalink: /2007/09/09/delicious-redesign/
+permalink: /blog/2007/09/09/delicious-redesign/
 Post:
   - link
 categories:

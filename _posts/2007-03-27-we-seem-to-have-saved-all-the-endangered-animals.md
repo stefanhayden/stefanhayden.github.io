@@ -5,7 +5,7 @@ date: 2007-03-27T13:29:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/27/we-seem-to-have-saved-all-the-endangered-animals/
-permalink: /2007/03/27/we-seem-to-have-saved-all-the-endangered-animals/
+permalink: /blog/2007/03/27/we-seem-to-have-saved-all-the-endangered-animals/
 Post:
   - link
 categories:

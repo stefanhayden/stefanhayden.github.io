@@ -5,7 +5,7 @@ date: 2007-11-29T11:36:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/29/gimme-the-truth-the-politifact-song/
-permalink: /2007/11/29/gimme-the-truth-the-politifact-song/
+permalink: /blog/2007/11/29/gimme-the-truth-the-politifact-song/
 categories:
   - video
 ---

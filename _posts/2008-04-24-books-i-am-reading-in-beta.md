@@ -5,7 +5,7 @@ date: 2008-04-24T10:33:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=855
-permalink: /2008/04/24/books-i-am-reading-in-beta/
+permalink: /blog/2008/04/24/books-i-am-reading-in-beta/
 openid_comments:
   - 'a:2:{i:0;s:5:"49202";i:1;s:5:"49118";}'
 categories:

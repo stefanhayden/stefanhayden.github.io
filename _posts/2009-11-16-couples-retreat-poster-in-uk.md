@@ -5,7 +5,7 @@ date: 2009-11-16T09:11:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2009/11/16/couples-retreat-poster-in-uk/
-permalink: /2009/11/16/couples-retreat-poster-in-uk/
+permalink: /blog/2009/11/16/couples-retreat-poster-in-uk/
 categories:
   - Uncategorized
 ---

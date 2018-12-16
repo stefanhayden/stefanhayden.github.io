@@ -5,7 +5,7 @@ date: 2013-06-21T21:21:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1672
-permalink: /2013/06/21/fixing-google-analytics-self-referral-problem/
+permalink: /blog/2013/06/21/fixing-google-analytics-self-referral-problem/
 categories:
   - development
 ---

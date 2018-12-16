@@ -5,7 +5,7 @@ date: 2007-05-20T14:44:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/20/who-does-own-the-statue-of-liberty/
-permalink: /2007/05/20/who-does-own-the-statue-of-liberty/
+permalink: /blog/2007/05/20/who-does-own-the-statue-of-liberty/
 categories:
   - personal
   - video

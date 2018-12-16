@@ -5,7 +5,7 @@ date: 2007-04-08T20:15:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/08/miranda-julys-new-website-is-amazingly-simple-and-compelling/
-permalink: /2007/04/08/miranda-julys-new-website-is-amazingly-simple-and-compelling/
+permalink: /blog/2007/04/08/miranda-julys-new-website-is-amazingly-simple-and-compelling/
 Post:
   - link
 categories:

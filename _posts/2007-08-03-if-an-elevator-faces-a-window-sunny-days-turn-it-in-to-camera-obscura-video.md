@@ -5,7 +5,7 @@ date: 2007-08-03T12:34:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/03/if-an-elevator-faces-a-window-sunny-days-turn-it-in-to-camera-obscura-video/
-permalink: /2007/08/03/if-an-elevator-faces-a-window-sunny-days-turn-it-in-to-camera-obscura-video/
+permalink: /blog/2007/08/03/if-an-elevator-faces-a-window-sunny-days-turn-it-in-to-camera-obscura-video/
 Post:
   - link
 categories:

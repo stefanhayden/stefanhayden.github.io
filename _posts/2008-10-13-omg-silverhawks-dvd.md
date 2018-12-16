@@ -5,7 +5,7 @@ date: 2008-10-13T19:36:46+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1271
-permalink: /2008/10/13/omg-silverhawks-dvd/
+permalink: /blog/2008/10/13/omg-silverhawks-dvd/
 categories:
   - tv
   - video

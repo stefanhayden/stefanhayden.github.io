@@ -5,7 +5,7 @@ date: 2008-12-31T11:50:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1409
-permalink: /2008/12/31/news-of-zoe-deschanel-and-ben-gibbard-getting-married-have-hit-the-hipster-world-pretty-hard/
+permalink: /blog/2008/12/31/news-of-zoe-deschanel-and-ben-gibbard-getting-married-have-hit-the-hipster-world-pretty-hard/
 Post:
   - link
 categories:

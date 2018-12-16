@@ -5,7 +5,7 @@ date: 2007-09-03T00:53:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/03/partial-zero-emissions-vehicle/
-permalink: /2007/09/03/partial-zero-emissions-vehicle/
+permalink: /blog/2007/09/03/partial-zero-emissions-vehicle/
 Post:
   - link
 categories:

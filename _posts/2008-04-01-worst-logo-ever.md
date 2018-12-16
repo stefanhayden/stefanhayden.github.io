@@ -5,7 +5,7 @@ date: 2008-04-01T14:31:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=827
-permalink: /2008/04/01/worst-logo-ever/
+permalink: /blog/2008/04/01/worst-logo-ever/
 Post:
   - link
 categories:

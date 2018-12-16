@@ -5,7 +5,7 @@ date: 2008-03-11T14:02:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/11/meta-success/
-permalink: /2008/03/11/meta-success/
+permalink: /blog/2008/03/11/meta-success/
 Post:
   - link
 categories:

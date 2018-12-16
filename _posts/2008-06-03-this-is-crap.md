@@ -5,7 +5,7 @@ date: 2008-06-03T16:46:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=894
-permalink: /2008/06/03/this-is-crap/
+permalink: /blog/2008/06/03/this-is-crap/
 Post:
   - link
 categories:

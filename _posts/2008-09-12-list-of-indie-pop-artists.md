@@ -5,7 +5,7 @@ date: 2008-09-12T09:52:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1169
-permalink: /2008/09/12/list-of-indie-pop-artists/
+permalink: /blog/2008/09/12/list-of-indie-pop-artists/
 Post:
   - link
 categories:

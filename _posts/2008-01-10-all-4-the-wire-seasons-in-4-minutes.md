@@ -5,7 +5,7 @@ date: 2008-01-10T11:04:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/10/all-4-the-wire-seasons-in-4-minutes/
-permalink: /2008/01/10/all-4-the-wire-seasons-in-4-minutes/
+permalink: /blog/2008/01/10/all-4-the-wire-seasons-in-4-minutes/
 categories:
   - video
 ---

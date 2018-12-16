@@ -5,7 +5,7 @@ date: 2008-01-15T00:29:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/15/marvel-digital/
-permalink: /2008/01/15/marvel-digital/
+permalink: /blog/2008/01/15/marvel-digital/
 Post:
   - link
 categories:

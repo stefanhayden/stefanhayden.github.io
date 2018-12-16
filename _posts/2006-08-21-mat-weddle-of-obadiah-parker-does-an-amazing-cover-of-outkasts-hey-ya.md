@@ -5,7 +5,7 @@ date: 2006-08-21T12:06:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/21/mat-weddle-of-obadiah-parker-does-an-amazing-cover-of-outkasts-hey-ya/
-permalink: /2006/08/21/mat-weddle-of-obadiah-parker-does-an-amazing-cover-of-outkasts-hey-ya/
+permalink: /blog/2006/08/21/mat-weddle-of-obadiah-parker-does-an-amazing-cover-of-outkasts-hey-ya/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-03-09T10:05:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/09/sxsw-parties/
-permalink: /2006/03/09/sxsw-parties/
+permalink: /blog/2006/03/09/sxsw-parties/
 categories:
   - personal
   - resources

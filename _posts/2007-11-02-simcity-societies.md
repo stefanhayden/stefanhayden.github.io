@@ -5,7 +5,7 @@ date: 2007-11-02T20:00:40+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/02/simcity-societies/
-permalink: /2007/11/02/simcity-societies/
+permalink: /blog/2007/11/02/simcity-societies/
 categories:
   - video
   - web

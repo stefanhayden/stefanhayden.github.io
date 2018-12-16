@@ -5,7 +5,7 @@ date: 2005-10-03T21:56:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/10/03/whiteboard-is-perfect-for-people-who-can-spell/
-permalink: /2005/10/03/whiteboard-is-perfect-for-people-who-can-spell/
+permalink: /blog/2005/10/03/whiteboard-is-perfect-for-people-who-can-spell/
 categories:
   - personal
   - web

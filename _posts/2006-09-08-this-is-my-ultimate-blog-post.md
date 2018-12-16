@@ -5,7 +5,7 @@ date: 2006-09-08T19:48:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/08/this-is-my-ultimate-blog-post/
-permalink: /2006/09/08/this-is-my-ultimate-blog-post/
+permalink: /blog/2006/09/08/this-is-my-ultimate-blog-post/
 Post:
   - link
 categories:

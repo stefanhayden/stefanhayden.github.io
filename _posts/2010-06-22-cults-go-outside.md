@@ -5,7 +5,7 @@ date: 2010-06-22T20:07:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1536
-permalink: /2010/06/22/cults-go-outside/
+permalink: /blog/2010/06/22/cults-go-outside/
 categories:
   - mp3
 ---

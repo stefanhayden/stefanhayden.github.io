@@ -5,7 +5,7 @@ date: 2007-06-01T09:19:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/01/why-cant-television-do-college-id-love-to-know-the-answer-to-that/
-permalink: /2007/06/01/why-cant-television-do-college-id-love-to-know-the-answer-to-that/
+permalink: /blog/2007/06/01/why-cant-television-do-college-id-love-to-know-the-answer-to-that/
 Post:
   - link
 categories:

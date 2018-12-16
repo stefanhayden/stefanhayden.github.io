@@ -5,7 +5,7 @@ date: 2008-08-05T15:07:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1038
-permalink: /2008/08/05/great-wrap-up-of-the-lonleygirl-story/
+permalink: /blog/2008/08/05/great-wrap-up-of-the-lonleygirl-story/
 Post:
   - link
 categories:

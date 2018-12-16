@@ -5,7 +5,7 @@ date: 2010-09-12T23:18:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1583
-permalink: /2010/09/12/red-band-trailer-kyle-chandler/
+permalink: /blog/2010/09/12/red-band-trailer-kyle-chandler/
 categories:
   - tv
   - video

@@ -5,7 +5,7 @@ date: 2007-05-17T08:08:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/17/sign-in-to-a-google-account-and-see-the-new-google-header-that-now-sits-across-all-their-online-services/
-permalink: /2007/05/17/sign-in-to-a-google-account-and-see-the-new-google-header-that-now-sits-across-all-their-online-services/
+permalink: /blog/2007/05/17/sign-in-to-a-google-account-and-see-the-new-google-header-that-now-sits-across-all-their-online-services/
 Post:
   - link
 categories:

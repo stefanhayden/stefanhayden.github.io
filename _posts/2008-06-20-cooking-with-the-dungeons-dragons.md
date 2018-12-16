@@ -5,7 +5,7 @@ date: 2008-06-20T13:30:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=909
-permalink: /2008/06/20/cooking-with-the-dungeons-dragons/
+permalink: /blog/2008/06/20/cooking-with-the-dungeons-dragons/
 Post:
   - link
 openid_comments:

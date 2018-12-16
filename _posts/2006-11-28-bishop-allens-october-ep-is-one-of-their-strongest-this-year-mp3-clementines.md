@@ -5,7 +5,7 @@ date: 2006-11-28T10:58:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/28/bishop-allens-october-ep-is-one-of-their-strongest-this-year-mp3-clementines/
-permalink: /2006/11/28/bishop-allens-october-ep-is-one-of-their-strongest-this-year-mp3-clementines/
+permalink: /blog/2006/11/28/bishop-allens-october-ep-is-one-of-their-strongest-this-year-mp3-clementines/
 Post:
   - link
 enclosure:

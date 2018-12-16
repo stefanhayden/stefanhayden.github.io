@@ -5,7 +5,7 @@ date: 2008-10-17T14:38:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1286
-permalink: /2008/10/17/man-is-a-great-short-film/
+permalink: /blog/2008/10/17/man-is-a-great-short-film/
 Post:
   - link
 categories:

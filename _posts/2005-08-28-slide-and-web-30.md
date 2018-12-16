@@ -5,7 +5,7 @@ date: 2005-08-28T17:56:16+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/08/28/slide-and-web-30/
-permalink: /2005/08/28/slide-and-web-30/
+permalink: /blog/2005/08/28/slide-and-web-30/
 categories:
   - personal
   - web

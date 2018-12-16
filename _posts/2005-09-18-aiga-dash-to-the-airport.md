@@ -5,7 +5,7 @@ date: 2005-09-18T00:49:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/09/18/aiga-dash-to-the-airport/
-permalink: /2005/09/18/aiga-dash-to-the-airport/
+permalink: /blog/2005/09/18/aiga-dash-to-the-airport/
 categories:
   - design
   - personal

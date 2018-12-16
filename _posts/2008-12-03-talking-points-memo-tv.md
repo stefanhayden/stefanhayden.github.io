@@ -5,7 +5,7 @@ date: 2008-12-03T09:11:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1392
-permalink: /2008/12/03/talking-points-memo-tv/
+permalink: /blog/2008/12/03/talking-points-memo-tv/
 categories:
   - video
   - web

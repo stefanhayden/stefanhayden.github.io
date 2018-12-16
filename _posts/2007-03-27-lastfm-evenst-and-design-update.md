@@ -5,7 +5,7 @@ date: 2007-03-27T20:30:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/27/lastfm-evenst-and-design-update/
-permalink: /2007/03/27/lastfm-evenst-and-design-update/
+permalink: /blog/2007/03/27/lastfm-evenst-and-design-update/
 categories:
   - design
   - web

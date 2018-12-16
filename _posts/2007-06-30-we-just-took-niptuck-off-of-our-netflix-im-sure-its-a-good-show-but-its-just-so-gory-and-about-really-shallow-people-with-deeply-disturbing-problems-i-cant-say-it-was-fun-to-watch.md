@@ -5,7 +5,7 @@ date: 2007-06-30T20:47:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/30/we-just-took-niptuck-off-of-our-netflix-im-sure-its-a-good-show-but-its-just-so-gory-and-about-really-shallow-people-with-deeply-disturbing-problems-i-cant-say-it-was-fun-to-watch/
-permalink: /2007/06/30/we-just-took-niptuck-off-of-our-netflix-im-sure-its-a-good-show-but-its-just-so-gory-and-about-really-shallow-people-with-deeply-disturbing-problems-i-cant-say-it-was-fun-to-watch/
+permalink: /blog/2007/06/30/we-just-took-niptuck-off-of-our-netflix-im-sure-its-a-good-show-but-its-just-so-gory-and-about-really-shallow-people-with-deeply-disturbing-problems-i-cant-say-it-was-fun-to-watch/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-07-26T20:01:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/26/i-want-to-like-aiderss-an-rss-ranking-service-but-they-are-just-too-vague-on-how-the-service-ranks-posts/
-permalink: /2007/07/26/i-want-to-like-aiderss-an-rss-ranking-service-but-they-are-just-too-vague-on-how-the-service-ranks-posts/
+permalink: /blog/2007/07/26/i-want-to-like-aiderss-an-rss-ranking-service-but-they-are-just-too-vague-on-how-the-service-ranks-posts/
 Post:
   - link
 categories:

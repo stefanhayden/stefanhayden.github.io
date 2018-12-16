@@ -5,7 +5,7 @@ date: 2005-09-01T19:43:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=51
-permalink: /2005/09/01/librarything-in-depth-review/
+permalink: /blog/2005/09/01/librarything-in-depth-review/
 categories:
   - design
   - personal

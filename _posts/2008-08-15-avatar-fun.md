@@ -5,7 +5,7 @@ date: 2008-08-15T11:15:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1086
-permalink: /2008/08/15/avatar-fun/
+permalink: /blog/2008/08/15/avatar-fun/
 categories:
   - web
 ---

@@ -5,7 +5,7 @@ date: 2006-10-26T09:02:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/26/youtube-gets-a-bit-of-a-design-refresh/
-permalink: /2006/10/26/youtube-gets-a-bit-of-a-design-refresh/
+permalink: /blog/2006/10/26/youtube-gets-a-bit-of-a-design-refresh/
 Post:
   - link
 categories:

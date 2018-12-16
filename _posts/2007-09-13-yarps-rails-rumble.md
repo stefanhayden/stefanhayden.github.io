@@ -5,7 +5,7 @@ date: 2007-09-13T22:51:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/13/yarps-rails-rumble/
-permalink: /2007/09/13/yarps-rails-rumble/
+permalink: /blog/2007/09/13/yarps-rails-rumble/
 categories:
   - design
   - web

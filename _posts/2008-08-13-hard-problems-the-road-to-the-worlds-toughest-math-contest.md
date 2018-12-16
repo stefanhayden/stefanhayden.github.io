@@ -5,7 +5,7 @@ date: 2008-08-13T00:00:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1076
-permalink: /2008/08/13/hard-problems-the-road-to-the-worlds-toughest-math-contest/
+permalink: /blog/2008/08/13/hard-problems-the-road-to-the-worlds-toughest-math-contest/
 categories:
   - video
   - web

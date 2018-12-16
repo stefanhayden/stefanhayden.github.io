@@ -5,7 +5,7 @@ date: 2006-07-24T20:57:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/24/backpack-theme-20-design-update/
-permalink: /2006/07/24/backpack-theme-20-design-update/
+permalink: /blog/2006/07/24/backpack-theme-20-design-update/
 categories:
   - blog
   - design

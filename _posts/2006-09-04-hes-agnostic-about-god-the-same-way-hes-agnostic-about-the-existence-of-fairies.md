@@ -5,7 +5,7 @@ date: 2006-09-04T16:43:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/04/hes-agnostic-about-god-the-same-way-hes-agnostic-about-the-existence-of-fairies/
-permalink: /2006/09/04/hes-agnostic-about-god-the-same-way-hes-agnostic-about-the-existence-of-fairies/
+permalink: /blog/2006/09/04/hes-agnostic-about-god-the-same-way-hes-agnostic-about-the-existence-of-fairies/
 Post:
   - link
 categories:

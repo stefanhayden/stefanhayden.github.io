@@ -5,7 +5,7 @@ date: 2008-04-27T21:05:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=858
-permalink: /2008/04/27/switching-to-ubuntu/
+permalink: /blog/2008/04/27/switching-to-ubuntu/
 openid_comments:
   - 'a:1:{i:0;s:5:"49130";}'
 categories:

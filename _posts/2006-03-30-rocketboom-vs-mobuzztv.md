@@ -5,7 +5,7 @@ date: 2006-03-30T11:56:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/30/rocketboom-vs-mobuzztv/
-permalink: /2006/03/30/rocketboom-vs-mobuzztv/
+permalink: /blog/2006/03/30/rocketboom-vs-mobuzztv/
 categories:
   - blog
   - web

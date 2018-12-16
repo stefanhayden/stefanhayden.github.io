@@ -5,7 +5,7 @@ date: 2008-02-13T21:03:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/13/we-love-spore/
-permalink: /2008/02/13/we-love-spore/
+permalink: /blog/2008/02/13/we-love-spore/
 Post:
   - link
 openid_comments:

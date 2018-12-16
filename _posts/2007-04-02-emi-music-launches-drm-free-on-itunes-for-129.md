@@ -5,7 +5,7 @@ date: 2007-04-02T09:14:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/02/emi-music-launches-drm-free-on-itunes-for-129/
-permalink: /2007/04/02/emi-music-launches-drm-free-on-itunes-for-129/
+permalink: /blog/2007/04/02/emi-music-launches-drm-free-on-itunes-for-129/
 Post:
   - link
 categories:

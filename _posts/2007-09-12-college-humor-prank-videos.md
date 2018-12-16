@@ -5,7 +5,7 @@ date: 2007-09-12T08:53:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/12/college-humor-prank-videos/
-permalink: /2007/09/12/college-humor-prank-videos/
+permalink: /blog/2007/09/12/college-humor-prank-videos/
 Post:
   - link
 categories:

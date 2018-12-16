@@ -5,7 +5,7 @@ date: 2008-04-13T09:15:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=841
-permalink: /2008/04/13/the-cult-of-the-professional/
+permalink: /blog/2008/04/13/the-cult-of-the-professional/
 Post:
   - link
 categories:

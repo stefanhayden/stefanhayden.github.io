@@ -5,7 +5,7 @@ date: 2006-10-26T08:08:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/26/my-first-attempt-at-installing-wordpress-mu-was-unsuccessful/
-permalink: /2006/10/26/my-first-attempt-at-installing-wordpress-mu-was-unsuccessful/
+permalink: /blog/2006/10/26/my-first-attempt-at-installing-wordpress-mu-was-unsuccessful/
 Post:
   - link
 categories:

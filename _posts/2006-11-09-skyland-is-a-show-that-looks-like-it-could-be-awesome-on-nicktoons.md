@@ -5,7 +5,7 @@ date: 2006-11-09T00:11:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/09/skyland-is-a-show-that-looks-like-it-could-be-awesome-on-nicktoons/
-permalink: /2006/11/09/skyland-is-a-show-that-looks-like-it-could-be-awesome-on-nicktoons/
+permalink: /blog/2006/11/09/skyland-is-a-show-that-looks-like-it-could-be-awesome-on-nicktoons/
 Post:
   - link
 categories:

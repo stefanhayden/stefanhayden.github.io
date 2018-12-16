@@ -5,7 +5,7 @@ date: 2007-01-17T10:06:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/17/new-teenage-mutant-ninja-turtles-tailer-out/
-permalink: /2007/01/17/new-teenage-mutant-ninja-turtles-tailer-out/
+permalink: /blog/2007/01/17/new-teenage-mutant-ninja-turtles-tailer-out/
 Post:
   - link
 categories:

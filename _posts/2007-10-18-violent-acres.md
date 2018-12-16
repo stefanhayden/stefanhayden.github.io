@@ -5,7 +5,7 @@ date: 2007-10-18T15:19:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/18/violent-acres/
-permalink: /2007/10/18/violent-acres/
+permalink: /blog/2007/10/18/violent-acres/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-12-19T00:34:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/19/t-shirts-i-want/
-permalink: /2007/12/19/t-shirts-i-want/
+permalink: /blog/2007/12/19/t-shirts-i-want/
 Post:
   - link
 categories:

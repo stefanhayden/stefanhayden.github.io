@@ -5,7 +5,7 @@ date: 2007-05-23T17:58:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/23/the-brothers-solomon-video-will-arnett-will-forte-chi-mcbride-kristen-wiig-malin-akerman-and-directed-by-bob-odenkirk/
-permalink: /2007/05/23/the-brothers-solomon-video-will-arnett-will-forte-chi-mcbride-kristen-wiig-malin-akerman-and-directed-by-bob-odenkirk/
+permalink: /blog/2007/05/23/the-brothers-solomon-video-will-arnett-will-forte-chi-mcbride-kristen-wiig-malin-akerman-and-directed-by-bob-odenkirk/
 Post:
   - link
 categories:

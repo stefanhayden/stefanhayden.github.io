@@ -5,7 +5,7 @@ date: 2006-07-12T23:16:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/12/i-didnt-even-know-i-wanted-this-draco-and-the-malfoys/
-permalink: /2006/07/12/i-didnt-even-know-i-wanted-this-draco-and-the-malfoys/
+permalink: /blog/2006/07/12/i-didnt-even-know-i-wanted-this-draco-and-the-malfoys/
 categories:
   - personal
   - web

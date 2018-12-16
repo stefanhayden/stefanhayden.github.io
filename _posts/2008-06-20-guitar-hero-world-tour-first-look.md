@@ -5,7 +5,7 @@ date: 2008-06-20T20:50:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=910
-permalink: /2008/06/20/guitar-hero-world-tour-first-look/
+permalink: /blog/2008/06/20/guitar-hero-world-tour-first-look/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-02-22T17:23:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/02/22/diablo-cody-parody/
-permalink: /2008/02/22/diablo-cody-parody/
+permalink: /blog/2008/02/22/diablo-cody-parody/
 categories:
   - video
 ---

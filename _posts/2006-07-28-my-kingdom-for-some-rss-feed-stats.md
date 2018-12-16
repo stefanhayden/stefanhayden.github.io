@@ -5,7 +5,7 @@ date: 2006-07-28T08:51:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/28/my-kingdom-for-some-rss-feed-stats/
-permalink: /2006/07/28/my-kingdom-for-some-rss-feed-stats/
+permalink: /blog/2006/07/28/my-kingdom-for-some-rss-feed-stats/
 categories:
   - blog
 ---

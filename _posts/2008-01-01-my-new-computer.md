@@ -5,7 +5,7 @@ date: 2008-01-01T16:46:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/01/my-new-computer/
-permalink: /2008/01/01/my-new-computer/
+permalink: /blog/2008/01/01/my-new-computer/
 openid_comments:
   - 'a:1:{i:0;s:5:"42336";}'
 categories:

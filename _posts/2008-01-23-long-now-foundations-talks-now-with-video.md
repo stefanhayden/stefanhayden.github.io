@@ -5,7 +5,7 @@ date: 2008-01-23T14:00:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/23/long-now-foundations-talks-now-with-video/
-permalink: /2008/01/23/long-now-foundations-talks-now-with-video/
+permalink: /blog/2008/01/23/long-now-foundations-talks-now-with-video/
 Post:
   - link
 categories:

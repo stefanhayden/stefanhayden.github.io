@@ -5,7 +5,7 @@ date: 2007-09-29T11:08:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/29/succession-to-the-british-throne/
-permalink: /2007/09/29/succession-to-the-british-throne/
+permalink: /blog/2007/09/29/succession-to-the-british-throne/
 Post:
   - link
 categories:

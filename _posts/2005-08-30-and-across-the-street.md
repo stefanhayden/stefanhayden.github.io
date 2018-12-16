@@ -5,7 +5,7 @@ date: 2005-08-30T17:30:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/08/30/and-across-the-street/
-permalink: /2005/08/30/and-across-the-street/
+permalink: /blog/2005/08/30/and-across-the-street/
 categories:
   - personal
 ---

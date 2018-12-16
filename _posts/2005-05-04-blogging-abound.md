@@ -5,7 +5,7 @@ date: 2005-05-04T19:32:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/05/04/blogging-abound/
-permalink: /2005/05/04/blogging-abound/
+permalink: /blog/2005/05/04/blogging-abound/
 categories:
   - blog
   - design

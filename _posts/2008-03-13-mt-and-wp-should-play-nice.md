@@ -5,7 +5,7 @@ date: 2008-03-13T10:55:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/13/mt-and-wp-should-play-nice/
-permalink: /2008/03/13/mt-and-wp-should-play-nice/
+permalink: /blog/2008/03/13/mt-and-wp-should-play-nice/
 categories:
   - web
 ---

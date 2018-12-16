@@ -5,7 +5,7 @@ date: 2007-08-20T12:37:17+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/20/500-years-of-female-portraits-in-western-art/
-permalink: /2007/08/20/500-years-of-female-portraits-in-western-art/
+permalink: /blog/2007/08/20/500-years-of-female-portraits-in-western-art/
 categories:
   - video
 ---

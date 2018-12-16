@@ -5,7 +5,7 @@ date: 2008-11-14T10:07:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1347
-permalink: /2008/11/14/hillary-clinton-for-secretary-of-state/
+permalink: /blog/2008/11/14/hillary-clinton-for-secretary-of-state/
 Post:
   - link
 categories:

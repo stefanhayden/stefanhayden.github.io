@@ -5,7 +5,7 @@ date: 2006-04-24T21:25:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/24/the-people-or-the-process/
-permalink: /2006/04/24/the-people-or-the-process/
+permalink: /blog/2006/04/24/the-people-or-the-process/
 categories:
   - design
 ---

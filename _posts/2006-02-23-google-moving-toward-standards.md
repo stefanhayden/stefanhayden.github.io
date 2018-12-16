@@ -5,7 +5,7 @@ date: 2006-02-23T19:17:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/02/23/google-moving-toward-standards/
-permalink: /2006/02/23/google-moving-toward-standards/
+permalink: /blog/2006/02/23/google-moving-toward-standards/
 categories:
   - design
   - web

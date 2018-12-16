@@ -5,7 +5,7 @@ date: 2006-10-22T19:36:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/22/if-youre-following-the-lonelygirl15-show-check-out-gemmers19-who-may-or-may-not-be-part-of-the-story-line/
-permalink: /2006/10/22/if-youre-following-the-lonelygirl15-show-check-out-gemmers19-who-may-or-may-not-be-part-of-the-story-line/
+permalink: /blog/2006/10/22/if-youre-following-the-lonelygirl15-show-check-out-gemmers19-who-may-or-may-not-be-part-of-the-story-line/
 Post:
   - link
 categories:

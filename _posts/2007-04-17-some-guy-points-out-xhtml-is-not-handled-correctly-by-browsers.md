@@ -5,7 +5,7 @@ date: 2007-04-17T08:29:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/17/some-guy-points-out-xhtml-is-not-handled-correctly-by-browsers/
-permalink: /2007/04/17/some-guy-points-out-xhtml-is-not-handled-correctly-by-browsers/
+permalink: /blog/2007/04/17/some-guy-points-out-xhtml-is-not-handled-correctly-by-browsers/
 Post:
   - link
 categories:

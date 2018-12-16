@@ -5,7 +5,7 @@ date: 2005-03-08T10:28:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=9
-permalink: /2005/03/08/gmail-the-world-awaits/
+permalink: /blog/2005/03/08/gmail-the-world-awaits/
 categories:
   - web
 ---

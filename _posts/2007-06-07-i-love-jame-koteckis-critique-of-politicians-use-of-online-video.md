@@ -5,7 +5,7 @@ date: 2007-06-07T12:17:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/07/i-love-jame-koteckis-critique-of-politicians-use-of-online-video/
-permalink: /2007/06/07/i-love-jame-koteckis-critique-of-politicians-use-of-online-video/
+permalink: /blog/2007/06/07/i-love-jame-koteckis-critique-of-politicians-use-of-online-video/
 Post:
   - link
 categories:

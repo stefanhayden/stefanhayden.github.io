@@ -5,7 +5,7 @@ date: 2008-01-08T00:18:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/08/great-over-view-of-my-rails-sucks/
-permalink: /2008/01/08/great-over-view-of-my-rails-sucks/
+permalink: /blog/2008/01/08/great-over-view-of-my-rails-sucks/
 Post:
   - link
 categories:

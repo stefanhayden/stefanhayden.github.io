@@ -5,7 +5,7 @@ date: 2007-07-25T10:51:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/25/stars-new-album/
-permalink: /2007/07/25/stars-new-album/
+permalink: /blog/2007/07/25/stars-new-album/
 categories:
   - mp3
   - review

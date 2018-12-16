@@ -5,7 +5,7 @@ date: 2007-07-15T14:25:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/15/pownce-gives-a-hand-to-the-transgender/
-permalink: /2007/07/15/pownce-gives-a-hand-to-the-transgender/
+permalink: /blog/2007/07/15/pownce-gives-a-hand-to-the-transgender/
 categories:
   - design
   - personal

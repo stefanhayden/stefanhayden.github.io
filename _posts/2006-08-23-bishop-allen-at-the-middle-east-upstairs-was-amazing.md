@@ -5,7 +5,7 @@ date: 2006-08-23T09:54:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/23/bishop-allen-at-the-middle-east-upstairs-was-amazing/
-permalink: /2006/08/23/bishop-allen-at-the-middle-east-upstairs-was-amazing/
+permalink: /blog/2006/08/23/bishop-allen-at-the-middle-east-upstairs-was-amazing/
 Post:
   - link
 categories:

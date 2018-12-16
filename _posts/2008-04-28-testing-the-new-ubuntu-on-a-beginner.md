@@ -5,7 +5,7 @@ date: 2008-04-28T09:15:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=859
-permalink: /2008/04/28/testing-the-new-ubuntu-on-a-beginner/
+permalink: /blog/2008/04/28/testing-the-new-ubuntu-on-a-beginner/
 Post:
   - link
 categories:

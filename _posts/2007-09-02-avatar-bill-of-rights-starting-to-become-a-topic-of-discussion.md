@@ -5,7 +5,7 @@ date: 2007-09-02T19:48:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/02/avatar-bill-of-rights-starting-to-become-a-topic-of-discussion/
-permalink: /2007/09/02/avatar-bill-of-rights-starting-to-become-a-topic-of-discussion/
+permalink: /blog/2007/09/02/avatar-bill-of-rights-starting-to-become-a-topic-of-discussion/
 Post:
   - link
 categories:

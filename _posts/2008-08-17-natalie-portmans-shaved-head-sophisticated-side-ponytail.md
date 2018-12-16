@@ -5,7 +5,7 @@ date: 2008-08-17T20:07:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1096
-permalink: /2008/08/17/natalie-portmans-shaved-head-sophisticated-side-ponytail/
+permalink: /blog/2008/08/17/natalie-portmans-shaved-head-sophisticated-side-ponytail/
 categories:
   - video
 ---

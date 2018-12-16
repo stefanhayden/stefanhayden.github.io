@@ -5,7 +5,7 @@ date: 2006-04-04T12:29:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/04/100-dollar-laptop/
-permalink: /2006/04/04/100-dollar-laptop/
+permalink: /blog/2006/04/04/100-dollar-laptop/
 categories:
   - blog
   - design

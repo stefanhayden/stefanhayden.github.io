@@ -5,7 +5,7 @@ date: 2007-04-10T20:39:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/10/how-did-i-miss-that-a-5-book-tek-jansen-comic-is-coming-out/
-permalink: /2007/04/10/how-did-i-miss-that-a-5-book-tek-jansen-comic-is-coming-out/
+permalink: /blog/2007/04/10/how-did-i-miss-that-a-5-book-tek-jansen-comic-is-coming-out/
 Post:
   - link
 categories:

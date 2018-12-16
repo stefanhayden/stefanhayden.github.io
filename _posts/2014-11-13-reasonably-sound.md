@@ -5,7 +5,7 @@ date: 2014-11-13T16:45:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1723
-permalink: /2014/11/13/reasonably-sound/
+permalink: /blog/2014/11/13/reasonably-sound/
 Post:
   - link
 categories:

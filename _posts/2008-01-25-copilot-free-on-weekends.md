@@ -5,7 +5,7 @@ date: 2008-01-25T16:05:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/25/copilot-free-on-weekends/
-permalink: /2008/01/25/copilot-free-on-weekends/
+permalink: /blog/2008/01/25/copilot-free-on-weekends/
 Post:
   - link
 categories:

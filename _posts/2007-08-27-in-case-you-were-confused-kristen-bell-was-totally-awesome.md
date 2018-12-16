@@ -5,7 +5,7 @@ date: 2007-08-27T20:32:05+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/27/in-case-you-were-confused-kristen-bell-was-totally-awesome/
-permalink: /2007/08/27/in-case-you-were-confused-kristen-bell-was-totally-awesome/
+permalink: /blog/2007/08/27/in-case-you-were-confused-kristen-bell-was-totally-awesome/
 Post:
   - link
 categories:

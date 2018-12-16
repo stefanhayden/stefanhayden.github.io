@@ -5,7 +5,7 @@ date: 2006-04-01T15:10:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/01/gmail-enters-terrible-twos/
-permalink: /2006/04/01/gmail-enters-terrible-twos/
+permalink: /blog/2006/04/01/gmail-enters-terrible-twos/
 categories:
   - personal
   - web

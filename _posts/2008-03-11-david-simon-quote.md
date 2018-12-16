@@ -5,7 +5,7 @@ date: 2008-03-11T23:44:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/11/david-simon-quote/
-permalink: /2008/03/11/david-simon-quote/
+permalink: /blog/2008/03/11/david-simon-quote/
 Post:
   - link
 categories:

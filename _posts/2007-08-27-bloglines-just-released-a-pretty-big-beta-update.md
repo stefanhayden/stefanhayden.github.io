@@ -5,7 +5,7 @@ date: 2007-08-27T19:43:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/27/bloglines-just-released-a-pretty-big-beta-update/
-permalink: /2007/08/27/bloglines-just-released-a-pretty-big-beta-update/
+permalink: /blog/2007/08/27/bloglines-just-released-a-pretty-big-beta-update/
 Post:
   - link
 categories:

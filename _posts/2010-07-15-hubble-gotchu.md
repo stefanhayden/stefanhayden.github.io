@@ -5,7 +5,7 @@ date: 2010-07-15T10:17:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1550
-permalink: /2010/07/15/hubble-gotchu/
+permalink: /blog/2010/07/15/hubble-gotchu/
 categories:
   - Uncategorized
 ---

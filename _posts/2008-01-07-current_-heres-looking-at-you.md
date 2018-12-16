@@ -5,7 +5,7 @@ date: 2008-01-07T18:48:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/07/current_-heres-looking-at-you/
-permalink: /2008/01/07/current_-heres-looking-at-you/
+permalink: /blog/2008/01/07/current_-heres-looking-at-you/
 categories:
   - video
 ---

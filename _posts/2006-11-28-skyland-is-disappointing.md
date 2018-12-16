@@ -5,7 +5,7 @@ date: 2006-11-28T10:41:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/11/28/skyland-is-disappointing/
-permalink: /2006/11/28/skyland-is-disappointing/
+permalink: /blog/2006/11/28/skyland-is-disappointing/
 categories:
   - personal
 ---

@@ -5,7 +5,7 @@ date: 2007-06-17T15:05:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/17/how-did-i-miss-this-william-sledd-has-been-picked-up-by-nbc/
-permalink: /2007/06/17/how-did-i-miss-this-william-sledd-has-been-picked-up-by-nbc/
+permalink: /blog/2007/06/17/how-did-i-miss-this-william-sledd-has-been-picked-up-by-nbc/
 Post:
   - link
 categories:

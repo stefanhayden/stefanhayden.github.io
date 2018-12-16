@@ -5,7 +5,7 @@ date: 2005-02-25T23:20:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=2
-permalink: /2005/02/25/the-good-and-bad-of-wordpress/
+permalink: /blog/2005/02/25/the-good-and-bad-of-wordpress/
 categories:
   - blog
 ---

@@ -5,7 +5,7 @@ date: 2006-12-18T10:17:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/18/i-wish-i-read-faster/
-permalink: /2006/12/18/i-wish-i-read-faster/
+permalink: /blog/2006/12/18/i-wish-i-read-faster/
 categories:
   - books
   - personal

@@ -5,7 +5,7 @@ date: 2005-08-21T00:14:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/08/21/podcast-reviews-at-the-bostonist/
-permalink: /2005/08/21/podcast-reviews-at-the-bostonist/
+permalink: /blog/2005/08/21/podcast-reviews-at-the-bostonist/
 categories:
   - blog
   - personal

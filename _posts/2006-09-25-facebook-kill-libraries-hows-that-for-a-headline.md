@@ -5,7 +5,7 @@ date: 2006-09-25T22:09:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/25/facebook-kill-libraries-hows-that-for-a-headline/
-permalink: /2006/09/25/facebook-kill-libraries-hows-that-for-a-headline/
+permalink: /blog/2006/09/25/facebook-kill-libraries-hows-that-for-a-headline/
 Post:
   - link
 categories:

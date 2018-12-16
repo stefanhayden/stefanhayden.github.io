@@ -5,7 +5,7 @@ date: 2008-07-30T14:40:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1013
-permalink: /2008/07/30/the-pentagons-new-map/
+permalink: /blog/2008/07/30/the-pentagons-new-map/
 categories:
   - video
   - web

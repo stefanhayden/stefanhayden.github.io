@@ -5,7 +5,7 @@ date: 2006-10-16T21:16:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/16/i-am-currently-downloading-the-entire-280mb-collection-of-just-about-everything-jonathan-coulton-has-ever-done/
-permalink: /2006/10/16/i-am-currently-downloading-the-entire-280mb-collection-of-just-about-everything-jonathan-coulton-has-ever-done/
+permalink: /blog/2006/10/16/i-am-currently-downloading-the-entire-280mb-collection-of-just-about-everything-jonathan-coulton-has-ever-done/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-06-22T23:38:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/22/im-ready-for-a-javascript-acceleration-card-anybody-with-me/
-permalink: /2007/06/22/im-ready-for-a-javascript-acceleration-card-anybody-with-me/
+permalink: /blog/2007/06/22/im-ready-for-a-javascript-acceleration-card-anybody-with-me/
 Post:
   - link
 categories:

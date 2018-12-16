@@ -5,7 +5,7 @@ date: 2005-09-18T22:14:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/09/18/how-famous-are-you/
-permalink: /2005/09/18/how-famous-are-you/
+permalink: /blog/2005/09/18/how-famous-are-you/
 categories:
   - design
   - personal

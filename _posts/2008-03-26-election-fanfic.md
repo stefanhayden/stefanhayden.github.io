@@ -5,7 +5,7 @@ date: 2008-03-26T23:18:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/26/election-fanfic/
-permalink: /2008/03/26/election-fanfic/
+permalink: /blog/2008/03/26/election-fanfic/
 Post:
   - link
 categories:

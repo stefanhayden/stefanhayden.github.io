@@ -5,7 +5,7 @@ date: 2006-08-15T13:40:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/15/im-not-sure-who-was-hired-to-redesign-the-boston-transit-authoritys-web-site-but-so-far-im-excited/
-permalink: /2006/08/15/im-not-sure-who-was-hired-to-redesign-the-boston-transit-authoritys-web-site-but-so-far-im-excited/
+permalink: /blog/2006/08/15/im-not-sure-who-was-hired-to-redesign-the-boston-transit-authoritys-web-site-but-so-far-im-excited/
 Post:
   - link
 categories:

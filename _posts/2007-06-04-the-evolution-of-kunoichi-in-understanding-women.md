@@ -5,7 +5,7 @@ date: 2007-06-04T18:27:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/04/the-evolution-of-kunoichi-in-understanding-women/
-permalink: /2007/06/04/the-evolution-of-kunoichi-in-understanding-women/
+permalink: /blog/2007/06/04/the-evolution-of-kunoichi-in-understanding-women/
 categories:
   - Uncategorized
 ---

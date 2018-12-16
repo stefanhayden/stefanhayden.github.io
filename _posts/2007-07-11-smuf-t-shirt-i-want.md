@@ -5,7 +5,7 @@ date: 2007-07-11T16:08:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/11/smuf-t-shirt-i-want/
-permalink: /2007/07/11/smuf-t-shirt-i-want/
+permalink: /blog/2007/07/11/smuf-t-shirt-i-want/
 categories:
   - personal
   - web

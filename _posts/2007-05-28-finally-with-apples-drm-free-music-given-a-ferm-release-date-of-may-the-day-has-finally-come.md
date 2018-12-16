@@ -5,7 +5,7 @@ date: 2007-05-28T22:42:34+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/28/finally-with-apples-drm-free-music-given-a-ferm-release-date-of-may-the-day-has-finally-come/
-permalink: /2007/05/28/finally-with-apples-drm-free-music-given-a-ferm-release-date-of-may-the-day-has-finally-come/
+permalink: /blog/2007/05/28/finally-with-apples-drm-free-music-given-a-ferm-release-date-of-may-the-day-has-finally-come/
 Post:
   - link
 categories:

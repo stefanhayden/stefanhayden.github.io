@@ -5,7 +5,7 @@ date: 2008-10-20T08:32:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1300
-permalink: /2008/10/20/christian-nymphos/
+permalink: /blog/2008/10/20/christian-nymphos/
 Post:
   - link
 categories:

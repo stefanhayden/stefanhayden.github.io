@@ -5,7 +5,7 @@ date: 2007-02-28T09:56:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/28/some-great-reviews-are-finally-coming-out-for-the-eames-eras-new-album/
-permalink: /2007/02/28/some-great-reviews-are-finally-coming-out-for-the-eames-eras-new-album/
+permalink: /blog/2007/02/28/some-great-reviews-are-finally-coming-out-for-the-eames-eras-new-album/
 Post:
   - link
 categories:

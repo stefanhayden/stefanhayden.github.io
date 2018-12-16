@@ -5,7 +5,7 @@ date: 2008-10-18T09:02:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1298
-permalink: /2008/10/18/t-mobile-g1-review-overview-and-full-impressions/
+permalink: /blog/2008/10/18/t-mobile-g1-review-overview-and-full-impressions/
 categories:
   - Uncategorized
 ---

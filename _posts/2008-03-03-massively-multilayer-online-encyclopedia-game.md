@@ -5,7 +5,7 @@ date: 2008-03-03T00:37:39+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/03/massively-multilayer-online-encyclopedia-game/
-permalink: /2008/03/03/massively-multilayer-online-encyclopedia-game/
+permalink: /blog/2008/03/03/massively-multilayer-online-encyclopedia-game/
 categories:
   - web
   - wikipedia

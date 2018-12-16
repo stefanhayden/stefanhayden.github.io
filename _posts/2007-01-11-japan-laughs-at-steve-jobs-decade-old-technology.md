@@ -5,7 +5,7 @@ date: 2007-01-11T23:28:16+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/11/japan-laughs-at-steve-jobs-decade-old-technology/
-permalink: /2007/01/11/japan-laughs-at-steve-jobs-decade-old-technology/
+permalink: /blog/2007/01/11/japan-laughs-at-steve-jobs-decade-old-technology/
 categories:
   - resources
 ---

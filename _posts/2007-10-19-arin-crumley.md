@@ -5,7 +5,7 @@ date: 2007-10-19T17:31:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/19/arin-crumley/
-permalink: /2007/10/19/arin-crumley/
+permalink: /blog/2007/10/19/arin-crumley/
 Post:
   - link
 categories:

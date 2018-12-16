@@ -5,7 +5,7 @@ date: 2006-04-04T15:37:30+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/04/the-promise-or-final-fantasy/
-permalink: /2006/04/04/the-promise-or-final-fantasy/
+permalink: /blog/2006/04/04/the-promise-or-final-fantasy/
 categories:
   - personal
 ---

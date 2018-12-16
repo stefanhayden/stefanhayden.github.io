@@ -5,7 +5,7 @@ date: 2008-03-26T08:33:28+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/26/rick-astley/
-permalink: /2008/03/26/rick-astley/
+permalink: /blog/2008/03/26/rick-astley/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-08-10T09:09:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/10/watermelon-steak/
-permalink: /2007/08/10/watermelon-steak/
+permalink: /blog/2007/08/10/watermelon-steak/
 Post:
   - link
 categories:

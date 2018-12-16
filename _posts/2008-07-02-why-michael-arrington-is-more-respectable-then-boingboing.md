@@ -5,7 +5,7 @@ date: 2008-07-02T11:44:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=925
-permalink: /2008/07/02/why-michael-arrington-is-more-respectable-then-boingboing/
+permalink: /blog/2008/07/02/why-michael-arrington-is-more-respectable-then-boingboing/
 categories:
   - web
 ---

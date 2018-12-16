@@ -5,7 +5,7 @@ date: 2008-08-13T16:51:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1080
-permalink: /2008/08/13/alicia-sacramone-knocks-some-guy-out/
+permalink: /blog/2008/08/13/alicia-sacramone-knocks-some-guy-out/
 categories:
   - video
 ---

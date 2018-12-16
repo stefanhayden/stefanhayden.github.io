@@ -5,7 +5,7 @@ date: 2007-07-26T00:08:16+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/26/study-iraqis-may-experience-sadness-when-friends-relatives-die/
-permalink: /2007/07/26/study-iraqis-may-experience-sadness-when-friends-relatives-die/
+permalink: /blog/2007/07/26/study-iraqis-may-experience-sadness-when-friends-relatives-die/
 Post:
   - link
 categories:

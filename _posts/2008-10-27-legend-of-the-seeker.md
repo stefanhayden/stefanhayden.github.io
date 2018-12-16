@@ -5,7 +5,7 @@ date: 2008-10-27T15:23:58+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1320
-permalink: /2008/10/27/legend-of-the-seeker/
+permalink: /blog/2008/10/27/legend-of-the-seeker/
 categories:
   - tv
 ---

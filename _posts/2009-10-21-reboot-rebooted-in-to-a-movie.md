@@ -5,7 +5,7 @@ date: 2009-10-21T08:44:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2009/10/21/reboot-rebooted-in-to-a-movie/
-permalink: /2009/10/21/reboot-rebooted-in-to-a-movie/
+permalink: /blog/2009/10/21/reboot-rebooted-in-to-a-movie/
 categories:
   - Uncategorized
 ---

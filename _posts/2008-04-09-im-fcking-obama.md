@@ -5,7 +5,7 @@ date: 2008-04-09T09:17:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=837
-permalink: /2008/04/09/im-fcking-obama/
+permalink: /blog/2008/04/09/im-fcking-obama/
 categories:
   - video
 ---

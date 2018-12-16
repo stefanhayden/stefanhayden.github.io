@@ -5,7 +5,7 @@ date: 2008-08-15T20:37:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1090
-permalink: /2008/08/15/spore-survey-expansion-info/
+permalink: /blog/2008/08/15/spore-survey-expansion-info/
 categories:
   - web
 ---

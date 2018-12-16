@@ -5,7 +5,7 @@ date: 2008-07-02T23:45:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=926
-permalink: /2008/07/02/if-you-ever-liked-degrassi-you-have-to-start-watching-the-secret-life-of-the-american-teenager/
+permalink: /blog/2008/07/02/if-you-ever-liked-degrassi-you-have-to-start-watching-the-secret-life-of-the-american-teenager/
 Post:
   - link
 categories:

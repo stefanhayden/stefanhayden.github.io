@@ -5,7 +5,7 @@ date: 2008-07-22T13:05:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=961
-permalink: /2008/07/22/babys-first-internet/
+permalink: /blog/2008/07/22/babys-first-internet/
 Post:
   - link
 categories:

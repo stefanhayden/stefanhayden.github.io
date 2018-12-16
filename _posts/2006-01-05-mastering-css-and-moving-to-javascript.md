@@ -5,7 +5,7 @@ date: 2006-01-05T00:23:57+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/01/05/mastering-css-and-moving-to-javascript/
-permalink: /2006/01/05/mastering-css-and-moving-to-javascript/
+permalink: /blog/2006/01/05/mastering-css-and-moving-to-javascript/
 categories:
   - design
   - web

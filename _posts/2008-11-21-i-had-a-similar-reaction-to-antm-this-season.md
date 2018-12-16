@@ -5,7 +5,7 @@ date: 2008-11-21T11:41:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1382
-permalink: /2008/11/21/i-had-a-similar-reaction-to-antm-this-season/
+permalink: /blog/2008/11/21/i-had-a-similar-reaction-to-antm-this-season/
 categories:
   - video
 ---

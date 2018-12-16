@@ -5,7 +5,7 @@ date: 2007-06-05T10:55:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/05/movable-type-4-goes-open-source-with-tons-of-new-features-and-a-new-interface/
-permalink: /2007/06/05/movable-type-4-goes-open-source-with-tons-of-new-features-and-a-new-interface/
+permalink: /blog/2007/06/05/movable-type-4-goes-open-source-with-tons-of-new-features-and-a-new-interface/
 Post:
   - link
 categories:

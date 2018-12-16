@@ -5,7 +5,7 @@ date: 2007-07-19T16:20:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/19/omg-84-of-sunscreen-products-are-harmful-to-health/
-permalink: /2007/07/19/omg-84-of-sunscreen-products-are-harmful-to-health/
+permalink: /blog/2007/07/19/omg-84-of-sunscreen-products-are-harmful-to-health/
 Post:
   - link
 categories:

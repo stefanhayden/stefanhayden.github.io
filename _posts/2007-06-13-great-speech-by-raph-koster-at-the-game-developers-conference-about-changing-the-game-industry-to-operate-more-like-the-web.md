@@ -5,7 +5,7 @@ date: 2007-06-13T11:58:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/13/great-speech-by-raph-koster-at-the-game-developers-conference-about-changing-the-game-industry-to-operate-more-like-the-web/
-permalink: /2007/06/13/great-speech-by-raph-koster-at-the-game-developers-conference-about-changing-the-game-industry-to-operate-more-like-the-web/
+permalink: /blog/2007/06/13/great-speech-by-raph-koster-at-the-game-developers-conference-about-changing-the-game-industry-to-operate-more-like-the-web/
 Post:
   - link
 categories:

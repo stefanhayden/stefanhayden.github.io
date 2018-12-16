@@ -5,7 +5,7 @@ date: 2010-06-25T08:21:51+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1546
-permalink: /2010/06/25/3d-tvs-and-upgrades/
+permalink: /blog/2010/06/25/3d-tvs-and-upgrades/
 categories:
   - personal
   - tv

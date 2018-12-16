@@ -5,7 +5,7 @@ date: 2008-06-23T14:26:08+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=915
-permalink: /2008/06/23/american-nerd-the-story-of-my-people/
+permalink: /blog/2008/06/23/american-nerd-the-story-of-my-people/
 enclosure:
   - |
     http://media.libsyn.com/media/tsoya/tsoya080623_americannerd.mp3

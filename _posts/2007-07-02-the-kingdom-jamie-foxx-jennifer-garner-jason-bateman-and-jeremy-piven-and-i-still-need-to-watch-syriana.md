@@ -5,7 +5,7 @@ date: 2007-07-02T13:37:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/02/the-kingdom-jamie-foxx-jennifer-garner-jason-bateman-and-jeremy-piven-and-i-still-need-to-watch-syriana/
-permalink: /2007/07/02/the-kingdom-jamie-foxx-jennifer-garner-jason-bateman-and-jeremy-piven-and-i-still-need-to-watch-syriana/
+permalink: /blog/2007/07/02/the-kingdom-jamie-foxx-jennifer-garner-jason-bateman-and-jeremy-piven-and-i-still-need-to-watch-syriana/
 Post:
   - link
 categories:

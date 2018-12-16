@@ -5,7 +5,7 @@ date: 2006-05-26T20:54:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/05/26/now-with-delicious/
-permalink: /2006/05/26/now-with-delicious/
+permalink: /blog/2006/05/26/now-with-delicious/
 categories:
   - blog
 ---

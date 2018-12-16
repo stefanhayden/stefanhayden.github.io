@@ -5,7 +5,7 @@ date: 2007-07-05T22:14:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/05/microsoft-extends-xbox-360-warranty-for-3-years-for-the-dreaded-3-red-lights-console-death-i-finally-feel-like-my-new-xbox-360-will-have-a-happy-life/
-permalink: /2007/07/05/microsoft-extends-xbox-360-warranty-for-3-years-for-the-dreaded-3-red-lights-console-death-i-finally-feel-like-my-new-xbox-360-will-have-a-happy-life/
+permalink: /blog/2007/07/05/microsoft-extends-xbox-360-warranty-for-3-years-for-the-dreaded-3-red-lights-console-death-i-finally-feel-like-my-new-xbox-360-will-have-a-happy-life/
 Post:
   - link
 categories:

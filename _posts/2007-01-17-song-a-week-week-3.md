@@ -5,7 +5,7 @@ date: 2007-01-17T12:34:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/17/song-a-week-week-3/
-permalink: /2007/01/17/song-a-week-week-3/
+permalink: /blog/2007/01/17/song-a-week-week-3/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2008-07-11T10:05:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=933
-permalink: /2008/07/11/neal-stephenson-does-a-pretty-amazing-breakdown-of-the-speculative-fiction-genera/
+permalink: /blog/2008/07/11/neal-stephenson-does-a-pretty-amazing-breakdown-of-the-speculative-fiction-genera/
 Post:
   - link
 categories:

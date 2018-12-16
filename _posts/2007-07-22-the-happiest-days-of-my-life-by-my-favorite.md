@@ -5,7 +5,7 @@ date: 2007-07-22T17:19:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/22/the-happiest-days-of-my-life-by-my-favorite/
-permalink: /2007/07/22/the-happiest-days-of-my-life-by-my-favorite/
+permalink: /blog/2007/07/22/the-happiest-days-of-my-life-by-my-favorite/
 categories:
   - video
   - web

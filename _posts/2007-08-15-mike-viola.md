@@ -5,7 +5,7 @@ date: 2007-08-15T12:34:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/15/mike-viola/
-permalink: /2007/08/15/mike-viola/
+permalink: /blog/2007/08/15/mike-viola/
 Post:
   - link
 enclosure:

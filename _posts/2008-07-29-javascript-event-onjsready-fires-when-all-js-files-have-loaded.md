@@ -5,7 +5,7 @@ date: 2008-07-29T10:57:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=992
-permalink: /2008/07/29/javascript-event-onjsready-fires-when-all-js-files-have-loaded/
+permalink: /blog/2008/07/29/javascript-event-onjsready-fires-when-all-js-files-have-loaded/
 openid_comments:
   - 'a:1:{i:0;s:5:"49396";}'
 categories:

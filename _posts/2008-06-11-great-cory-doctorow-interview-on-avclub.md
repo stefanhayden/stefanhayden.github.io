@@ -5,7 +5,7 @@ date: 2008-06-11T13:06:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=900
-permalink: /2008/06/11/great-cory-doctorow-interview-on-avclub/
+permalink: /blog/2008/06/11/great-cory-doctorow-interview-on-avclub/
 Post:
   - link
 categories:

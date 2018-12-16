@@ -5,7 +5,7 @@ date: 2008-08-07T14:32:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1048
-permalink: /2008/08/07/justine-larbalestier-was-confused-about-why-you-would-care-what-font-you-wrote-something-in/
+permalink: /blog/2008/08/07/justine-larbalestier-was-confused-about-why-you-would-care-what-font-you-wrote-something-in/
 categories:
   - design
 ---

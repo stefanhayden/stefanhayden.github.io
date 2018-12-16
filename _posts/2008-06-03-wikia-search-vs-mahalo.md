@@ -5,7 +5,7 @@ date: 2008-06-03T13:58:21+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=892
-permalink: /2008/06/03/wikia-search-vs-mahalo/
+permalink: /blog/2008/06/03/wikia-search-vs-mahalo/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-03-20T21:13:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/20/really-amazing-bbc-documentary-rageh-inside-iran/
-permalink: /2007/03/20/really-amazing-bbc-documentary-rageh-inside-iran/
+permalink: /blog/2007/03/20/really-amazing-bbc-documentary-rageh-inside-iran/
 Post:
   - link
 categories:

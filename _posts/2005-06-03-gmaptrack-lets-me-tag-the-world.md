@@ -5,7 +5,7 @@ date: 2005-06-03T02:29:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=29
-permalink: /2005/06/03/gmaptrack-lets-me-tag-the-world/
+permalink: /blog/2005/06/03/gmaptrack-lets-me-tag-the-world/
 categories:
   - Uncategorized
   - web

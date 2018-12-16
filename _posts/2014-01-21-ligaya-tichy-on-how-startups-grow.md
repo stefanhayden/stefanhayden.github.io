@@ -5,7 +5,7 @@ date: 2014-01-21T23:48:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1697
-permalink: /2014/01/21/ligaya-tichy-on-how-startups-grow/
+permalink: /blog/2014/01/21/ligaya-tichy-on-how-startups-grow/
 categories:
   - development
 ---

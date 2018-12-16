@@ -5,7 +5,7 @@ date: 2015-05-14T22:32:11+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1745
-permalink: /2015/05/14/how-to-use-gem-cli-commands-in-supervisor-on-ubuntu/
+permalink: /blog/2015/05/14/how-to-use-gem-cli-commands-in-supervisor-on-ubuntu/
 categories:
   - development
 ---

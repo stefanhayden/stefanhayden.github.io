@@ -5,7 +5,7 @@ date: 2008-06-20T21:04:45+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=911
-permalink: /2008/06/20/great-defense-of-yahoo-i-always-root-for-the-underdog/
+permalink: /blog/2008/06/20/great-defense-of-yahoo-i-always-root-for-the-underdog/
 Post:
   - link
 friendfeed_id:

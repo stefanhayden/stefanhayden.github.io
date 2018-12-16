@@ -5,7 +5,7 @@ date: 2008-05-30T10:21:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=885
-permalink: /2008/05/30/myers-briggs-and-hackers/
+permalink: /blog/2008/05/30/myers-briggs-and-hackers/
 Post:
   - link
 categories:

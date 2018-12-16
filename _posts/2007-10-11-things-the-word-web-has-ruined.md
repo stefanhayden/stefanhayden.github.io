@@ -5,7 +5,7 @@ date: 2007-10-11T11:21:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/11/things-the-word-web-has-ruined/
-permalink: /2007/10/11/things-the-word-web-has-ruined/
+permalink: /blog/2007/10/11/things-the-word-web-has-ruined/
 Post:
   - link
 categories:

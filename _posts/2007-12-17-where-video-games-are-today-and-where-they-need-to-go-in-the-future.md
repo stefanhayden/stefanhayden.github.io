@@ -5,7 +5,7 @@ date: 2007-12-17T10:26:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/17/where-video-games-are-today-and-where-they-need-to-go-in-the-future/
-permalink: /2007/12/17/where-video-games-are-today-and-where-they-need-to-go-in-the-future/
+permalink: /blog/2007/12/17/where-video-games-are-today-and-where-they-need-to-go-in-the-future/
 Post:
   - link
 categories:

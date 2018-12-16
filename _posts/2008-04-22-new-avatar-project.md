@@ -5,7 +5,7 @@ date: 2008-04-22T13:17:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=854
-permalink: /2008/04/22/new-avatar-project/
+permalink: /blog/2008/04/22/new-avatar-project/
 categories:
   - web
 ---

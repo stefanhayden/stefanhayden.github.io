@@ -5,7 +5,7 @@ date: 2008-10-22T22:38:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1315
-permalink: /2008/10/22/john-green-makes-new-york-times-bestseller-list/
+permalink: /blog/2008/10/22/john-green-makes-new-york-times-bestseller-list/
 categories:
   - web
 ---

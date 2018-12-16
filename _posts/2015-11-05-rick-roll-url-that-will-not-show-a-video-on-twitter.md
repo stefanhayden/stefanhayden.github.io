@@ -5,7 +5,7 @@ date: 2015-11-05T01:14:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1769
-permalink: /2015/11/05/rick-roll-url-that-will-not-show-a-video-on-twitter/
+permalink: /blog/2015/11/05/rick-roll-url-that-will-not-show-a-video-on-twitter/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2007-10-27T08:53:24+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/27/youtube-redesign/
-permalink: /2007/10/27/youtube-redesign/
+permalink: /blog/2007/10/27/youtube-redesign/
 categories:
   - design
   - web

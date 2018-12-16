@@ -5,7 +5,7 @@ date: 2007-09-12T14:47:25+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/12/parallels/
-permalink: /2007/09/12/parallels/
+permalink: /blog/2007/09/12/parallels/
 Post:
   - link
 categories:

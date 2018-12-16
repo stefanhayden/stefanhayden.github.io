@@ -5,7 +5,7 @@ date: 2005-06-11T03:20:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=32
-permalink: /2005/06/11/aigas-fresh-dialogue-friendly-fire/
+permalink: /blog/2005/06/11/aigas-fresh-dialogue-friendly-fire/
 categories:
   - design
   - personal

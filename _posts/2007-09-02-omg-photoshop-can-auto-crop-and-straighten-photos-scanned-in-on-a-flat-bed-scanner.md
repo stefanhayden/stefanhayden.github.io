@@ -5,7 +5,7 @@ date: 2007-09-02T23:19:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/02/omg-photoshop-can-auto-crop-and-straighten-photos-scanned-in-on-a-flat-bed-scanner/
-permalink: /2007/09/02/omg-photoshop-can-auto-crop-and-straighten-photos-scanned-in-on-a-flat-bed-scanner/
+permalink: /blog/2007/09/02/omg-photoshop-can-auto-crop-and-straighten-photos-scanned-in-on-a-flat-bed-scanner/
 Post:
   - link
 categories:

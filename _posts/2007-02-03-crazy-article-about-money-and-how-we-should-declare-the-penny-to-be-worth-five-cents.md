@@ -5,7 +5,7 @@ date: 2007-02-03T21:05:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/03/crazy-article-about-money-and-how-we-should-declare-the-penny-to-be-worth-five-cents/
-permalink: /2007/02/03/crazy-article-about-money-and-how-we-should-declare-the-penny-to-be-worth-five-cents/
+permalink: /blog/2007/02/03/crazy-article-about-money-and-how-we-should-declare-the-penny-to-be-worth-five-cents/
 Post:
   - link
 categories:

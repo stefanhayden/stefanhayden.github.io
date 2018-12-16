@@ -5,7 +5,7 @@ date: 2005-12-28T07:49:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/12/28/google-calendar/
-permalink: /2005/12/28/google-calendar/
+permalink: /blog/2005/12/28/google-calendar/
 categories:
   - personal
   - web

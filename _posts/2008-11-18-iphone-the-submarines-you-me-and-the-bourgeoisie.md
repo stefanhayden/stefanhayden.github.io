@@ -5,7 +5,7 @@ date: 2008-11-18T15:42:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1361
-permalink: /2008/11/18/iphone-the-submarines-you-me-and-the-bourgeoisie/
+permalink: /blog/2008/11/18/iphone-the-submarines-you-me-and-the-bourgeoisie/
 categories:
   - personal
   - web

@@ -5,7 +5,7 @@ date: 2008-11-12T15:12:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1345
-permalink: '/2008/11/12/hbo-has-commissioned-a-pilot-of-george-rr-martin%e2%80%99s-song-of-ice-and-fire-series/'
+permalink: /blog'/2008/11/12/hbo-has-commissioned-a-pilot-of-george-rr-martin%e2%80%99s-song-of-ice-and-fire-series/'
 Post:
   - link
 categories:

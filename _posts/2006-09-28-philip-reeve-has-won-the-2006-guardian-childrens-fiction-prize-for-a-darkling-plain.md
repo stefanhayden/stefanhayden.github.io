@@ -5,7 +5,7 @@ date: 2006-09-28T16:24:57+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/09/28/philip-reeve-has-won-the-2006-guardian-childrens-fiction-prize-for-a-darkling-plain/
-permalink: /2006/09/28/philip-reeve-has-won-the-2006-guardian-childrens-fiction-prize-for-a-darkling-plain/
+permalink: /blog/2006/09/28/philip-reeve-has-won-the-2006-guardian-childrens-fiction-prize-for-a-darkling-plain/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-07-26T08:26:12+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/26/odd-job-jack/
-permalink: /2006/07/26/odd-job-jack/
+permalink: /blog/2006/07/26/odd-job-jack/
 Post:
   - link
 categories:

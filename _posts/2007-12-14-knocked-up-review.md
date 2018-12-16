@@ -5,7 +5,7 @@ date: 2007-12-14T11:59:36+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/14/knocked-up-review/
-permalink: /2007/12/14/knocked-up-review/
+permalink: /blog/2007/12/14/knocked-up-review/
 Post:
   - link
 categories:

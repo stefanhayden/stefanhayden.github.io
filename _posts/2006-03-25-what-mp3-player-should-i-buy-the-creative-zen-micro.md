@@ -5,7 +5,7 @@ date: 2006-03-25T11:06:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/25/what-mp3-player-should-i-buy-the-creative-zen-micro/
-permalink: /2006/03/25/what-mp3-player-should-i-buy-the-creative-zen-micro/
+permalink: /blog/2006/03/25/what-mp3-player-should-i-buy-the-creative-zen-micro/
 categories:
   - personal
   - resources

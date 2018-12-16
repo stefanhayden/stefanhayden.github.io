@@ -5,7 +5,7 @@ date: 2008-06-02T19:59:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=889
-permalink: /2008/06/02/what-the-buck-is-wrong/
+permalink: /blog/2008/06/02/what-the-buck-is-wrong/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-04-15T12:58:10+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/15/education-is-key/
-permalink: /2006/04/15/education-is-key/
+permalink: /blog/2006/04/15/education-is-key/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2008-09-15T11:33:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1176
-permalink: /2008/09/15/43-folders-is-back/
+permalink: /blog/2008/09/15/43-folders-is-back/
 categories:
   - web
 ---

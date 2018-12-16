@@ -5,7 +5,7 @@ date: 2006-10-26T08:12:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/10/26/ug-eragon-was-cliche-and-unimaginative/
-permalink: /2006/10/26/ug-eragon-was-cliche-and-unimaginative/
+permalink: /blog/2006/10/26/ug-eragon-was-cliche-and-unimaginative/
 Post:
   - link
 categories:

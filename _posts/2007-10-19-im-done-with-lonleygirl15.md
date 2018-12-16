@@ -5,7 +5,7 @@ date: 2007-10-19T14:29:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/19/im-done-with-lonleygirl15/
-permalink: /2007/10/19/im-done-with-lonleygirl15/
+permalink: /blog/2007/10/19/im-done-with-lonleygirl15/
 categories:
   - personal
   - web

@@ -5,7 +5,7 @@ date: 2005-11-26T23:38:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/11/26/problem-solved-tivo-records-audio-but-no-video/
-permalink: /2005/11/26/problem-solved-tivo-records-audio-but-no-video/
+permalink: /blog/2005/11/26/problem-solved-tivo-records-audio-but-no-video/
 categories:
   - personal
   - resources

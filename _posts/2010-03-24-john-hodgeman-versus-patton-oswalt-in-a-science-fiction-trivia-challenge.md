@@ -5,7 +5,7 @@ date: 2010-03-24T07:55:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1496
-permalink: /2010/03/24/john-hodgeman-versus-patton-oswalt-in-a-science-fiction-trivia-challenge/
+permalink: /blog/2010/03/24/john-hodgeman-versus-patton-oswalt-in-a-science-fiction-trivia-challenge/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-06-29T07:17:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/29/wow-the-entire-prom-queen-series-is-available-for-download-for-only-10/
-permalink: /2007/06/29/wow-the-entire-prom-queen-series-is-available-for-download-for-only-10/
+permalink: /blog/2007/06/29/wow-the-entire-prom-queen-series-is-available-for-download-for-only-10/
 Post:
   - link
 categories:

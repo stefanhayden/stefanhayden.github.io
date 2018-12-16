@@ -5,7 +5,7 @@ date: 2007-06-12T10:37:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/12/in-2009-the-cassini-spacecraft-will-make-a-pass-of-titan-and-will-most-likely-give-definitive-answer-on-if-the-moon-in-fact-has-a-giant-hidden-ocean/
-permalink: /2007/06/12/in-2009-the-cassini-spacecraft-will-make-a-pass-of-titan-and-will-most-likely-give-definitive-answer-on-if-the-moon-in-fact-has-a-giant-hidden-ocean/
+permalink: /blog/2007/06/12/in-2009-the-cassini-spacecraft-will-make-a-pass-of-titan-and-will-most-likely-give-definitive-answer-on-if-the-moon-in-fact-has-a-giant-hidden-ocean/
 Post:
   - link
 categories:

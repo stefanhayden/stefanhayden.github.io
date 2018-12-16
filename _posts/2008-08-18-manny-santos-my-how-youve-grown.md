@@ -5,7 +5,7 @@ date: 2008-08-18T11:56:18+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1098
-permalink: /2008/08/18/manny-santos-my-how-youve-grown/
+permalink: /blog/2008/08/18/manny-santos-my-how-youve-grown/
 categories:
   - web
 ---

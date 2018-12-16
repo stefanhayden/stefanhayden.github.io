@@ -5,7 +5,7 @@ date: 2007-02-27T13:27:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/27/television-without-pity-has-a-great-podcast-about-veronica-mars-that-consistently-has-writer-and-directors-on-to-talk-about-the-weeks-episode/
-permalink: /2007/02/27/television-without-pity-has-a-great-podcast-about-veronica-mars-that-consistently-has-writer-and-directors-on-to-talk-about-the-weeks-episode/
+permalink: /blog/2007/02/27/television-without-pity-has-a-great-podcast-about-veronica-mars-that-consistently-has-writer-and-directors-on-to-talk-about-the-weeks-episode/
 Post:
   - link
 categories:

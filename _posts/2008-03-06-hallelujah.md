@@ -5,7 +5,7 @@ date: 2008-03-06T12:52:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/06/hallelujah/
-permalink: /2008/03/06/hallelujah/
+permalink: /blog/2008/03/06/hallelujah/
 Post:
   - link
 categories:

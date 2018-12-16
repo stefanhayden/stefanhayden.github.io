@@ -5,7 +5,7 @@ date: 2007-04-20T08:38:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/04/20/upcoming-looks-ugly/
-permalink: /2007/04/20/upcoming-looks-ugly/
+permalink: /blog/2007/04/20/upcoming-looks-ugly/
 categories:
   - web
 ---

@@ -5,7 +5,7 @@ date: 2007-12-19T20:41:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/19/ie8-passes-acid2/
-permalink: /2007/12/19/ie8-passes-acid2/
+permalink: /blog/2007/12/19/ie8-passes-acid2/
 Post:
   - link
 categories:

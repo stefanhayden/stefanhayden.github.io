@@ -5,7 +5,7 @@ date: 2007-07-26T00:19:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/26/i-like-wes-anderson-but-i-could-care-less-about-his-new-movie-the-darjeeling-limited/
-permalink: /2007/07/26/i-like-wes-anderson-but-i-could-care-less-about-his-new-movie-the-darjeeling-limited/
+permalink: /blog/2007/07/26/i-like-wes-anderson-but-i-could-care-less-about-his-new-movie-the-darjeeling-limited/
 Post:
   - link
 categories:

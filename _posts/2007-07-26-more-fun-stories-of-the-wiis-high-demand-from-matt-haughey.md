@@ -5,7 +5,7 @@ date: 2007-07-26T14:13:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/26/more-fun-stories-of-the-wiis-high-demand-from-matt-haughey/
-permalink: /2007/07/26/more-fun-stories-of-the-wiis-high-demand-from-matt-haughey/
+permalink: /blog/2007/07/26/more-fun-stories-of-the-wiis-high-demand-from-matt-haughey/
 Post:
   - link
 categories:

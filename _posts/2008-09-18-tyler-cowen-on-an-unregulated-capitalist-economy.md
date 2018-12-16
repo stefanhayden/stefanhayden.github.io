@@ -5,7 +5,7 @@ date: 2008-09-18T09:04:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1192
-permalink: /2008/09/18/tyler-cowen-on-an-unregulated-capitalist-economy/
+permalink: /blog/2008/09/18/tyler-cowen-on-an-unregulated-capitalist-economy/
 categories:
   - web
 ---

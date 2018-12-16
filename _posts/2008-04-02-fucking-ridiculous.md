@@ -5,7 +5,7 @@ date: 2008-04-02T09:53:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=829
-permalink: /2008/04/02/fucking-ridiculous/
+permalink: /blog/2008/04/02/fucking-ridiculous/
 Post:
   - link
 categories:

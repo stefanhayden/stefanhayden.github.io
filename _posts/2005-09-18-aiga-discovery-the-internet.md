@@ -5,7 +5,7 @@ date: 2005-09-18T23:20:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/09/18/aiga-discovery-the-internet/
-permalink: /2005/09/18/aiga-discovery-the-internet/
+permalink: /blog/2005/09/18/aiga-discovery-the-internet/
 categories:
   - design
   - personal

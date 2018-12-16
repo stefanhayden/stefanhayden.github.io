@@ -5,7 +5,7 @@ date: 2008-08-05T14:58:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1036
-permalink: /2008/08/05/a-teaser-of-the-stalled-buffy-the-vampire-slayer/
+permalink: /blog/2008/08/05/a-teaser-of-the-stalled-buffy-the-vampire-slayer/
 Post:
   - link
 categories:

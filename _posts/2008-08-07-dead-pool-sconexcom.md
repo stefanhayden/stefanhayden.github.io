@@ -5,7 +5,7 @@ date: 2008-08-07T13:51:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1046
-permalink: /2008/08/07/dead-pool-sconexcom/
+permalink: /blog/2008/08/07/dead-pool-sconexcom/
 categories:
   - personal
   - web

@@ -5,7 +5,7 @@ date: 2010-05-06T08:16:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1498
-permalink: /2010/05/06/cataclysm-friends-family-alpha/
+permalink: /blog/2010/05/06/cataclysm-friends-family-alpha/
 categories:
   - Uncategorized
 ---

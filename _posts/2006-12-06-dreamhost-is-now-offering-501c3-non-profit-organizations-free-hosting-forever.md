@@ -5,7 +5,7 @@ date: 2006-12-06T09:29:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/12/06/dreamhost-is-now-offering-501c3-non-profit-organizations-free-hosting-forever/
-permalink: /2006/12/06/dreamhost-is-now-offering-501c3-non-profit-organizations-free-hosting-forever/
+permalink: /blog/2006/12/06/dreamhost-is-now-offering-501c3-non-profit-organizations-free-hosting-forever/
 Post:
   - link
 categories:

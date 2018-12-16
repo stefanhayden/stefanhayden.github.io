@@ -5,7 +5,7 @@ date: 2007-12-21T10:21:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/21/common-myths-debunked/
-permalink: /2007/12/21/common-myths-debunked/
+permalink: /blog/2007/12/21/common-myths-debunked/
 Post:
   - link
 categories:

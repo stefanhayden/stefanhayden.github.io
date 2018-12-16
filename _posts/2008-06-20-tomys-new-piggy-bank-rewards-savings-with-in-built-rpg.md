@@ -5,7 +5,7 @@ date: 2008-06-20T23:24:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=912
-permalink: /2008/06/20/tomys-new-piggy-bank-rewards-savings-with-in-built-rpg/
+permalink: /blog/2008/06/20/tomys-new-piggy-bank-rewards-savings-with-in-built-rpg/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2010-06-03T20:53:17+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1508
-permalink: /2010/06/03/donald4spiderman/
+permalink: /blog/2010/06/03/donald4spiderman/
 categories:
   - politics
   - web

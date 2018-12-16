@@ -5,7 +5,7 @@ date: 2007-02-09T10:39:44+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/02/09/google-maps-adds-subway-stops-to-boston-ny-and-i-would-assume-others-if-you-zoom-in-close-enough/
-permalink: /2007/02/09/google-maps-adds-subway-stops-to-boston-ny-and-i-would-assume-others-if-you-zoom-in-close-enough/
+permalink: /blog/2007/02/09/google-maps-adds-subway-stops-to-boston-ny-and-i-would-assume-others-if-you-zoom-in-close-enough/
 Post:
   - link
 categories:

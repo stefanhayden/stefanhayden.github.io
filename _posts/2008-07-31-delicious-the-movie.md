@@ -5,7 +5,7 @@ date: 2008-07-31T16:55:37+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1027
-permalink: /2008/07/31/delicious-the-movie/
+permalink: /blog/2008/07/31/delicious-the-movie/
 categories:
   - Uncategorized
 ---

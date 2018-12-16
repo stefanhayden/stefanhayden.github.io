@@ -5,7 +5,7 @@ date: 2007-10-02T08:07:22+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/02/battle-at-kruger/
-permalink: /2007/10/02/battle-at-kruger/
+permalink: /blog/2007/10/02/battle-at-kruger/
 categories:
   - video
 ---

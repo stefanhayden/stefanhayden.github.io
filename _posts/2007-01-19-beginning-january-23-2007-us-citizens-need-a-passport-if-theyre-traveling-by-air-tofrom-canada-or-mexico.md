@@ -5,7 +5,7 @@ date: 2007-01-19T18:53:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/01/19/beginning-january-23-2007-us-citizens-need-a-passport-if-theyre-traveling-by-air-tofrom-canada-or-mexico/
-permalink: /2007/01/19/beginning-january-23-2007-us-citizens-need-a-passport-if-theyre-traveling-by-air-tofrom-canada-or-mexico/
+permalink: /blog/2007/01/19/beginning-january-23-2007-us-citizens-need-a-passport-if-theyre-traveling-by-air-tofrom-canada-or-mexico/
 Post:
   - link
 categories:

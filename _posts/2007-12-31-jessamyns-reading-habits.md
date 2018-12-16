@@ -5,7 +5,7 @@ date: 2007-12-31T17:51:13+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/31/jessamyns-reading-habits/
-permalink: /2007/12/31/jessamyns-reading-habits/
+permalink: /blog/2007/12/31/jessamyns-reading-habits/
 Post:
   - link
 categories:

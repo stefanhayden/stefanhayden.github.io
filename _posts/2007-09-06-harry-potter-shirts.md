@@ -5,7 +5,7 @@ date: 2007-09-06T08:40:31+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/06/harry-potter-shirts/
-permalink: /2007/09/06/harry-potter-shirts/
+permalink: /blog/2007/09/06/harry-potter-shirts/
 categories:
   - web
 ---

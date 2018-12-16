@@ -5,7 +5,7 @@ date: 2006-07-31T23:01:26+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/07/31/elephants/
-permalink: /2006/07/31/elephants/
+permalink: /blog/2006/07/31/elephants/
 Post:
   - link
 categories:

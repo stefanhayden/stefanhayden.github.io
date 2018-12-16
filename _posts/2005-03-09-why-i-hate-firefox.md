@@ -5,7 +5,7 @@ date: 2005-03-09T21:22:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=10
-permalink: /2005/03/09/why-i-hate-firefox/
+permalink: /blog/2005/03/09/why-i-hate-firefox/
 categories:
   - web
 ---

@@ -5,7 +5,7 @@ date: 2007-11-06T13:37:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/06/fred-stutzman/
-permalink: /2007/11/06/fred-stutzman/
+permalink: /blog/2007/11/06/fred-stutzman/
 Post:
   - link
 categories:

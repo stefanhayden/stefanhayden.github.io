@@ -5,7 +5,7 @@ date: 2007-05-29T13:16:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/29/registerfly-falls-to-peices/
-permalink: /2007/05/29/registerfly-falls-to-peices/
+permalink: /blog/2007/05/29/registerfly-falls-to-peices/
 categories:
   - Uncategorized
 ---

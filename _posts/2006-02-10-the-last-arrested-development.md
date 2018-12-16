@@ -5,7 +5,7 @@ date: 2006-02-10T23:11:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/02/10/the-last-arrested-development/
-permalink: /2006/02/10/the-last-arrested-development/
+permalink: /blog/2006/02/10/the-last-arrested-development/
 categories:
   - personal
 ---

@@ -5,7 +5,7 @@ date: 2007-08-03T19:01:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/03/world-map-showing-which-social-networking-site-is-big-in-each-country/
-permalink: /2007/08/03/world-map-showing-which-social-networking-site-is-big-in-each-country/
+permalink: /blog/2007/08/03/world-map-showing-which-social-networking-site-is-big-in-each-country/
 Post:
   - link
 categories:

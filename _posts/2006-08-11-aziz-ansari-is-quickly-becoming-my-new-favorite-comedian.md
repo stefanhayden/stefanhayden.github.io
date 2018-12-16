@@ -5,7 +5,7 @@ date: 2006-08-11T08:52:55+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/08/11/aziz-ansari-is-quickly-becoming-my-new-favorite-comedian/
-permalink: /2006/08/11/aziz-ansari-is-quickly-becoming-my-new-favorite-comedian/
+permalink: /blog/2006/08/11/aziz-ansari-is-quickly-becoming-my-new-favorite-comedian/
 Post:
   - link
 categories:

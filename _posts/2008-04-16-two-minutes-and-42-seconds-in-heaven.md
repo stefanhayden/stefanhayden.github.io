@@ -5,7 +5,7 @@ date: 2008-04-16T11:13:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=848
-permalink: /2008/04/16/two-minutes-and-42-seconds-in-heaven/
+permalink: /blog/2008/04/16/two-minutes-and-42-seconds-in-heaven/
 Post:
   - link
 categories:

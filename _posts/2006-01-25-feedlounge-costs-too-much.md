@@ -5,7 +5,7 @@ date: 2006-01-25T22:36:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/01/25/feedlounge-costs-too-much/
-permalink: /2006/01/25/feedlounge-costs-too-much/
+permalink: /blog/2006/01/25/feedlounge-costs-too-much/
 categories:
   - resources
   - web

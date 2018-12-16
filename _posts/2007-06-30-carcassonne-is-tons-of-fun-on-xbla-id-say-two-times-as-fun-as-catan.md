@@ -5,7 +5,7 @@ date: 2007-06-30T13:49:48+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/30/carcassonne-is-tons-of-fun-on-xbla-id-say-two-times-as-fun-as-catan/
-permalink: /2007/06/30/carcassonne-is-tons-of-fun-on-xbla-id-say-two-times-as-fun-as-catan/
+permalink: /blog/2007/06/30/carcassonne-is-tons-of-fun-on-xbla-id-say-two-times-as-fun-as-catan/
 Post:
   - link
 categories:

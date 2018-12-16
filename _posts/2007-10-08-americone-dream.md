@@ -5,7 +5,7 @@ date: 2007-10-08T23:05:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/08/americone-dream/
-permalink: /2007/10/08/americone-dream/
+permalink: /blog/2007/10/08/americone-dream/
 Post:
   - link
 categories:

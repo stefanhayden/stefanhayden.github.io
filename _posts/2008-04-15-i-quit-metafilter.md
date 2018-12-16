@@ -5,7 +5,7 @@ date: 2008-04-15T10:20:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=844
-permalink: /2008/04/15/i-quit-metafilter/
+permalink: /blog/2008/04/15/i-quit-metafilter/
 Post:
   - link
 categories:

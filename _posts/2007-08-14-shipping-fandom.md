@@ -5,7 +5,7 @@ date: 2007-08-14T23:23:02+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/08/14/shipping-fandom/
-permalink: /2007/08/14/shipping-fandom/
+permalink: /blog/2007/08/14/shipping-fandom/
 Post:
   - link
 categories:

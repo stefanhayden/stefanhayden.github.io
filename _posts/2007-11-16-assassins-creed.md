@@ -5,7 +5,7 @@ date: 2007-11-16T10:01:32+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/16/assassins-creed/
-permalink: /2007/11/16/assassins-creed/
+permalink: /blog/2007/11/16/assassins-creed/
 Post:
   - link
 categories:

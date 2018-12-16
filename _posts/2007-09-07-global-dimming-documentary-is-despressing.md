@@ -5,7 +5,7 @@ date: 2007-09-07T14:02:23+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/07/global-dimming-documentary-is-despressing/
-permalink: /2007/09/07/global-dimming-documentary-is-despressing/
+permalink: /blog/2007/09/07/global-dimming-documentary-is-despressing/
 categories:
   - video
 ---

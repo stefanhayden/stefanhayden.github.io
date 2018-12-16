@@ -5,7 +5,7 @@ date: 2008-10-07T16:44:16+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1239
-permalink: /2008/10/07/space-pirate-ship-t-shirt/
+permalink: /blog/2008/10/07/space-pirate-ship-t-shirt/
 categories:
   - Uncategorized
 ---

@@ -5,7 +5,7 @@ date: 2008-10-22T10:38:20+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1311
-permalink: /2008/10/22/get-satisfaction-feedback-widget/
+permalink: /blog/2008/10/22/get-satisfaction-feedback-widget/
 categories:
   - Books I Am Reading
   - design

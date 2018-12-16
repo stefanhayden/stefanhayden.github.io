@@ -5,7 +5,7 @@ date: 2009-04-24T08:03:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1445
-permalink: /2009/04/24/it-seems-the-urban-dictionary-has-names-in-it/
+permalink: /blog/2009/04/24/it-seems-the-urban-dictionary-has-names-in-it/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2006-04-06T08:59:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/04/06/mbta-customer-service/
-permalink: /2006/04/06/mbta-customer-service/
+permalink: /blog/2006/04/06/mbta-customer-service/
 categories:
   - personal
   - resources

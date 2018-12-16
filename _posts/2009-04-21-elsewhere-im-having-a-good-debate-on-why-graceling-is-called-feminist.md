@@ -5,7 +5,7 @@ date: 2009-04-21T15:31:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1443
-permalink: /2009/04/21/elsewhere-im-having-a-good-debate-on-why-graceling-is-called-feminist/
+permalink: /blog/2009/04/21/elsewhere-im-having-a-good-debate-on-why-graceling-is-called-feminist/
 Post:
   - link
 categories:

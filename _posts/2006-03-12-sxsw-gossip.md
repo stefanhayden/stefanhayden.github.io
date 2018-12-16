@@ -5,7 +5,7 @@ date: 2006-03-12T23:25:03+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/03/12/sxsw-gossip/
-permalink: /2006/03/12/sxsw-gossip/
+permalink: /blog/2006/03/12/sxsw-gossip/
 categories:
   - design
   - resources

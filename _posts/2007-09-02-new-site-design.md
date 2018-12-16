@@ -5,7 +5,7 @@ date: 2007-09-02T15:17:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/02/new-site-design/
-permalink: /2007/09/02/new-site-design/
+permalink: /blog/2007/09/02/new-site-design/
 Post:
   - link
 categories:

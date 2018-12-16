@@ -5,7 +5,7 @@ date: 2008-10-10T11:54:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1248
-permalink: /2008/10/10/another-frightening-show-about-the-economy/
+permalink: /blog/2008/10/10/another-frightening-show-about-the-economy/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-11-06T10:27:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/06/the-dollar-is-dead/
-permalink: /2007/11/06/the-dollar-is-dead/
+permalink: /blog/2007/11/06/the-dollar-is-dead/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2008-11-03T11:16:56+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1330
-permalink: /2008/11/03/this-video-shows-that-every-voting-system-is-broken-in-some-way/
+permalink: /blog/2008/11/03/this-video-shows-that-every-voting-system-is-broken-in-some-way/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-03-27T21:07:35+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/03/27/fountains-of-wayne-at-paradise/
-permalink: /2007/03/27/fountains-of-wayne-at-paradise/
+permalink: /blog/2007/03/27/fountains-of-wayne-at-paradise/
 categories:
   - personal
 ---

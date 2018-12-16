@@ -5,7 +5,7 @@ date: 2005-05-09T22:07:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2005/05/07/recycling/
-permalink: /2005/05/09/recycling/
+permalink: /blog/2005/05/09/recycling/
 openid_comments:
   - 'a:1:{i:0;s:5:"48990";}'
 categories:

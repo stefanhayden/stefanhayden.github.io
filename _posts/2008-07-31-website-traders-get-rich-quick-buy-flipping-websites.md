@@ -5,7 +5,7 @@ date: 2008-07-31T10:29:14+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1024
-permalink: /2008/07/31/website-traders-get-rich-quick-buy-flipping-websites/
+permalink: /blog/2008/07/31/website-traders-get-rich-quick-buy-flipping-websites/
 Post:
   - link
 categories:

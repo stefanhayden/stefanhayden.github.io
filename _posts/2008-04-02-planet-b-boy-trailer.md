@@ -5,7 +5,7 @@ date: 2008-04-02T09:36:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=828
-permalink: /2008/04/02/planet-b-boy-trailer/
+permalink: /blog/2008/04/02/planet-b-boy-trailer/
 categories:
   - video
 ---

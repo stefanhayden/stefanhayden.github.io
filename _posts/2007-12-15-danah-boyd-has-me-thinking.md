@@ -5,7 +5,7 @@ date: 2007-12-15T00:07:49+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/15/danah-boyd-has-me-thinking/
-permalink: /2007/12/15/danah-boyd-has-me-thinking/
+permalink: /blog/2007/12/15/danah-boyd-has-me-thinking/
 Post:
   - link
 categories:

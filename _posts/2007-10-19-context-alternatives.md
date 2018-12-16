@@ -5,7 +5,7 @@ date: 2007-10-19T13:07:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/10/19/context-alternatives/
-permalink: /2007/10/19/context-alternatives/
+permalink: /blog/2007/10/19/context-alternatives/
 Post:
   - link
 categories:

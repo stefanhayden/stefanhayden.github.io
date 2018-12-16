@@ -5,7 +5,7 @@ date: 2014-11-13T00:50:52+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1714
-permalink: /2014/11/13/hyperbole-is-a-crutch/
+permalink: /blog/2014/11/13/hyperbole-is-a-crutch/
 categories:
   - Uncategorized
 ---

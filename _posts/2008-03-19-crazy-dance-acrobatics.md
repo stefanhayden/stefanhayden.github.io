@@ -5,7 +5,7 @@ date: 2008-03-19T08:51:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/03/19/crazy-dance-acrobatics/
-permalink: /2008/03/19/crazy-dance-acrobatics/
+permalink: /blog/2008/03/19/crazy-dance-acrobatics/
 categories:
   - video
 ---

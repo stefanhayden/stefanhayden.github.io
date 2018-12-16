@@ -5,7 +5,7 @@ date: 2007-05-19T16:06:47+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/19/i-had-a-car-accident-now-what/
-permalink: /2007/05/19/i-had-a-car-accident-now-what/
+permalink: /blog/2007/05/19/i-had-a-car-accident-now-what/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2014-11-13T01:05:42+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1718
-permalink: /2014/11/13/comments-here/
+permalink: /blog/2014/11/13/comments-here/
 categories:
   - blog
 ---

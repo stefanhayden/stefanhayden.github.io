@@ -5,7 +5,7 @@ date: 2008-01-07T16:28:46+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/07/hillary-tears-up-on-campaign-trail/
-permalink: /2008/01/07/hillary-tears-up-on-campaign-trail/
+permalink: /blog/2008/01/07/hillary-tears-up-on-campaign-trail/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2007-05-17T19:55:59+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/05/17/sexist-mary-jane-statue-receives-poor-defense/
-permalink: /2007/05/17/sexist-mary-jane-statue-receives-poor-defense/
+permalink: /blog/2007/05/17/sexist-mary-jane-statue-receives-poor-defense/
 categories:
   - web
 ---

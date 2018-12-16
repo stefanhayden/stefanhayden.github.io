@@ -5,7 +5,7 @@ date: 2007-07-03T09:58:04+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/03/chris-messina-has-a-crazy-amount-of-design-element-user-flow-and-interface-screen-shots-in-his-flickr-account/
-permalink: /2007/07/03/chris-messina-has-a-crazy-amount-of-design-element-user-flow-and-interface-screen-shots-in-his-flickr-account/
+permalink: /blog/2007/07/03/chris-messina-has-a-crazy-amount-of-design-element-user-flow-and-interface-screen-shots-in-his-flickr-account/
 Post:
   - link
 categories:

@@ -5,7 +5,7 @@ date: 2015-08-12T21:35:27+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1760
-permalink: /2015/08/12/how-to-turn-on-windows-10-emoji-keyboard/
+permalink: /blog/2015/08/12/how-to-turn-on-windows-10-emoji-keyboard/
 categories:
   - Uncategorized
 ---

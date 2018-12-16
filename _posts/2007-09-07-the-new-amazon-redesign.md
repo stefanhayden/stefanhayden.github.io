@@ -5,7 +5,7 @@ date: 2007-09-07T22:37:00+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/09/07/the-new-amazon-redesign/
-permalink: /2007/09/07/the-new-amazon-redesign/
+permalink: /blog/2007/09/07/the-new-amazon-redesign/
 Post:
   - link
 categories:

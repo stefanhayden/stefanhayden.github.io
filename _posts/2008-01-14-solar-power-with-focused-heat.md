@@ -5,7 +5,7 @@ date: 2008-01-14T20:27:41+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/14/solar-power-with-focused-heat/
-permalink: /2008/01/14/solar-power-with-focused-heat/
+permalink: /blog/2008/01/14/solar-power-with-focused-heat/
 Post:
   - link
 categories:

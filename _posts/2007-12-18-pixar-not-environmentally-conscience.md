@@ -5,7 +5,7 @@ date: 2007-12-18T14:36:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/18/pixar-not-environmentally-conscience/
-permalink: /2007/12/18/pixar-not-environmentally-conscience/
+permalink: /blog/2007/12/18/pixar-not-environmentally-conscience/
 categories:
   - web
 ---

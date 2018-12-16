@@ -5,7 +5,7 @@ date: 2008-10-13T17:35:38+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1266
-permalink: /2008/10/13/ypulse-asks-last-5-videos/
+permalink: /blog/2008/10/13/ypulse-asks-last-5-videos/
 openid_comments:
   - 'a:1:{i:0;i:49547;}'
 categories:

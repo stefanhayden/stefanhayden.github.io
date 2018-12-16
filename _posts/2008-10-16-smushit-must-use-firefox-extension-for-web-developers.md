@@ -5,7 +5,7 @@ date: 2008-10-16T11:40:54+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1284
-permalink: /2008/10/16/smushit-must-use-firefox-extension-for-web-developers/
+permalink: /blog/2008/10/16/smushit-must-use-firefox-extension-for-web-developers/
 categories:
   - design
   - web

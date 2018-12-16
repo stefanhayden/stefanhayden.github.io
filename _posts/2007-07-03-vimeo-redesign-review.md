@@ -5,7 +5,7 @@ date: 2007-07-03T08:27:01+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/07/03/vimeo-redesign-review/
-permalink: /2007/07/03/vimeo-redesign-review/
+permalink: /blog/2007/07/03/vimeo-redesign-review/
 categories:
   - design
   - review

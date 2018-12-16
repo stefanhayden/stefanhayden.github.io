@@ -5,7 +5,7 @@ date: 2008-01-17T09:56:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2008/01/17/steve-jobs-on-the-kindle/
-permalink: /2008/01/17/steve-jobs-on-the-kindle/
+permalink: /blog/2008/01/17/steve-jobs-on-the-kindle/
 Post:
   - link
 openid_comments:

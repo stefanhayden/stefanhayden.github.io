@@ -5,7 +5,7 @@ date: 2007-12-13T00:46:53+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/13/commandshift3/
-permalink: /2007/12/13/commandshift3/
+permalink: /blog/2007/12/13/commandshift3/
 Post:
   - link
 categories:

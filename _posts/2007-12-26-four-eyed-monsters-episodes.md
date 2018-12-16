@@ -5,7 +5,7 @@ date: 2007-12-26T09:46:15+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/26/four-eyed-monsters-episodes/
-permalink: /2007/12/26/four-eyed-monsters-episodes/
+permalink: /blog/2007/12/26/four-eyed-monsters-episodes/
 Post:
   - link
 categories:

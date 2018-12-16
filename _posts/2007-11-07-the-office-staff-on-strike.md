@@ -5,7 +5,7 @@ date: 2007-11-07T11:00:33+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/11/07/the-office-staff-on-strike/
-permalink: /2007/11/07/the-office-staff-on-strike/
+permalink: /blog/2007/11/07/the-office-staff-on-strike/
 categories:
   - video
 ---

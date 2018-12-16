@@ -5,7 +5,7 @@ date: 2007-06-20T08:32:07+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/06/20/amazing-way-to-solve-a-maze-with-photoshop-i-have-to-try-it-before-i-really-understood-why-it-works/
-permalink: /2007/06/20/amazing-way-to-solve-a-maze-with-photoshop-i-have-to-try-it-before-i-really-understood-why-it-works/
+permalink: /blog/2007/06/20/amazing-way-to-solve-a-maze-with-photoshop-i-have-to-try-it-before-i-really-understood-why-it-works/
 Post:
   - link
 categories:

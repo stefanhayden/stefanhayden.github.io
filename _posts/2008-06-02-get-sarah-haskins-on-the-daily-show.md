@@ -5,7 +5,7 @@ date: 2008-06-02T12:19:50+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=888
-permalink: /2008/06/02/get-sarah-haskins-on-the-daily-show/
+permalink: /blog/2008/06/02/get-sarah-haskins-on-the-daily-show/
 openid_comments:
   - 'a:1:{i:0;s:5:"49502";}'
 categories:

@@ -5,7 +5,7 @@ date: 2007-12-14T10:37:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2007/12/14/cake-at-terminal-5-dec-13th/
-permalink: /2007/12/14/cake-at-terminal-5-dec-13th/
+permalink: /blog/2007/12/14/cake-at-terminal-5-dec-13th/
 categories:
   - review
 ---

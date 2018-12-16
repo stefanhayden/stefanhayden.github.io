@@ -5,7 +5,7 @@ date: 2006-01-03T21:15:09+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/2006/01/03/google-comes-to-cambridge-boston/
-permalink: /2006/01/03/google-comes-to-cambridge-boston/
+permalink: /blog/2006/01/03/google-comes-to-cambridge-boston/
 categories:
   - web
 ---

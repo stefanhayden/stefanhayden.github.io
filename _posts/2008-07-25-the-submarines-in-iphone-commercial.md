@@ -5,7 +5,7 @@ date: 2008-07-25T09:02:19+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=974
-permalink: /2008/07/25/the-submarines-in-iphone-commercial/
+permalink: /blog/2008/07/25/the-submarines-in-iphone-commercial/
 categories:
   - mp3
   - video

@@ -5,7 +5,7 @@ date: 2008-08-04T07:00:06+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1030
-permalink: /2008/08/04/happy-birthday-barack-obama/
+permalink: /blog/2008/08/04/happy-birthday-barack-obama/
 Post:
   - link
 categories:

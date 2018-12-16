@@ -5,7 +5,7 @@ date: 2005-05-31T14:46:43+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=27
-permalink: /2005/05/31/screen-scrape-an-rss-feed-with-php/
+permalink: /blog/2005/05/31/screen-scrape-an-rss-feed-with-php/
 categories:
   - resources
   - web
