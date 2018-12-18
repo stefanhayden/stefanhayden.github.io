@@ -367,6 +367,9 @@ footer .theme-by {
 .post-entry {
   width: 100%;
 }
+.post-entry a {
+  text-decoration: underline;
+}
 .post-image {
   float: right;
   height: 192px;
