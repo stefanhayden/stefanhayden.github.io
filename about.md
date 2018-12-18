@@ -10,10 +10,24 @@ guid: http://www.stefanhayden.com/blog/?page_id=13
 <h1>Stefan Hayden</h1>
 Stefan Hayden (<a href="http://www.stefanhayden.com/blog/?page_id=12">contact</a>) graduated from The College of New Jersey with a degree in Graphic Design. Currently in New York.
 
+<a href="/top-shows">My top TV shows</a> and my <a href="https://www.tvtime.com/en/user/7770728/profile">TVTime</a>
+
 &nbsp;
 <div style="clear: both;"></div>
 <h1>A reverse chronology of my life (still in progress)</h1>
 &nbsp;
+
+<b>2018</b>: Shutterstock life time achievement award. MapleStory 2.
+
+<b>2017</b>:  Guild Wars 2 until gamer gate stuff happened.
+
+<b>2016</b>: Voted for Hillary Clinton. Guild Wars 2.
+
+<b>2015</b>: Kid the Second. Moved to Editor at Shutterstock. Guild Wars 2.
+
+<b>2012</b>: Kid the first.
+
+<b>2010</b>: Started at Shutterstock on Bigstock.
 
 <b>2009</b>: Started at ShermansTravel. Bought a house.
 
@@ -36,5 +50,3 @@ Stefan Hayden (<a href="http://www.stefanhayden.com/blog/?page_id=12">contact</a
 <b>1999</b>: Everquest. It's sad that this is so notable.
 
 <b>1982</b>: I was born around lunch on December 31st so I did not interrupt the doctor's new year eves party, or so I surmise.
-
-my google plus: <a href="https://plus.google.com/103644592266994974278/about" rel="me">Stefan Hayden</a>
