@@ -19,11 +19,11 @@ Stefan Hayden (<a href="http://www.stefanhayden.com/blog/?page_id=12">contact</a
 
 <b>2018</b>: Shutterstock life time achievement award. MapleStory 2.
 
-<b>2017</b>:  Guild Wars 2 until gamer gate stuff happened.
+<b>2017</b>: Stopped Guild Wars 2 when gamer gate stuff happened.
 
-<b>2016</b>: Voted for Hillary Clinton. Guild Wars 2.
+<b>2016</b>: Voted for Hillary Clinton. Aloebud with Amber.
 
-<b>2015</b>: Kid the Second. Moved to Editor at Shutterstock. Guild Wars 2.
+<b>2015</b>: Kid the Second. Moved to Editor at Shutterstock. Started Guild Wars 2.
 
 <b>2012</b>: Kid the first.
 
