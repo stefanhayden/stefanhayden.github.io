@@ -13,12 +13,12 @@ facebook:
 
 github:
   name: "GitHub"
-  baseURL: "https://github.com/stefanhayden"
+  baseURL: "https://github.com/"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/stefanhayden"
+  baseURL: "https://twitter.com/"
   icon: "fa-twitter"
 
 reddit:
@@ -33,12 +33,12 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:alt255@gmail.com"
+  baseURL: "mailto:"
   icon: "fa-envelope"
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://linkedin.com/in/stefanhayden"
+  baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
 
 xing:
