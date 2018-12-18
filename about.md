@@ -25,7 +25,7 @@ Stefan Hayden (<a href="http://www.stefanhayden.com/blog/?page_id=12">contact</a
 
 <b>2015</b>: Kid the Second. Moved to Editor at Shutterstock. Started Guild Wars 2.
 
-<b>2012</b>: Kid the first.
+<b>2012</b>: Kid the first. Stopped World of Warcraft, no time!
 
 <b>2010</b>: Started at Shutterstock on Bigstock.
 
