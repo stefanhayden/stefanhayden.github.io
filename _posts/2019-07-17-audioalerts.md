@@ -1,7 +1,7 @@
 ---
 id: 1773
 title: AudioAlerts - a live dashboard that lets you hear what your users are doing 
-date: 2018-12-17T08:41:29+00:00
+date: 2019-07-17T08:41:29+00:00
 author: Stefan Hayden
 layout: post
 guid: http://www.stefanhayden.com/blog/?p=1773
