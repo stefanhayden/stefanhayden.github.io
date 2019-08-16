@@ -1,9 +1,10 @@
 ---
-id: 172
+id: 123436767647647
 title: A Day In the Life
 date: 2006-07-24T20:27:12+00:00
 author: Stefan Hayden
 layout: page
+guid:  http://www.stefanhayden.com/blog/?page_id=123436767647647
 ---
 
 <style>
