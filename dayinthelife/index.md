@@ -7,7 +7,7 @@ layout: page
 ---
 
 
-<div class="container">
+
 
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="600" height="400" id="day in the life 1-8" align="middle">
 <param name="allowScriptAccess" value="sameDomain" />
@@ -100,7 +100,5 @@ layout: page
 
 	</ul>
 
-
-</div>
 
 </div>
