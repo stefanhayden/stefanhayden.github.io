@@ -6,59 +6,6 @@ author: Stefan Hayden
 layout: page
 ---
 
-<style>
-a {color:#FF7F00; text-decoration:none}
-a:visited {color:#FF7F00; text-decoration:none}
-a:hover {color:#FF7F00; text-decoration:underline}
-a:active {color:#FF7F00; text-decoration:underline}
-
-body {
-		background-image:url(img/header.gif);
-		background-position:top left;
-		background-repeat:no-repeat;
-		background-color:#B3B3B3;
-		font-family: Verdana, Arial, Helvetica, sans-serif;
-		font-size:11px;
-		}
-.container {
-		position:relative;
-		top:20px;
-		width:600px;
-		margin:auto;
-		background-color:#FFFFFF;
-		}
-.flashbar {
-		background-image:url(img/flash-bar.gif);
-		background-repeat:no-repeat;
-		background-position:top left;
-		height:14px;
-		}
-.mainL {
-		padding-left:10px;
-		padding-right:50px;
-		padding-bottom:30px;
-		}
-
-h1, h2, h3, h4, h5, h6 {
-						color:#FF7F00;
-						}
-li {
-	padding-bottom:20px;
-	}
-
-ol {
-	padding-top:10px;
-	}
-
-ol li {
-		padding-bottom:8px;
-		}
-
-ul li ul li {
-			padding-bottom:5px;
-			}
-</style>
-
 
 <div class="container">
 
@@ -69,7 +16,7 @@ ul li ul li {
 <param name="bgcolor" value="#ffffff" />
 <embed src="day in the life 1-8.swf" quality="high" bgcolor="#ffffff" width="600" height="400" name="day in the life 1-8" align="middle" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 </object>
-<div class="flashbar">&nbsp;</div>
+
 <div class="mainL">
 <h2>Further Reading</h2>
 	<ul>
