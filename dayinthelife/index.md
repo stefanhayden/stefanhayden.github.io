@@ -8,7 +8,7 @@ layout: page
 
 
 
-<div>
+<div style="border: 1px solid #DDD; text-align: center;">
 <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="600" height="400" id="day in the life 1-8" align="middle">
 <param name="allowScriptAccess" value="sameDomain" />
 <param name="movie" value="day in the life 1-8.swf" />
@@ -46,11 +46,11 @@ layout: page
 		<ul><li>by Cory Doctorow of the Electronic Frontier Foundation</li>
 			<li>Here's what I'm here to convince you of:
 				<ol>
-				<li> That DRM systems don't work</li>
-				<li> That DRM systems are bad for society</li>
-				<li> That DRM systems are bad for business</li>
-				<li> That DRM systems are bad for artists</li></li>
-				<li> That DRM is a bad business-move for MSFT
+					<li> That DRM systems don't work</li>
+					<li> That DRM systems are bad for society</li>
+					<li> That DRM systems are bad for business</li>
+					<li> That DRM systems are bad for artists</li>
+					<li> That DRM is a bad business-move for MSFT</li>
 				</ol>
 			</li>
 		</ul>
