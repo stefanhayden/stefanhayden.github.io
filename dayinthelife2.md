@@ -1,6 +1,6 @@
 ---
-id: 172
-title: A Day In the Life
+id: 1722
+title: A Day In the Life2
 date: 2006-07-24T20:27:12+00:00
 author: Stefan Hayden
 layout: page
