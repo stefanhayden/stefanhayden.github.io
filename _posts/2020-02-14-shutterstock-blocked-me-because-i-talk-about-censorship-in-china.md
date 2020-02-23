@@ -3,7 +3,7 @@ title: Shutterstock has blocked me on twitter
 date: 2020-02-14T08:41:29+00:00
 author: Stefan Hayden
 layout: post
-permalink: /2019/12/09/blocked-on-twitter-shutterstock-censorship-in-china/
+permalink: /2020/02/14/blocked-on-twitter-shutterstock-censorship-in-china/
 categories:
   - Uncategorized
 ---
