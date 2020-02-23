@@ -26,3 +26,5 @@ I’m super proud of all the work I did at Shutterstock from growing Bigstock to
 <b>UPDATE</b>
 
 This post, which I posted across social media at about 2pm, got me walked out of the office at 3pm. They could have just waited out the 2 hours I had left.  
+
+[pdf of article](/website_pdfs/In China, Shutterstock Censors Hong Kong and Other Searches.pdf)
