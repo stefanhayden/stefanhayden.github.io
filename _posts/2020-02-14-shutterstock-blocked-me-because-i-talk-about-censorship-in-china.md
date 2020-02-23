@@ -11,5 +11,3 @@ categories:
 Shutterstock blocked me on twitter because I keep talking about their censorship in china but don't want their customers to know about it. Internally leadership was so proud that they made the right chose for the company but I guess hiding it from customers is also how to make a right choice for the customer? They can't get upset about what they don't know!
 
 ![Screenshot of shutterstock blocking my account since I talk about their censorship in china](/wp-content/shutterstock-blocked-me.jpg "Screenshot of shutterstock blocking my account since I talk about their censorship in china")
-
-[pdf of article](/website_pdfs/In wake of Shutterstock’s Chinese censorship, American companies need to relearn American values _ TechCrunch.pdf)
