@@ -1,5 +1,5 @@
 ---
-title: My last day at Shutterstock because of censorship in china 
+title: My last day at Shutterstock because of censorship in china
 date: 2019-12-06T08:41:29+00:00
 author: Stefan Hayden
 layout: post
@@ -22,3 +22,7 @@ I wish I didn’t feel like I had to leave but I never want to work where I can�
 I’m super proud of all the work I did at Shutterstock from growing Bigstock to building a powerful design tool in Editor. As well as all the work I have done to building culture with my coworkers. It was an amazing journey.
 
 [Read more about SHUTTERSTOCK EMPLOYEES FIGHT COMPANY’S NEW CHINESE SEARCH BLACKLIST](https://theintercept.com/2019/11/06/shutterstock-china-censorship-tech/)
+
+<b>UPDATE</b>
+
+This post, which I posted across social media at about 2pm, got me walked out of the office at 3pm. They could have just waited out the 2 hours I had left.  
