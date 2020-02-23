@@ -10,4 +10,4 @@ categories:
 
 I think Bieber just knighted Splice.
 
-![Screenshot of bieber telling laxcity he's part of it now](/wp-content/bieber-splice.png "Screenshot of bieber telling laxcity he's part of it now")
+<a href="https://twitter.com/justinbieber/status/1229066788236713984">![Screenshot of bieber telling laxcity he's part of it now](/wp-content/bieber-splice.png "Screenshot of bieber telling laxcity he's part of it now")</a>
