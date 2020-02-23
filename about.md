@@ -14,8 +14,12 @@ Stefan Hayden (<a href="http://www.stefanhayden.com/blog/?page_id=12">contact</a
 
 &nbsp;
 <div style="clear: both;"></div>
-<h1>A reverse chronology of my life (still in progress)</h1>
+<h1>A reverse chronology of my life</h1>
 &nbsp;
+
+<b>2020</b>: Working at Splice. EVE Online. Final Fantasy Online.
+
+<b>2019</b>: <a href="https://www.audioalerts.io">Audioalerts.io</a> launch. Shutterstock start censoring in china and I quit.
 
 <b>2018</b>: Shutterstock life time achievement award. MapleStory 2.
 
