@@ -13,3 +13,5 @@ Excited to have <a href="https://www.twitter.com/David_Ingram">@David_Ingram</a>
 And I also want to make a reminder that I care a lot about Shutterstock and my fellow employees. I don't want to have a controversy to talk about. I just want to build websites with my friends. 9+ years I was able to do that. I wish everything had been different.
 
 <a href="https://www.nbcnews.com/tech/tech-news/chinese-censorship-or-work-elsewhere-inside-shutterstock-s-free-speech-n1144211">![NBCNews covers Shutterstock censoring in china](/wp-content/200219-shutterstock-censorship-main-cs.jpg "NBCNews covers Shutterstock censoring in china")</a>
+
+<a href="/website_pdfs/Chinese censorship or 'work elsewhere'_ Inside Shutterstock's free-speech rebellion.pdf">pdf</a>
