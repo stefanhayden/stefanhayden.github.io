@@ -13,19 +13,19 @@ My old dell died a rather sudden and upsetting death. Dell said a new motherboar
 
 I've only had it for a day but everything seems to be in good shape. Here are the specs which are mostly for my future reference:
 
-1 x Case Azza Triton Gaming Case - Black
-1 x Processor Intel® Core™ i7 960 Processor (4x 3.20GHz/8MB L3 Cache)
-1 x Processor Cooling Certified CPU Fan and Heatsink
-1 x Memory 12 GB [2 GB X6] DDR3-1600 - Corsair or Major Brand
-1 x Video Card NVIDIA GeForce GTX 560 - 1GB - FREE Upgrade to GTX 560 2GB - Single Card
-1 x Video Card Brand Major Brand Powered by AMD or NVIDIA
-1 x Free Stuff [Free Game Voucher] - Batman Arkham City - Free with purchase of NVIDIA GeForce 5 series video card
-1 x Motherboard ASUS Sabertooth X58
-1 x Motherboard USB / SATA Interface Motherboard default USB / SATA Interface
-1 x Power Supply 700 Watt - Standard
-1 x Primary Hard Drive 1 TB HARD DRIVE -- 32M Cache, 7200 RPM, 6.0Gb/s - Single Drive
-1 x Optical Drive 24X Dual Format/Double Layer DVD±R/±RW + CD-R/RW Drive - Black
-1 x Flash Media Reader / Writer 12-In-1 Internal Flash Media Card Reader/Writer - Black
-1 x Sound Card 3D Premium Surround Sound Onboard
-1 x Network Card Onboard LAN Network (Gb or 10/100)
-1 x Operating System None- Pre-formatted Hard Drive Only
+- 1 x Case Azza Triton Gaming Case - Black
+- 1 x Processor Intel® Core™ i7 960 Processor (4x 3.20GHz/8MB L3 Cache)
+- 1 x Processor Cooling Certified CPU Fan and Heatsink
+- 1 x Memory 12 GB [2 GB X6] DDR3-1600 - Corsair or Major Brand
+- 1 x Video Card NVIDIA GeForce GTX 560 - 1GB - FREE Upgrade to GTX 560 2GB - Single Card
+- 1 x Video Card Brand Major Brand Powered by AMD or NVIDIA
+- 1 x Free Stuff [Free Game Voucher] - Batman Arkham City - Free with purchase of NVIDIA GeForce 5 series video card
+- 1 x Motherboard ASUS Sabertooth X58
+- 1 x Motherboard USB / SATA Interface Motherboard default USB / SATA Interface
+- 1 x Power Supply 700 Watt - Standard
+- 1 x Primary Hard Drive 1 TB HARD DRIVE -- 32M Cache, 7200 RPM, 6.0Gb/s - Single Drive
+- 1 x Optical Drive 24X Dual Format/Double Layer DVD±R/±RW + CD-R/RW Drive - Black
+- 1 x Flash Media Reader / Writer 12-In-1 Internal Flash Media Card Reader/Writer - Black
+- 1 x Sound Card 3D Premium Surround Sound Onboard
+- 1 x Network Card Onboard LAN Network (Gb or 10/100)
+- 1 x Operating System None- Pre-formatted Hard Drive Only
