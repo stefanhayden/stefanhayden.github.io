@@ -11,8 +11,8 @@ categories:
 ---
 More academics need to have <a href="http://www.youtube.com/watch?v=aal9VSPkf5s">a sense of humor like this</a>.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/aal9VSPkf5s&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/aal9VSPkf5s&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aal9VSPkf5s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/fRXKQjLBBrI&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/fRXKQjLBBrI&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fRXKQjLBBrI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/y4YJMh0v2gk&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/y4YJMh0v2gk&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y4YJMh0v2gk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
