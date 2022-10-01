@@ -9,4 +9,4 @@ permalink: /blog/2010/11/02/i-remember/
 categories:
   - politics
 ---
-<object width="460" height="283"><param name="movie" value="http://www.youtube.com/v/8BJfMPxQuiU?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/8BJfMPxQuiU?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="460" height="283"></embed></object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8BJfMPxQuiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
