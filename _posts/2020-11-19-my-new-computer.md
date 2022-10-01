@@ -10,7 +10,7 @@ openid_comments:
 categories:
   - web
 ---
-I always post my new computer stats so I can find them in the future. My last desktop was 8 years ago and
+I always post my new computer stats so I can find them in the future. My last <a href="/blog/2012/02/11/new-computer-from-ibuypower/">desktop was 8 years ago</a> and
 it started to blue screen of death after the graphics card started to hit 100% capacity.
 
 
