@@ -6,8 +6,8 @@ created here: https://caiorss.github.io/bookmarklet-maker/
 
 <h1>
 
-<a href="javascript:(function()%7Bvar%20isoDate%20%3D%20(new%20Date()).toISOString()%3B%0Avar%20date%20%3D%20isoDate.split('T')%5B0%5D%3B%0Avar%20d%20%3D%20date.split('-')%3B%0Avar%20dataPermaLink%20%3D%20d.join('%2F')%3B%0Avar%20title%3D%20prompt(%22title%22%2C%20%22%22).replaceAll(%2F(%5B%26%24%5C%2B%2C%3A%3B'%22%3D%5C%3F%40%23%5Cs%3C%3E%5C%5B%5C%5D%5C%7B%5C%7D%5B%5C%2F%5D%7C%5C%5C%5C%5E%25%5D)%2B%2Fg%2C%20'-')%3B%0A%0Avar%20filename%20%3D%20date%20%2B%20%22-%22%20%2B%20title%20%2B%20'.md'%3B%0A%0Avar%20html%20%3D%20%5B%0A'---'%2C%0A'date%3A%20'%2B%20isoDate%2C%0A'author%3A%20Stefan%20Hayden'%2C%0A'layout%3A%20post'%2C%0A'permalink%3A%20%2Fblog%2F'%2B%20dataPermaLink%20%20%2B'%2F'%2B%20title%20%2B'%2F'%2C%0A'categories%3A'%2C%0A'%20%20-%20web'%2C%0A'---'%2C%0A%5D.join('%250A')%3B%0A%0A%0Awindow.location.href%20%3D%20%22https%3A%2F%2Fgithub.com%2Fstefanhayden%2Fstefanhayden.github.io%2Fnew%2Fmaster%2F_posts%22%20%2B%20%22%3Ffilename%3D_posts%2F%22%20%2B%20filename%20%2B%20%22%26value%3D%22%20%2B%20html%3B%7D)()%3B">bookmarklet</a>
-  
+<a href="javascript:(function()%7Bvar%20isoDate%20%3D%20(new%20Date()).toISOString()%3B%0Avar%20date%20%3D%20isoDate.split('T')%5B0%5D%3B%0Avar%20d%20%3D%20date.split('-')%3B%0Avar%20dataPermaLink%20%3D%20d.join('%2F')%3B%0Avar%20title%3D%20prompt(%22title%22%2C%20%22%22).replaceAll(%2F(%5B%26%24%5C%2B%2C%3A%3B'%22%3D%5C%3F%40%23%5Cs%3C%3E%5C%5B%5C%5D%5C%7B%5C%7D%5B%5C%2F%5D%7C%5C%5C%5C%5E%25%5D)%2B%2Fg%2C%20'-')%3B%0A%0Avar%20filename%20%3D%20date%20%2B%20%22-%22%20%2B%20title%20%2B%20'.md'%3B%0A%0Avar%20html%20%3D%20%5B%0A'---'%2C%0A'date%3A%20'%2B%20isoDate%2C%0A'author%3A%20Stefan%20Hayden'%2C%0A'layout%3A%20post'%2C%0A'permalink%3A%20%2Fblog%2F'%2B%20dataPermaLink%20%20%2B'%2F'%2B%20title%20%2B'%2F'%2C%0A'categories%3A'%2C%0A'%20%20-%20web'%2C%0A'---'%2C%0A%5D.join('%250A')%3B%0A%0A%0Awindow.location.href%20%3D%20%22https%3A%2F%2Fgithub.com%2Fstefanhayden%2Fstefanhayden.github.io%2Fnew%2Fmaster%2F%22%20%2B%20%22%3Ffilename%3D_posts%2F%22%20%2B%20filename%20%2B%20%22%26value%3D%22%20%2B%20html%3B%7D)()%3B">bookmarklet</a>  
+
 </h1>
 
 <br />
@@ -39,6 +39,7 @@ var html = [
 ].join('%0A');
 
 
-window.location.href = "https://github.com/stefanhayden/stefanhayden.github.io/new/master/_posts" + "?filename=_posts/" + filename + "&value=" + html;
+window.location.href = "https://github.com/stefanhayden/stefanhayden.github.io/new/master/" + "?filename=_posts/" + filename + "&value=" + html;
+
 
 </pre>
