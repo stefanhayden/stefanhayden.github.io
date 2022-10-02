@@ -40,7 +40,7 @@ permalink: /the-machine-stops/
 		</style>
 
 
-<div class="container">
+<div class="">
 
 
 
