@@ -13,4 +13,4 @@ The <a href="https://www.youtube.com/watch?v=nd5EvopBEcI">new promo is out for s
 
 The plan is to have 9 new characters next season. Can they teach their writers to write new characters instead of haphazardly throwing them together and explaining their backstory in one liners? We'll see as they are basicly writing to keep their jobs. A bad season and everyone is fired.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nd5EvopBEcI&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nd5EvopBEcI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

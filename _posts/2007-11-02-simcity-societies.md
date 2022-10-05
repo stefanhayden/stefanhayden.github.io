@@ -11,4 +11,4 @@ categories:
   - web
 ---
 SimCity Societies actually looks pretty cool. The video below is a great over view and <a href="https://www.youtube.com/watch?v=0lvss1PqrGU">this video has a bit more in depth look</a> at it.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jqfhU65WuvM&rel=1&border=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jqfhU65WuvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

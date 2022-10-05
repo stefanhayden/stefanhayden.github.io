@@ -11,4 +11,4 @@ categories:
 ---
 This is a direction Gray's Anatomy could have taken.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1NfJJ-GNEg&color1=0x3a3a3a&color2=0x999999&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1NfJJ-GNEg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

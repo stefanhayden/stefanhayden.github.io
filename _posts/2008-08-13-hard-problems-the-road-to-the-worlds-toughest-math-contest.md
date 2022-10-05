@@ -12,7 +12,7 @@ categories:
 ---
 It's a little hypnotizing to hear <a href="https://www.youtube.com/user/HardProblems">these kids</a> talk about how they tried to solve these math equations. <a href="http://hardproblemsmovie.com/">This is a documentary that I would definitely like to see</a>.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3tpDqliD6Ss&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3tpDqliD6Ss" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lOVK-R7H6xc&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lOVK-R7H6xc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

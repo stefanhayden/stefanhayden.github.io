@@ -14,4 +14,4 @@ categories:
 ---
 Wow.. <a href="https://www.youtube.com/watch?v=mnUvZP7-5LM">this trailer</a> makes me think I would have liked Buffy lot if it was always a cartoon. Cartoons can do absurd campyness a lot better then live action can.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mnUvZP7-5LM&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mnUvZP7-5LM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

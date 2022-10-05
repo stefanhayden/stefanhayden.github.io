@@ -12,4 +12,4 @@ categories:
 ---
 <a href="https://www.youtube.com/watch?v=JLw5wNt7GdE">I made this</a> about a week ago and forgot to post it here. I would say most who read this blog know who I am but I'm sure there are a few who do not. The site I mention that I made is <a href="http://www.booksiamreading.com">Books I Am Reading</a> where <a href="http://www.booksiamreading.com/stefanhayden">I keep track of all of my books</a>.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JLw5wNt7GdE&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JLw5wNt7GdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

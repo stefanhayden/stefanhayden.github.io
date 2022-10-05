@@ -11,4 +11,4 @@ categories:
 ---
 PhoneDog has a great series of videos reviewing the G1. It's super positive. There are stuff that is not perfect but personally I think people over estimate how perfect the iphone is. <a href="https://www.youtube.com/video_response_view_all?v=GMSZzseX2zA">You can view more in depth review about the phone here</a>.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GMSZzseX2zA&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GMSZzseX2zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

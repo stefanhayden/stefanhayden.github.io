@@ -11,4 +11,4 @@ categories:
 ---
 <a href="https://www.youtube.com/watch?v=gBfngOsvmA0">Yeay for armature campaign videos</a>. (via <a href="http://www.waxy.org">waxy</a>)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gBfngOsvmA0&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gBfngOsvmA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

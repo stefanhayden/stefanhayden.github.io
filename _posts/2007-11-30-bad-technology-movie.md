@@ -13,4 +13,4 @@ categories:
 ---
 This <a href="http://en.wikipedia.org/wiki/Untraceable">Untraceable</a> movie about an untraceable website looks like the worst researched technology movie in history.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OLYo5tMylQM&rel=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OLYo5tMylQM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -10,4 +10,4 @@ categories:
   - video
 ---
 Globalization has always fascinated me and this is a really great talk that highlights the issue in some new and exciting ways.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h8XDceL8jd0&rel=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h8XDceL8jd0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

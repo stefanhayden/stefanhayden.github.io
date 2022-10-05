@@ -9,6 +9,6 @@ permalink: /blog/2008/08/09/barack-rolld/
 categories:
   - video
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/65I0HNvTDH4&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/65I0HNvTDH4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 via <a href="http://www.kerilynnadams.com/">Keri</a>

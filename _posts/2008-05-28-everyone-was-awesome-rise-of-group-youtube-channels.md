@@ -45,4 +45,4 @@ April 14, 2008 - <a href="https://www.youtube.com/user/amazingvlogshow">amazing 
 April 14, 2008 - <a href="https://www.youtube.com/user/fiveawesomeclones">five awesome clones (26)</a> - 169 Subscribers
 May 09, 2008 - <a href="https://www.youtube.com/user/fiveawesomeJs">five awesome Js (16)</a> - 65 Subscribers
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kb2RaDBOrSY&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kb2RaDBOrSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
