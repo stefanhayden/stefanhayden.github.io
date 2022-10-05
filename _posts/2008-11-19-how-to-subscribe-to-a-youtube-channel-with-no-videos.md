@@ -11,6 +11,6 @@ categories:
 ---
 First off why youtube does not let you subscribe to any channel is beyond me. Second off finding out how to do this was much harder then it should have been.
 
-<a href="http://www.youtube.com/subscription_center?add_user=STHayden">http://www.youtube.com/subscription_center?add_user=STHayden</a>
+<a href="https://www.youtube.com/subscription_center?add_user=STHayden">https://www.youtube.com/subscription_center?add_user=STHayden</a>
 
 All you need to do to subscribe to any channel is to change the username at the end of the above url. Let me know if you have any problems or questions.

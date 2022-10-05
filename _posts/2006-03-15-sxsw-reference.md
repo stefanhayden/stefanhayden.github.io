@@ -107,7 +107,7 @@ Slides
 
 Video
 
-<a title="video" href="http://www.youtube.com/watch?v=cZNMSJo_4r4">Joi Ito interviews people at SXSW</a> (<a title="Joi Ito's blog" href="http://joi.ito.com/archives/2006/03/14/video_from_sxsw_up.html">original post</a>)
+<a title="video" href="https://www.youtube.com/watch?v=cZNMSJo_4r4">Joi Ito interviews people at SXSW</a> (<a title="Joi Ito's blog" href="http://joi.ito.com/archives/2006/03/14/video_from_sxsw_up.html">original post</a>)
 
 Audio
 

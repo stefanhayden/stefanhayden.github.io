@@ -12,4 +12,4 @@ categories:
   - video
   - web
 ---
-<a href="http://www.youtube.com/user/nuglah">This entire youtube channel has to be one of the scariest things I've ever seen</a>.
+<a href="https://www.youtube.com/user/nuglah">This entire youtube channel has to be one of the scariest things I've ever seen</a>.

@@ -13,4 +13,4 @@ categories:
 ---
 A great tiny lecture about sex in video games. Where it's been and where it will hopefully go. (via <a href="http://www.wonderlandblog.com/wonderland/2008/05/sex-in-videogam.html">alice</a>)
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/6pEquofR2r0&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6pEquofR2r0&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

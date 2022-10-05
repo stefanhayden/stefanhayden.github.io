@@ -14,6 +14,6 @@ So back in July Apple came out with an iPhone commercial with The Submarines and
 
 Not long after that we saw them in concert again (opening for Aimee Mann) and got to talk to Blake (John was hiding in the back) about the iPhone commercial. Blake was super excited and we mentioned it was sad it was just the instrumentals. Blake pointed out that the lyrics didn't really lend it self to selling phones. 
 
-Fast forward to now and <em>You, Me, and the Bourgeoisie</em> has basically become the theme song for the iPhone as it's been in several more commercials. The big news is that <a href="http://www.youtube.com/watch?v=kcYY-Ii7rcs">now Apple shows off the Shazam app by having it detect the song in the commercial and bring you to the The Submarines iTunes page</a>. So congrats to Blake and John. Come back to NYC soon.
+Fast forward to now and <em>You, Me, and the Bourgeoisie</em> has basically become the theme song for the iPhone as it's been in several more commercials. The big news is that <a href="https://www.youtube.com/watch?v=kcYY-Ii7rcs">now Apple shows off the Shazam app by having it detect the song in the commercial and bring you to the The Submarines iTunes page</a>. So congrats to Blake and John. Come back to NYC soon.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/kcYY-Ii7rcs&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kcYY-Ii7rcs&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

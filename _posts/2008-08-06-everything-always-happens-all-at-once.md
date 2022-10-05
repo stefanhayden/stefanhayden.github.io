@@ -11,6 +11,6 @@ categories:
   - personal
   - video
 ---
-I was planning on going <a href="http://www.stefanhayden.com/blog/2008/07/31/an-evening-with-scott-mccloud/">here</a> but I think I'll go <a href="http://www.youtube.com/watch?v=n4ieUK-PW6A">here</a> instead today:
+I was planning on going <a href="http://www.stefanhayden.com/blog/2008/07/31/an-evening-with-scott-mccloud/">here</a> but I think I'll go <a href="https://www.youtube.com/watch?v=n4ieUK-PW6A">here</a> instead today:
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/n4ieUK-PW6A&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4ieUK-PW6A&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

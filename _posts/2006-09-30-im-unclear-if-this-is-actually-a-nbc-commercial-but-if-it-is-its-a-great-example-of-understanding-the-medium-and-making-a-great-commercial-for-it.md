@@ -11,4 +11,4 @@ Post:
 categories:
   - video
 ---
-<p>I'm unclear if <a href="http://www.youtube.com/watch?v=QfNoQkoytvU">this is actually a NBC commercial (video)</a> but if it is it's a great example of understanding the medium and making a great commercial for it (I mean it's funny).</p>
+<p>I'm unclear if <a href="https://www.youtube.com/watch?v=QfNoQkoytvU">this is actually a NBC commercial (video)</a> but if it is it's a great example of understanding the medium and making a great commercial for it (I mean it's funny).</p>

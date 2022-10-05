@@ -13,4 +13,4 @@ openid_comments:
 categories:
   - web
 ---
-<a href="http://bits.blogs.nytimes.com/2008/01/15/the-passion-of-steve-jobs/index.html">Steve Jobs on the Kindle</a>: "No one reads anymore". People seem to be taking Steve at his word but I find it funny that he has such harsh words for a device touted as the next iPod. Seems like a conflict of interest to me. Every one laughed at Ballmer when he <a href="http://www.youtube.com/watch?v=C5oGaZIKYvo">laughed the iPhone</a>.
+<a href="http://bits.blogs.nytimes.com/2008/01/15/the-passion-of-steve-jobs/index.html">Steve Jobs on the Kindle</a>: "No one reads anymore". People seem to be taking Steve at his word but I find it funny that he has such harsh words for a device touted as the next iPod. Seems like a conflict of interest to me. Every one laughed at Ballmer when he <a href="https://www.youtube.com/watch?v=C5oGaZIKYvo">laughed the iPhone</a>.

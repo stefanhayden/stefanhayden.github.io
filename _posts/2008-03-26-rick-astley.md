@@ -11,4 +11,4 @@ Post:
 categories:
   - web
 ---
-<a href="http://latimesblogs.latimes.com/webscout/2008/03/rick-astley-kin.html">Rick Astley has aged well</a>. He looks a lot better then he did <a href="http://www.youtube.com/watch?v=eBGIQ7ZuuiU">when he was younger</a>.
+<a href="http://latimesblogs.latimes.com/webscout/2008/03/rick-astley-kin.html">Rick Astley has aged well</a>. He looks a lot better then he did <a href="https://www.youtube.com/watch?v=eBGIQ7ZuuiU">when he was younger</a>.

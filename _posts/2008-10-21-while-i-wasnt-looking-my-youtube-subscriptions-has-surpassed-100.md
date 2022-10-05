@@ -11,4 +11,4 @@ Post:
 categories:
   - personal
 ---
-While I wasn't looking <a href="http://www.youtube.com/profile_subscriptions?user=STHayden">my youtube subscriptions has surpassed 100</a>. Why should you care? Because back when my bloglines reader first hit 100 feeds I knew that rss readers were going to be big. And yet there still is no good aggregation for online video.
+While I wasn't looking <a href="https://www.youtube.com/profile_subscriptions?user=STHayden">my youtube subscriptions has surpassed 100</a>. Why should you care? Because back when my bloglines reader first hit 100 feeds I knew that rss readers were going to be big. And yet there still is no good aggregation for online video.

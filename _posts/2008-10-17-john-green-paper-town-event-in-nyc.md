@@ -13,4 +13,4 @@ categories:
 ---
 This video makes me seem lamer then I remember being. Perhaps I can be happy for high self esteem?
 
-<object width="425" height="350"> <param name="movie" value="http://www.youtube.com/v/hUCCLZX-T9Q"> </param> <embed src="http://www.youtube.com/v/hUCCLZX-T9Q" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>
+<object width="425" height="350"> <param name="movie" value="https://www.youtube.com/v/hUCCLZX-T9Q"> </param> <embed src="https://www.youtube.com/v/hUCCLZX-T9Q" type="application/x-shockwave-flash" width="425" height="350"> </embed> </object>

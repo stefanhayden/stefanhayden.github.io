@@ -11,4 +11,4 @@ Post:
 categories:
   - web
 ---
-Of course <a href="http://sarahpalin.typepad.com/">Sara Palin has a Blog</a>. Though for some reason she has not linked it to her <a href="http://www.youtube.com/user/SaraBenincasa">youtube account</a> or her <a href="http://twitter.com/fakesarahpalin">twitter account</a>.
+Of course <a href="http://sarahpalin.typepad.com/">Sara Palin has a Blog</a>. Though for some reason she has not linked it to her <a href="https://www.youtube.com/user/SaraBenincasa">youtube account</a> or her <a href="http://twitter.com/fakesarahpalin">twitter account</a>.

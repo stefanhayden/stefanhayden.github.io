@@ -11,5 +11,5 @@ Post:
 categories:
   - Uncategorized
 ---
-<p><a href="http://www.youtube.com/watch?v=tIrfSsax9n4">Quirky Ysabella Brave of YouTube fame got signed to Warner Music’s Cordless Recordings. </a>
+<p><a href="https://www.youtube.com/watch?v=tIrfSsax9n4">Quirky Ysabella Brave of YouTube fame got signed to Warner Music’s Cordless Recordings. </a>
 </p>

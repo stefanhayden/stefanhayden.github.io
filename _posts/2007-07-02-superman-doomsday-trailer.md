@@ -11,4 +11,4 @@ categories:
 ---
 I've always loved the Batman and Superman cartoons shows and I look forward to the Doomsday movie no matter how bad the below trailer is with it's crappy voice over.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/l3keuiWzY-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l3keuiWzY-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

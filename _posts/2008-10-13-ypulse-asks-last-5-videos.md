@@ -17,8 +17,8 @@ But then <a href="http://www.ypulse.com/the-last-five-thingsi-watched-online/">Y
 
 <a href="http://www.blogtv.com/People/fallofautumndistro&amp;ref=alert">John Green on Blogtv</a>
 
-<a href="http://www.youtube.com/watch?v=Scx74UYOgoY">10/13: Kristina has a PROBLEM.</a>
+<a href="https://www.youtube.com/watch?v=Scx74UYOgoY">10/13: Kristina has a PROBLEM.</a>
 
-<a href="http://www.youtube.com/watch?v=ZlVUXLBJg14">123456 Pokemon</a>
+<a href="https://www.youtube.com/watch?v=ZlVUXLBJg14">123456 Pokemon</a>
 
-<a href="http://www.youtube.com/watch?v=avxpn_MsPYs">MyHope (original song)</a> (I watch this one like once a day)
+<a href="https://www.youtube.com/watch?v=avxpn_MsPYs">MyHope (original song)</a> (I watch this one like once a day)

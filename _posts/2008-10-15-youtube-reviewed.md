@@ -11,4 +11,4 @@ Post:
 categories:
   - web
 ---
-I was in <a href="http://www.blogtv.com/People/fallofautumndistro">Alen's blogtv channel</a> and learned about <a href="http://youtubereviewed.wordpress.com/">YouTube Reviewed</a>. It's a new blog but youtube is in desperate need of people to follow all the memes and communities on youtube as <a href="http://www.youtube.com/profile_subscriptions?user=STHayden">it's exausting to try and keep up on my own</a>.
+I was in <a href="http://www.blogtv.com/People/fallofautumndistro">Alen's blogtv channel</a> and learned about <a href="http://youtubereviewed.wordpress.com/">YouTube Reviewed</a>. It's a new blog but youtube is in desperate need of people to follow all the memes and communities on youtube as <a href="https://www.youtube.com/profile_subscriptions?user=STHayden">it's exausting to try and keep up on my own</a>.

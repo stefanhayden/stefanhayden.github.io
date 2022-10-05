@@ -11,5 +11,5 @@ Post:
 categories:
   - web
 ---
-I love covers: <span><a href="http://www.youtube.com/watch?v=h-8t9P5GBf4">Katy Perry - Use your love</a> (youtube because I can't link to a specific song on <a href="http://www.myspace.com/katyperry">myspace</a>).
+I love covers: <span><a href="https://www.youtube.com/watch?v=h-8t9P5GBf4">Katy Perry - Use your love</a> (youtube because I can't link to a specific song on <a href="http://www.myspace.com/katyperry">myspace</a>).
 </span>

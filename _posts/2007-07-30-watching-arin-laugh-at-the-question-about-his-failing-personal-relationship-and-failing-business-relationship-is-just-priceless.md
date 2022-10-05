@@ -12,4 +12,4 @@ categories:
   - video
   - web
 ---
-<a href="http://www.youtube.com/watch?v=OR1WxBp3LZo">Watching Arin laugh at the question about his "failing personal relationship and failing business relationship" is just priceless. (video)</a>
+<a href="https://www.youtube.com/watch?v=OR1WxBp3LZo">Watching Arin laugh at the question about his "failing personal relationship and failing business relationship" is just priceless. (video)</a>

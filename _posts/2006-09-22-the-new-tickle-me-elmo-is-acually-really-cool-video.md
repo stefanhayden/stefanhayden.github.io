@@ -11,5 +11,5 @@ Post:
 categories:
   - web
 ---
-<p><a href="http://www.youtube.com/watch?v=o4x-VW_rCSE">The new Tickle Me Elmo is acually really cool (video).</a>
+<p><a href="https://www.youtube.com/watch?v=o4x-VW_rCSE">The new Tickle Me Elmo is acually really cool (video).</a>
 </p>

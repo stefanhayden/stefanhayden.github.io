@@ -11,7 +11,7 @@ categories:
 ---
 <img class="alignnone" alt="" src="http://25.media.tumblr.com/9036c72f8efcd35caeec1e32ed7a7ea3/tumblr_mh40t7Rrt21qz4tnco1_500.png" width="460" />
 
-The biggest news from a youtube creator since annoying orange got it's own tv show. Meghan Camarena of <a href="http://www.youtube.com/user/Strawburry17">Strawburry17</a> and Joey formerly of <a href="http://www.youtube.com/user/WinterSpringPro">WinterSpringPro</a> and now his personal channel <a href="http://www.youtube.com/user/JoeyGraceffa">JoeyGraceffa</a> are going to <a href="http://www.latimes.com/entertainment/tv/showtracker/la-et-st-new-teams-for-the-amazing-race-announced-20130123,0,5670590.story">be on The Amazing Race</a>. And what a great team they will be (or were as the show has already been filmed).
+The biggest news from a youtube creator since annoying orange got it's own tv show. Meghan Camarena of <a href="https://www.youtube.com/user/Strawburry17">Strawburry17</a> and Joey formerly of <a href="https://www.youtube.com/user/WinterSpringPro">WinterSpringPro</a> and now his personal channel <a href="https://www.youtube.com/user/JoeyGraceffa">JoeyGraceffa</a> are going to <a href="http://www.latimes.com/entertainment/tv/showtracker/la-et-st-new-teams-for-the-amazing-race-announced-20130123,0,5670590.story">be on The Amazing Race</a>. And what a great team they will be (or were as the show has already been filmed).
 
 While exciting news for the youtube community who hunger for broader recognition and validation no one is surprised that these two have made such a deal. Both Meghan and Joey are growing stars with a lot of energy and know for their hustle and hard work to make ends meet on youtube Increasingly with low CPM ad impressions and views harder to get as youtube redesigns for bigger partners burgeoning stars have to find more and more way to bring in extra money.
 
@@ -23,4 +23,4 @@ Second Joey and Meghan are naturals in front of the camera practicing talking to
 
 The benefit is not all on Amazing Race's side though. Look for Meghan and Joey to take full advantage of being in front of 10 million viewers weekly. I expect to see some interesting weekly online content and live interaction as the show airs building new viewership for their channels as well as the show's.
 
-<iframe width="460" height="259" src="http://www.youtube.com/embed/InrOHLajy74" frameborder="0" allowfullscreen></iframe>
+<iframe width="460" height="259" src="https://www.youtube.com/embed/InrOHLajy74" frameborder="0" allowfullscreen></iframe>

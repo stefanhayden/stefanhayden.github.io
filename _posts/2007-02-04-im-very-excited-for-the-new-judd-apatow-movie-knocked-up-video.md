@@ -11,5 +11,5 @@ Post:
 categories:
   - video
 ---
-<p><a href="http://www.youtube.com/watch?v=5PVOSmxiGWI">I'm very excited for the new Judd Apatow movie, Knocked up (video).</a>
+<p><a href="https://www.youtube.com/watch?v=5PVOSmxiGWI">I'm very excited for the new Judd Apatow movie, Knocked up (video).</a>
 </p>

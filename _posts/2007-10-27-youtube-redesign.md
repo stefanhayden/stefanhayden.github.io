@@ -10,7 +10,7 @@ categories:
   - design
   - web
 ---
-<a href="http://www.youtube.com/blog?entry=qbnbG2JO05Q">YouTube is starting a major redesign</a> and have made some odd and interesting choices. Amazon recently impressed me by hiding away alot of interface to fit more contest on the screen. YouTube seems headed in a similar direction.
+<a href="https://www.youtube.com/blog?entry=qbnbG2JO05Q">YouTube is starting a major redesign</a> and have made some odd and interesting choices. Amazon recently impressed me by hiding away alot of interface to fit more contest on the screen. YouTube seems headed in a similar direction.
 
 Their new layout definitely looks better then the old one but they have made a choice that does not sit as well with me. In hiding away all those interface elements in dropdown menus they have taken all that new space and put a 300x250 add on the page in place of the 160x600 ad.
 

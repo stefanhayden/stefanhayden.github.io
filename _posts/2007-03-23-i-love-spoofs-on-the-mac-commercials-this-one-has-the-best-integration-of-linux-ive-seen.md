@@ -11,5 +11,5 @@ Post:
 categories:
   - video
 ---
-<p><a href="http://www.youtube.com/watch?v=GVOnFdMf0RU">I love spoofs on the mac commercials</a>. This one has the best integration of Linux I've seen.
+<p><a href="https://www.youtube.com/watch?v=GVOnFdMf0RU">I love spoofs on the mac commercials</a>. This one has the best integration of Linux I've seen.
 </p>

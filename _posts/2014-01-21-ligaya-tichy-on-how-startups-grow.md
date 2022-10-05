@@ -12,7 +12,7 @@ categories:
 This is pretty spot on to my experiences. I do think there are ways to counteract this risk aversion to some degree. And I think Shutterstock has done a pretty good job of it.
 <blockquote><strong>Julie Horvath</strong>
 
-<a href="http://www.youtube.com/watch?v=XqSooZhyR3w&amp;t=51m"><strong>What were a few of the biggest changes you saw with these companies as they grew?</strong></a>
+<a href="https://www.youtube.com/watch?v=XqSooZhyR3w&amp;t=51m"><strong>What were a few of the biggest changes you saw with these companies as they grew?</strong></a>
 
 <strong>Ligaya Tichy</strong>
 

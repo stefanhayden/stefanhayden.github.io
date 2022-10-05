@@ -11,4 +11,4 @@ Post:
 categories:
   - video
 ---
-It's currently my belief that <a href="http://www.youtube.com/watch?v=MkhqEQQMAiA">Ellen Page embodies everything that Rory Gilmore should have been</a> but never was.
+It's currently my belief that <a href="https://www.youtube.com/watch?v=MkhqEQQMAiA">Ellen Page embodies everything that Rory Gilmore should have been</a> but never was.

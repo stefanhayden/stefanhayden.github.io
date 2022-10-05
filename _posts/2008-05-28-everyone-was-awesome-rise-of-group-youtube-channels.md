@@ -13,9 +13,9 @@ categories:
 ---
 <img src="/wp-content/nerdfighters.jpg" alt="" />
 
-On the first of 2007 John and Hank Green decided to <a href="http://www.youtube.com/user/vlogbrothers">stop talking to each other via text and alternate days creating Youtube videos instead</a>. A Year and almost 300 videos later a community of 30,000 people formed around their discussion of Harry Potter, Awesome, <a href="http://nerdfighters.ning.com">Nerdfighters</a> (a pro-nerd moniker), and WorldSuck.
+On the first of 2007 John and Hank Green decided to <a href="https://www.youtube.com/user/vlogbrothers">stop talking to each other via text and alternate days creating Youtube videos instead</a>. A Year and almost 300 videos later a community of 30,000 people formed around their discussion of Harry Potter, Awesome, <a href="http://nerdfighters.ning.com">Nerdfighters</a> (a pro-nerd moniker), and WorldSuck.
 
-Their experiment ended at the end of 2007 but as they wrapped up the idea of sharing a channel and posting a video on alternate days was about to get a refresh. The <a href="http://www.youtube.com/user/fiveawesomegirls">Five Awesome Girls</a> channel started just before the Green brothers were done. The brain child of <a href="http://youtube.com/user/italktosnakes">Kristina Horner</a>, of <a href="http://www.myspace.com/theparselmouths">The Parselmouths</a>, along with <a href="http://youtube.com/user/devilishlypure">Lauren Fairweather</a>, of <a href="http://www.myspace.com/themoaningmyrtles">The Moaning Myrtles</a>, Five Awesome Girls brings together five girls who each were apart of the community that John and Hank Green built.
+Their experiment ended at the end of 2007 but as they wrapped up the idea of sharing a channel and posting a video on alternate days was about to get a refresh. The <a href="https://www.youtube.com/user/fiveawesomegirls">Five Awesome Girls</a> channel started just before the Green brothers were done. The brain child of <a href="http://youtube.com/user/italktosnakes">Kristina Horner</a>, of <a href="http://www.myspace.com/theparselmouths">The Parselmouths</a>, along with <a href="http://youtube.com/user/devilishlypure">Lauren Fairweather</a>, of <a href="http://www.myspace.com/themoaningmyrtles">The Moaning Myrtles</a>, Five Awesome Girls brings together five girls who each were apart of the community that John and Hank Green built.
 
 Quickly a format was established. The five girls each picked a day of the week to post a video. They didn't all know each other in real life and so the used the videos as a way to learn about each other. Each video addressed the other girls to directly to ask questions and give challenges. Other habits also came in to the format like says why the day was awesome.
 
@@ -28,21 +28,21 @@ Multiple members makes it possible to put out more content at a higher level of 
 You know you've hit it big when you have a lot of haters. Just this week the <a href="http://youtube.com/watch?v=A-T9IpsEyIs">Five Awesome girls' account was hacked and their videos deleted</a>. YouTube has just restored their account today, four days later. I think this format has a lot more success in the future.
 
 approx # of videos in ( )
-January 01, 2007 - <a href="http://www.youtube.com/user/vlogbrothers">vlog brothers (299)</a> - 27,658 Subscribers
+January 01, 2007 - <a href="https://www.youtube.com/user/vlogbrothers">vlog brothers (299)</a> - 27,658 Subscribers
 December 31, 2007 - <a href="http://youtube.com/user/fiveawesomegirls">Five Awesome Girls (110)</a> - 9,762
-January 26, 2008 - <a href="http://www.youtube.com/user/fiveawesomeguys">five awesome guys (90)</a> - 16,060 Subscribers
-February 03, 2008 - <a href="http://www.youtube.com/user/5awesomegays">5 awesome gays (64)</a> - 4,853 Subscribers
-February 09, 2008 - <a href="http://www.youtube.com/user/FiveAwesomeKiwis">Five Awesome Kiwis (74)</a> - 1,236 Subscribers
-February 14, 2008 - <a href="http://www.youtube.com/user/fiveawsometeens">five awsome teens (45)</a> - 71 Subscribers
-February 15, 2008 - <a href="http://www.youtube.com/user/5AwesomePeople">5 Awesome People (81)</a> - 51 Subscribers
-February 16, 2008 - <a href="http://www.youtube.com/user/voltronteam">voltron team (87)</a> - 59 Subscribers
-February 18, 2008 - <a href="http://www.youtube.com/user/5AwesomeRvBers">5AwesomeRvBers (71)</a> - 85 Subscribers
-February 21, 2008 -  <a href="http://www.youtube.com/user/FiveAwesomeLimeys">Five Awesome Limeys (17)</a> - 225 Subscribers
-February 25, 2008 - <a href="http://www.youtube.com/user/fiveyoungergirls">five younger girls (60)</a> - 494 Subscribers
-February 27, 2008 - <a href="http://www.youtube.com/user/fiveawesomegoats">five awesome goats (20)</a> - 1,188 Subscribers
-April 02, 2008 - <a href="http://www.youtube.com/user/5awesomeMWs">5 Awesome Midwesterners (37)</a> - 159 Subscribers
-April 14, 2008 - <a href="http://www.youtube.com/user/amazingvlogshow">amazing vlog show (33)</a> - 41 Subscribers
-April 14, 2008 - <a href="http://www.youtube.com/user/fiveawesomeclones">five awesome clones (26)</a> - 169 Subscribers
-May 09, 2008 - <a href="http://www.youtube.com/user/fiveawesomeJs">five awesome Js (16)</a> - 65 Subscribers
+January 26, 2008 - <a href="https://www.youtube.com/user/fiveawesomeguys">five awesome guys (90)</a> - 16,060 Subscribers
+February 03, 2008 - <a href="https://www.youtube.com/user/5awesomegays">5 awesome gays (64)</a> - 4,853 Subscribers
+February 09, 2008 - <a href="https://www.youtube.com/user/FiveAwesomeKiwis">Five Awesome Kiwis (74)</a> - 1,236 Subscribers
+February 14, 2008 - <a href="https://www.youtube.com/user/fiveawsometeens">five awsome teens (45)</a> - 71 Subscribers
+February 15, 2008 - <a href="https://www.youtube.com/user/5AwesomePeople">5 Awesome People (81)</a> - 51 Subscribers
+February 16, 2008 - <a href="https://www.youtube.com/user/voltronteam">voltron team (87)</a> - 59 Subscribers
+February 18, 2008 - <a href="https://www.youtube.com/user/5AwesomeRvBers">5AwesomeRvBers (71)</a> - 85 Subscribers
+February 21, 2008 -  <a href="https://www.youtube.com/user/FiveAwesomeLimeys">Five Awesome Limeys (17)</a> - 225 Subscribers
+February 25, 2008 - <a href="https://www.youtube.com/user/fiveyoungergirls">five younger girls (60)</a> - 494 Subscribers
+February 27, 2008 - <a href="https://www.youtube.com/user/fiveawesomegoats">five awesome goats (20)</a> - 1,188 Subscribers
+April 02, 2008 - <a href="https://www.youtube.com/user/5awesomeMWs">5 Awesome Midwesterners (37)</a> - 159 Subscribers
+April 14, 2008 - <a href="https://www.youtube.com/user/amazingvlogshow">amazing vlog show (33)</a> - 41 Subscribers
+April 14, 2008 - <a href="https://www.youtube.com/user/fiveawesomeclones">five awesome clones (26)</a> - 169 Subscribers
+May 09, 2008 - <a href="https://www.youtube.com/user/fiveawesomeJs">five awesome Js (16)</a> - 65 Subscribers
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/kb2RaDBOrSY&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kb2RaDBOrSY&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

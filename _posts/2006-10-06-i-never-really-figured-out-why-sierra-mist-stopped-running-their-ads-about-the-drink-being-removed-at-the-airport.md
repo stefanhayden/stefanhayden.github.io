@@ -11,5 +11,5 @@ Post:
 categories:
   - video
 ---
-<p>I never really figured out why <a href="http://www.youtube.com/watch?v=U3BMDPKtnNQ">Sierra Mist stopped running their ads about the drink being removed at the airport (Video)</a>. After no liquids were aloud on planes it just seemed even funnier then before.
+<p>I never really figured out why <a href="https://www.youtube.com/watch?v=U3BMDPKtnNQ">Sierra Mist stopped running their ads about the drink being removed at the airport (Video)</a>. After no liquids were aloud on planes it just seemed even funnier then before.
 </p>

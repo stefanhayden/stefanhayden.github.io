@@ -16,6 +16,6 @@ categories:
 <p>PvP has maintained high quality for years and I know Scott will bring that through to the new animated series. I've been saying <a href="http://www.imdb.com/name/nm0923736/">Joss Whedon</a> should do this for years. I'd give Joss $50 or $60 to produce any TV show he likes and <a href="http://www.yalit.com">Keri</a> would do the same for <a href="http://www.imdb.com/name/nm0031976/">Judd Apatow</a>. I truly hope PvP issues in a new era in entertainment production.</p>
 <!--more-->
 <p><object width="425" height="350"><br />
-<param name="movie" value="http://www.youtube.com/v/YceMsNXYmaw"></param>
-<param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/YceMsNXYmaw" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<param name="movie" value="https://www.youtube.com/v/YceMsNXYmaw"></param>
+<param name="wmode" value="transparent"></param><embed src="https://www.youtube.com/v/YceMsNXYmaw" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 </p>

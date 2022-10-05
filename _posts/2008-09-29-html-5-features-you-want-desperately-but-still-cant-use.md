@@ -9,6 +9,6 @@ permalink: /blog/2008/09/29/html-5-features-you-want-desperately-but-still-cant-
 categories:
   - Uncategorized
 ---
-<a href="http://www.youtube.com/watch?v=xIxDJof7xxQ">Great roundup of HTML 5 features</a> that are just around the corner. Many work in IE7 (or 8 can't tell) as well.
+<a href="https://www.youtube.com/watch?v=xIxDJof7xxQ">Great roundup of HTML 5 features</a> that are just around the corner. Many work in IE7 (or 8 can't tell) as well.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/xIxDJof7xxQ&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIxDJof7xxQ&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

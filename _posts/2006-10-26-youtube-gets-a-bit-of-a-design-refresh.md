@@ -12,5 +12,5 @@ categories:
   - design
   - web
 ---
-<p><a href="http://www.youtube.com/browse?s=mp">YouTube</a> gets a bit of a <a href="http://www.youtube.com/members">design refresh</a>. <b>Update:</b> <a href="http://mashable.com/2006/10/26/youtube-gets-new-logo-facelift-and-trackbacks-growing-fast/">Mashable has a bit more</a> on the design update.
+<p><a href="https://www.youtube.com/browse?s=mp">YouTube</a> gets a bit of a <a href="https://www.youtube.com/members">design refresh</a>. <b>Update:</b> <a href="http://mashable.com/2006/10/26/youtube-gets-new-logo-facelift-and-trackbacks-growing-fast/">Mashable has a bit more</a> on the design update.
 </p>

@@ -11,5 +11,5 @@ Post:
 categories:
   - video
 ---
-<p>I'm my opinion the Colbert Report is encouraging some of the <a href="http://www.youtube.com/watch?v=m9yWLlaOHBw&mode=related&search=">best audience participation in the history of television (Video)</a>.
+<p>I'm my opinion the Colbert Report is encouraging some of the <a href="https://www.youtube.com/watch?v=m9yWLlaOHBw&mode=related&search=">best audience participation in the history of television (Video)</a>.
 </p>

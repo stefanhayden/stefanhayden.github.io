@@ -11,4 +11,4 @@ categories:
   - web
 ---
 <a href="http://www.wearewizards-themovie.com">We Are Wizards</a>. A movie about the wizard rock scene.
-<iframe width="560" height="315" src="http://www.youtube.com/embed/amKNveOdWQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/amKNveOdWQ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

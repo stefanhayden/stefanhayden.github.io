@@ -11,4 +11,4 @@ Post:
 categories:
   - web
 ---
-<a href="http://www.youtube.com/watch?v=PMSvoSrMkeY">What The Buck is wrong about the Sex and the City movie (he liked it)</a>. It was bad. poorly ploted, uneven and with a sticky sweet happy ending. Blerg!
+<a href="https://www.youtube.com/watch?v=PMSvoSrMkeY">What The Buck is wrong about the Sex and the City movie (he liked it)</a>. It was bad. poorly ploted, uneven and with a sticky sweet happy ending. Blerg!

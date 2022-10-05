@@ -10,4 +10,4 @@ categories:
   - video
 ---
 I'll watch pretty much any video the office writers put out. (via <a href="http://deadlinehollywooddaily.com/">DHD</a>)
-<iframe width="560" height="315" src="http://www.youtube.com/embed/b6hqP0c0_gw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b6hqP0c0_gw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

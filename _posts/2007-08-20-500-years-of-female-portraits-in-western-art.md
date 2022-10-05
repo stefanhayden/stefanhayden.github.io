@@ -10,4 +10,4 @@ categories:
   - video
 ---
 <a href="http://www.maysstuff.com/womenid.htm">a complete list of artists and paintings here.</a> (via <a href="http://blog.longnow.org/">Long Views</a>)
-<iframe width="560" height="315" src="http://www.youtube.com/embed/nUDIoN-_Hxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nUDIoN-_Hxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

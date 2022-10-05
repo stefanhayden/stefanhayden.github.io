@@ -14,7 +14,7 @@ With the internet more and more people are getting their 15 minutes of fame and 
 
 The Five Awesome Guys channel has been hugely successful surpassing The Five Awesome Girls by double with 20,000 subscribers. But on youtube even obscurity can bring horribly mean comments from perfect strangers.
 
-The Five Awesome Guys have stopped making videos which is fine but in addition they have begun a <a href="http://www.youtube.com/watch?v=Yx2GAyMKhp4">series</a> of <a href="http://www.youtube.com/watch?v=KSgY0cHCKKc">videos</a> where they talk about how much they hate their fans.
+The Five Awesome Guys have stopped making videos which is fine but in addition they have begun a <a href="https://www.youtube.com/watch?v=Yx2GAyMKhp4">series</a> of <a href="https://www.youtube.com/watch?v=KSgY0cHCKKc">videos</a> where they talk about how much they hate their fans.
 
 They will argue that they are only talking about a small part of their fan base but they are making a grave mistake by generalizing. 
 
@@ -22,4 +22,4 @@ It's sad when people are mean to you and I'm sure the five awesome guys are gett
 
 Talking bad about your fans is never good. Stop being emo guys. If youtube hasn't taught you to ignore bad comments then I don't know what will. 
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/KSgY0cHCKKc&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KSgY0cHCKKc&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

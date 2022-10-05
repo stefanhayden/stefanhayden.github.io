@@ -14,4 +14,4 @@ If youre insterested in the news but are too lazy to read anything other then li
 
 This <a href="http://youtube.com/?v=yaZtIu34fgU">Best Of... 2008 Presidential Primaries</a> is pretty amazing as well.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/yaZtIu34fgU&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yaZtIu34fgU&color1=0xb1b1b1&color2=0xcfcfcf&feature=player_embedded&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

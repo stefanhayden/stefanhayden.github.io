@@ -12,4 +12,4 @@ categories:
   - review
   - video
 ---
-<a href="http://www.youtube.com/watch?v=UcK3b9qlBfk">Thomas Friedman is a really cheesy speaker.</a> I have not read the world is flat and I thought every one had good things to say but if it's this cheese and built around these fake dates then I don't want to read it.
+<a href="https://www.youtube.com/watch?v=UcK3b9qlBfk">Thomas Friedman is a really cheesy speaker.</a> I have not read the world is flat and I thought every one had good things to say but if it's this cheese and built around these fake dates then I don't want to read it.

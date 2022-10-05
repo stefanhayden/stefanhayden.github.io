@@ -9,6 +9,6 @@ permalink: /blog/2008/09/29/obama-phonebanking/
 categories:
   - politics
 ---
-I've been hesitant about <a href="http://www.youtube.com/watch?v=-F1hYHnFnUk">calling people for Obama</a>. Currently my dislike of calling people is out weighing my want of Obama to be president. How sad is that? Any way here is a good 101 video of how to phonebank for Obama. I still need more encouragement but it's a start.
+I've been hesitant about <a href="https://www.youtube.com/watch?v=-F1hYHnFnUk">calling people for Obama</a>. Currently my dislike of calling people is out weighing my want of Obama to be president. How sad is that? Any way here is a good 101 video of how to phonebank for Obama. I still need more encouragement but it's a start.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/-F1hYHnFnUk&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-F1hYHnFnUk&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

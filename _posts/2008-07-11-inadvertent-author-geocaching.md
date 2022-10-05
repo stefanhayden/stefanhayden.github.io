@@ -12,4 +12,4 @@ categories:
 ---
 A new game has appeared on youtube unbenounced to the people playing it. Author Geocaching consists of an author signing a book in a book store (preferably their own; <a href="http://youtube.com/watch?v=Lz-sF57otRk">jump to the 3 min mark</a>) and then <a href="http://youtube.com/watch?v=VZjk28k0n0o">a fan rushing to the store to find it</a>. I hope more authors expand this idea. Perhaps reshelving the book in a fun place.
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/VZjk28k0n0o&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZjk28k0n0o&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

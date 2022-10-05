@@ -11,5 +11,5 @@ Post:
 categories:
   - video
 ---
-<p>Talk about <a href="http://www.youtube.com/watch?v=AD3ndhIcbuo">Girl Talk and DJ Drama in congress (video)</a>? My heart is all a flutter.
+<p>Talk about <a href="https://www.youtube.com/watch?v=AD3ndhIcbuo">Girl Talk and DJ Drama in congress (video)</a>? My heart is all a flutter.
 </p>

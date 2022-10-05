@@ -17,9 +17,9 @@ I can't say I'm a fan. Like and Dislikes used to not be public let alone show in
 
 Youtube originally did 5 stars but most people just voted 1 or 5 stars. So we got thumbs up or down. Now with Plus we loose anyway of providing negative feedback.
 
-There are many reasons to no have negative feed back. All of them have to do with one group of users mas down voting content either for their own advantage or to discourage other groups of visitors. Youtube does not have this issue. There is no way to mass effect video ranking on youtube by disliking a video outside of botting. Wich to be fair <a href="http://www.youtube.com/watch?v=Sr-rxcO7O_E">@thewillofdc</a> points out that Google has been lax in fighting botting as of late.
+There are many reasons to no have negative feed back. All of them have to do with one group of users mas down voting content either for their own advantage or to discourage other groups of visitors. Youtube does not have this issue. There is no way to mass effect video ranking on youtube by disliking a video outside of botting. Wich to be fair <a href="https://www.youtube.com/watch?v=Sr-rxcO7O_E">@thewillofdc</a> points out that Google has been lax in fighting botting as of late.
 
-Some will say that letting people do a negative action on a site is never good and I would strongly disagree with them. Currently the down vote remains one of the more civil way on youtube to voice that you did not like a video. A great example of a valid use case is the <a href="http://www.youtube.com/watch?v=0PAJNntoRgA">Rick Perry Strong video</a> which has a near 99% dislikes and for good reasons.
+Some will say that letting people do a negative action on a site is never good and I would strongly disagree with them. Currently the down vote remains one of the more civil way on youtube to voice that you did not like a video. A great example of a valid use case is the <a href="https://www.youtube.com/watch?v=0PAJNntoRgA">Rick Perry Strong video</a> which has a near 99% dislikes and for good reasons.
 
 Negative comments remain much more damaging then down votes. Youtube is known, for good reason, as some of the most vile comments on the web. I can only imagine that letting people voice their dislike with a simple action stop even more horrible comments.
 
