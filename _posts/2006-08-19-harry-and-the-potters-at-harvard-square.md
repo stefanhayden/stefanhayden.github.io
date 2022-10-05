@@ -24,6 +24,6 @@ categories:
 <td align="right"><a href="http://www.flickr.com/photos/sthayden/219462122/"><img alt="Harry and the Potters" src="http://static.flickr.com/70/219462122_b1164fcf9e_s.jpg"  border=0 /></a></td>
 </tr>
 <tr><td colspan=5 align="center">
-<iframe width="560" height="315" src="http://www.youtube.com/v/h-ogfOc5KmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/h-ogfOc5KmE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </td></tr>
 </table>

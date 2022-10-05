@@ -9,6 +9,6 @@ permalink: /blog/2007/08/22/content-aware-image-resizing/
 categories:
   - video
 ---
-<iframe width="560" height="315" src="http://www.youtube.com/v/qadw0BRKeMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/qadw0BRKeMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 They show a browser window at first but I have a hard time believing this kind of technology will really be integrated in to any document viewer. This would be a great photoshop filter though.

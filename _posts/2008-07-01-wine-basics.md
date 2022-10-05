@@ -11,4 +11,4 @@ categories:
 ---
 This is all you need to know.
 
-<iframe width="560" height="315" src="http://www.youtube.com/v/ma9pscLjO70&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/ma9pscLjO70&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

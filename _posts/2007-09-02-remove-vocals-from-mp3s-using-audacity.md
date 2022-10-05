@@ -10,4 +10,4 @@ categories:
   - video
 ---
 I have to say I really thought this would be harder. I wish it was that easy to import a song in to GuitarHero. I guess this is how a lot of sampling and mixing is done, something I occasionally think I want to learn how to do.
-<iframe width="560" height="315" src="http://www.youtube.com/v/PqXiKYG3J7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PqXiKYG3J7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

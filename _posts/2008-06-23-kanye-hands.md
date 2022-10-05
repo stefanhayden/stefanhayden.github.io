@@ -13,4 +13,4 @@ categories:
 ---
 I love <a href="http://www.youtube.com/watch?v=K2cYWfq--Nw">Daft Hands</a> so how did I miss <a href="http://www.youtube.com/watch?v=VpBDqtUEWcM">Kanye Hands</a>? I'm even subscribed to <a href="http://www.youtube.com/user/BaratsAndBereta">Barats And Bereta</a>!
 
-<iframe width="560" height="315" src="http://www.youtube.com/v/VpBDqtUEWcM&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/VpBDqtUEWcM&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

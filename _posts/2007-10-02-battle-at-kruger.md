@@ -10,4 +10,4 @@ categories:
   - video
 ---
 this is the most wild animal fight ever.
-<iframe width="560" height="315" src="http://www.youtube.com/v/LU8DDYz68kM&rel=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/LU8DDYz68kM&rel=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

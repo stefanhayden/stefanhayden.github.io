@@ -9,4 +9,4 @@ permalink: /blog/2008/03/06/crazy-in-love-the-puppini-sisters/
 categories:
   - video
 ---
-<iframe width="560" height="315" src="http://www.youtube.com/v/PUx_Wjx_2ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/PUx_Wjx_2ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

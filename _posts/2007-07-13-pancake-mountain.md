@@ -11,4 +11,4 @@ categories:
 ---
 I've never heard of this show but it looks insanely awesome. <blockquote>Pancake Mountain is a children's television show based in Washington D.C. Created by filmmaker Scott Stuckey, it is notable for featuring many indie rock bands</blockquote>
 
-<iframe width="560" height="315" src="http://www.youtube.com/v/8AWvtwZ0nY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/8AWvtwZ0nY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

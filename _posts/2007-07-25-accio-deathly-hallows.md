@@ -11,4 +11,4 @@ categories:
 ---
 "I couldn't care more about Harry Potter If Hogwarts was my Alma Mater"
 
-<iframe width="560" height="315" src="http://www.youtube.com/v/CvvFiZyEyTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/CvvFiZyEyTA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

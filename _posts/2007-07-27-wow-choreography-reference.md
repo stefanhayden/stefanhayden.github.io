@@ -10,6 +10,6 @@ categories:
   - video
 ---
 <p>This is a really great video showing the reference material Blizzard used for the WoW dance moves. With choreography having the ability to be copyrighted I'm surprised that they have not been sued. (via <a href="http://www.wonderlandblog.com/wonderland/">Wonderland</a>)</p>
-<p><iframe width="560" height="315" src="http://www.youtube.com/v/066_q4DIeqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/066_q4DIeqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/066_q4DIeqk" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
 </p>

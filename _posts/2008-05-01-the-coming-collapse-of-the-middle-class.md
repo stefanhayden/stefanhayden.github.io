@@ -13,4 +13,4 @@ categories:
 ---
 I have not read the book but this is the single best speech I've seen in I don't know how long. We are definitely not better off then our parents and grandparents.
 
-<iframe width="560" height="315" src="http://www.youtube.com/v/akVL7QY0S8A&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/akVL7QY0S8A&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

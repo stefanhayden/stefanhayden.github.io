@@ -9,7 +9,7 @@ permalink: /blog/2008/03/26/sunlight-is-the-best-disinfectant/
 categories:
   - web
 ---
-<iframe width="560" height="315" src="http://www.youtube.com/v/xg2MukcqbdE&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/xg2MukcqbdE&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a href="http://tv.winelibrary.com/">Gary V</a> is right about how technology is making it harder to be two faced in any way. These days if you're famous for being two faced <a href="http://fakesteve.blogspot.com/">people will start their own blog for you</a>.
 
