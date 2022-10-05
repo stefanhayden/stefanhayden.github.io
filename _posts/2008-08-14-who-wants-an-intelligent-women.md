@@ -15,6 +15,6 @@ categories:
 ---
 I like Olbermann when he is not being a complete troll.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/V2S4slRydDM&color1=11645361&color2=13619151&hl=en&fs=1"></param><param name="wmode" value="transparent"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/V2S4slRydDM&color1=11645361&color2=13619151&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" wmode="transparent" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/V2S4slRydDM&color1=11645361&color2=13619151&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 via <a href="http://feeds.feedburner.com/~r/Feministing/~3/364840246/010379.html">Feministing</a>

@@ -11,4 +11,4 @@ categories:
 ---
 People often complain Barack does not talk about specifics. Talk about an info rich speech.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/lGXcT_ktg8c&hl=en"></param><embed src="http://www.youtube.com/v/lGXcT_ktg8c&hl=en" type="application/x-shockwave-flash" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/lGXcT_ktg8c&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -20,4 +20,4 @@ categories:
 We're From Barcelona from the band I'm From Barcelona is just such a fun song I can't help from listening to it several times. They really do encompass a weird Indy <a href="http://en.wikipedia.org/wiki/Kitsch">Kitsch</a> that come across really strongly in the music video below. I think only an Indy band can truly own these kind of postmodern jokes that would fall on deaf ears in the main stream.</p>
 <p><!--more--></p>
 
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/Fb21_w4uU1A"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Fb21_w4uU1A" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/Fb21_w4uU1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

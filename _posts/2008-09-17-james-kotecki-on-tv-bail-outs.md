@@ -12,4 +12,4 @@ categories:
 ---
 <a href="http://www.youtube.com/watch?v=4qD4ngZMR1M">James Kotecki suggests we use government funds to bail out canceled TV shows</a> like Freaks and Geeks and Arrested Development. I couldn't agree more.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/4qD4ngZMR1M&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/4qD4ngZMR1M&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/4qD4ngZMR1M&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

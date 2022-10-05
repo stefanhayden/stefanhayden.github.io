@@ -11,4 +11,4 @@ categories:
 ---
 I only heard about the "whites only tree". Clearly there is much more to this story then was reported. This seems like this is one racist town. (via <a href="http://feministing.com/">Feministing</a>)
 
-<object width="425" height="353"><param name="movie" value="http://www.youtube.com/v/YuoiZnr4jLY"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/YuoiZnr4jLY" type="application/x-shockwave-flash" wmode="transparent" width="425" height="353"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/YuoiZnr4jLY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

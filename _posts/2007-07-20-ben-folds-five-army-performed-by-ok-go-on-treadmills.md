@@ -10,4 +10,4 @@ categories:
   - video
 ---
 (via <a href="http://obeastiality.com/">Obeastiality</a>)
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/Klvk8q_ckxE"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/Klvk8q_ckxE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/Klvk8q_ckxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

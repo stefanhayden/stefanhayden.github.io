@@ -11,4 +11,4 @@ categories:
   - web
 ---
 Ellen Page, Michael Cera, Jennifer Garner, Jason Bateman, J.K. Simmons, Allison Janney, Olivia Thirlby, Rainn Wilson
-<object width="425" height="353"><param name="movie" value="http://www.youtube.com/v/i4vKs4pGsnM"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/i4vKs4pGsnM" type="application/x-shockwave-flash" wmode="transparent" width="425" height="353"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/i4vKs4pGsnM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

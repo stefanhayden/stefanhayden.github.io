@@ -12,4 +12,4 @@ categories:
 ---
 I love Diablo and FNL. Man I need to write about TV more.
 
-<object width="440" height="300"><param name="movie" value="http://www.youtube.com/v/aMEy8wZOGDM?fs=1&amp;hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/aMEy8wZOGDM?fs=1&amp;hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="440" height="300"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/aMEy8wZOGDM?fs=1&amp;hl=en_US" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

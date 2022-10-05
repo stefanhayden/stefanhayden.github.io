@@ -11,4 +11,4 @@ categories:
   - video
 ---
 <p>I wish I knew about gluing the pages together before I tried to put <a href="http://www.yalit.com/blog">Keri's</a> engagement ring in the Harry Potter Book.</p>
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/l8W58xK5zFg&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/l8W58xK5zFg&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/l8W58xK5zFg&rel=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

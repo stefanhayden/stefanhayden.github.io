@@ -12,7 +12,7 @@ categories:
 ---
 It's a little hypnotizing to hear <a href="http://www.youtube.com/user/HardProblems">these kids</a> talk about how they tried to solve these math equations. <a href="http://hardproblemsmovie.com/">This is a documentary that I would definitely like to see</a>.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/3tpDqliD6Ss&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/3tpDqliD6Ss&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/3tpDqliD6Ss&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/lOVK-R7H6xc&hl=en&fs=1"></param><param name="allowFullScreen" value="true"></param><embed src="http://www.youtube.com/v/lOVK-R7H6xc&hl=en&fs=1" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/lOVK-R7H6xc&hl=en&fs=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

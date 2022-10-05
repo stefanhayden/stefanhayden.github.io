@@ -14,4 +14,4 @@ categories:
 ---
 If Ender's game was about helicopters <a href="http://www.youtube.com/watch?v=q6F-0rIpLJE">this is how Ender would fly his</a>.
 
-<object width="425" height="344"><param name="movie" value="http://www.youtube.com/v/q6F-0rIpLJE&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/q6F-0rIpLJE&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="344"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/q6F-0rIpLJE&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

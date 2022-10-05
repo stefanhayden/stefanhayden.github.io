@@ -10,4 +10,4 @@ categories:
   - video
 ---
 You never see videos about boys leaning how to crochet. Anyway this camp looks pretty awesome.
-<object width="425" height="350"><param name="movie" value="http://www.youtube.com/v/GtuW4bFoqhE"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/GtuW4bFoqhE" type="application/x-shockwave-flash" wmode="transparent" width="425" height="350"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/GtuW4bFoqhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

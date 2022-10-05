@@ -11,4 +11,4 @@ categories:
 ---
 <a href="http://www.youtube.com/watch?v=VSUX9byu6NY">This is actually a pretty good cover</a> of Video Killed the Radio Star by <a href="http://myspace.com/thewrongtrousers">The Wrong Trousers</a>. (via <a href="http://www.waxy.org/links/">waxy</a>)
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/VSUX9byu6NY&rel=1"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/VSUX9byu6NY&rel=1" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/VSUX9byu6NY&rel=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

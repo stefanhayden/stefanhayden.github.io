@@ -14,4 +14,4 @@ I love youtube more and more everyday. <a href="http://youtube.com/profile?user=
 
 Her editing style is also great layering video to get multiple tracks and harmony.
 
-<object width="425" height="355"><param name="movie" value="http://www.youtube.com/v/K6NHPrYcJpo&hl=en"></param><param name="wmode" value="transparent"></param><embed src="http://www.youtube.com/v/K6NHPrYcJpo&hl=en" type="application/x-shockwave-flash" wmode="transparent" width="425" height="355"></embed></object>
+<iframe width="560" height="315" src="http://www.youtube.com/v/K6NHPrYcJpo&hl=en" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
