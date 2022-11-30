@@ -16,7 +16,8 @@ var isoDate = (new Date()).toISOString();
 var date = isoDate.split('T')[0];
 var d = date.split('-');
 var dataPermaLink = d.join('/');
-var title= prompt("title", "").replaceAll(/([&$\+,:;'"=\?@#\s<>\[\]\{\}[\/]|\\\^%])+/g, '-');
+var t = prompt("title", "");
+var title = t.replaceAll(/([&$\+,:;'"=\?@#\s<>\[\]\{\}[\/]|\\\^%])+/g, '-');
 
 var filename = date + "-" + title + '.md';
 
@@ -24,7 +25,7 @@ var html = [
 '---',
 'date: '+ isoDate,
 'author: Stefan Hayden',
-'title: ' + title,
+'title: ' + t,
 'layout: post',
 'permalink: /blog/'+ dataPermaLink  +'/'+ title +'/',
 'categories:',
