@@ -24,6 +24,7 @@ var html = [
 '---',
 'date: '+ isoDate,
 'author: Stefan Hayden',
+'title: ' + title,
 'layout: post',
 'permalink: /blog/'+ dataPermaLink  +'/'+ title +'/',
 'categories:',
