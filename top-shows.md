@@ -10,13 +10,11 @@ guid: http://www.stefanhayden.com/blog/top-10/
 Shows that has a perfect run, never hitting a bad note.
 <ol>
 	<li>The Wire</li>
+	<li>Steven Universe</li>
 	<li>Six Feet Under</li>
 	<li>Arrested Development</li>
 	<li>Freaks and Geeks</li>
 	<li>Firefly</li>
-	<li>The Office (USA - Pending Completion)</li>
-	<li>Sex and the City</li>
-	<li>Entourage (Pending Completion)</li>
 	<li>Sports Night</li>
 </ol>
 <h2>Great TV Shows</h2>
@@ -25,6 +23,8 @@ Show that had a noticeable drop in quality during their run.
 	<li>The West Wing</li>
 	<li>Gilmore Girls</li>
 	<li>Veronica Mars</li>
+	<li>Sex and the City</li>
+	<li>The Office</li>
 	<li>Jone of Arcadia</li>
 	<li>Undeclared</li>
 	<li>Seinfeld</li>
