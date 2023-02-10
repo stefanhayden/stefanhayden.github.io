@@ -12,6 +12,8 @@ Stefan Hayden (<a href="http://www.stefanhayden.com/blog/?page_id=12">contact</a
 
 <a href="/top-shows">My top TV shows</a> and my <a href="https://www.tvtime.com/en/user/7770728/profile">TVTime</a>
 
+<a href="/links">links</a>
+
 &nbsp;
 <div style="clear: both;"></div>
 <h1>A reverse chronology of my life</h1>
