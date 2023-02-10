@@ -6,14 +6,12 @@ title: Links
 layout: page
 ---
 
-
-
 ## Mastodon
 
 ### Mastodon Stat Tracking
-- https://fedidb.org/
-- https://fediverse.observer/stats
+- [fedidb.org](https://fedidb.org/)
+- [fediverse.observer](https://fediverse.observer/stats)
 
 ### Mastodon Stat Bots
-- https://bitcoinhackers.org/@mastodonusercount/109840801177158271
-- https://botsin.space/@mastodon_daily_active_users
+- [@mastodonusercount](https://bitcoinhackers.org/@mastodonusercount/109840801177158271)
+- [@mastodon_daily_active_users](https://botsin.space/@mastodon_daily_active_users)
