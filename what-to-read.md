@@ -27,4 +27,4 @@ guid: http://www.stefanhayden.com/blog/what-to-read/
 <li><a href="http://www.amazon.com/o/ASIN/0805080481/stefanhayden-20">The Book of Three (The Chronicles of Prydain)</a></li>
 <li><a href="http://www.amazon.com/o/ASIN/0575074760/stefanhayden-20">The Dancers at the End of Time</a></li>
 <li><a href="http://www.amazon.com/o/ASIN/0452284694/stefanhayden-20">The Gunslinger (The Dark Tower, Book 1)</a></li>
-</ol>
+</ol>.
