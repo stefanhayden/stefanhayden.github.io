@@ -7,6 +7,8 @@ layout: page
 ---
 
 ## Mastodon
+- [mastodon list manager](https://www.mastodonlistmanager.org)
+
 
 ### Mastodon Stat Tracking
 - [fedidb.org](https://fedidb.org/)
