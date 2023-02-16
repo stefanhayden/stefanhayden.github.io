@@ -8,6 +8,7 @@ layout: page
 
 ## Mastodon
 - [mastodon list manager](https://www.mastodonlistmanager.org)
+- [feedseer](https://news.feedseer.com/) - Aggregates links on your feed
 
 
 ### Mastodon Stat Tracking
