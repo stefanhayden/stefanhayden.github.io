@@ -7,11 +7,16 @@ layout: page
 ---
 
 ## Mastodon
-- [block lists](https://writer.oliphant.social/oliphant/the-oliphant-social-blocklist)
+- [jointhefediverse](https://jointhefediverse.net/) - onboarding tool
 - [mastodon list manager](https://www.mastodonlistmanager.org)
 - [feedseer](https://news.feedseer.com/) - Aggregates links on your feed
 - [Toot Finder](https://tootfinder.ch) - search toots
 
+### Mastodon Admin Tools
+- [block lists](https://writer.oliphant.social/oliphant/the-oliphant-social-blocklist)
+- [mastodon_admin element.io chat room](https://app.element.io/#/room/#mastodon_admin:matrix.org)
+- [mastodon_moderation element.io chat room](https://app.element.io/#/room/#mastodon_moderation:matrix.org)
+- 
 
 ### Mastodon Stat Tracking
 - [fedidb.org](https://fedidb.org/)
