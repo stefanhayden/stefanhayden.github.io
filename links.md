@@ -7,6 +7,7 @@ layout: page
 ---
 
 ## Mastodon
+- [block lists](https://writer.oliphant.social/oliphant/the-oliphant-social-blocklist)
 - [mastodon list manager](https://www.mastodonlistmanager.org)
 - [feedseer](https://news.feedseer.com/) - Aggregates links on your feed
 - [Toot Finder](https://tootfinder.ch) - search toots
