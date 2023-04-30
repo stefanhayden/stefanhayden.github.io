@@ -16,7 +16,7 @@ layout: page
 - [block lists](https://writer.oliphant.social/oliphant/the-oliphant-social-blocklist)
 - [mastodon_admin element.io chat room](https://app.element.io/#/room/#mastodon_admin:matrix.org)
 - [mastodon_moderation element.io chat room](https://app.element.io/#/room/#mastodon_moderation:matrix.org)
-- 
+
 
 ### Mastodon Stat Tracking
 - [fedidb.org](https://fedidb.org/)
