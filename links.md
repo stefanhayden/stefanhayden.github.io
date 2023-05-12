@@ -11,6 +11,10 @@ layout: page
 - [mastodon list manager](https://www.mastodonlistmanager.org)
 - [feedseer](https://news.feedseer.com/) - Aggregates links on your feed
 - [Toot Finder](https://tootfinder.ch) - search toots
+- [Mini relays](https://relay.fedi.buzz/) - get a relay for just a single tag or instance.
+
+## Mastodon Games
+- [moderator mayhem](https://moderatormayhem.engine.is/) - game of conmtent monderation 
 
 ### Mastodon Admin Tools
 - [block lists](https://writer.oliphant.social/oliphant/the-oliphant-social-blocklist)
