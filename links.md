@@ -12,6 +12,7 @@ layout: page
 - [feedseer](https://news.feedseer.com/) - Aggregates links on your feed
 - [Toot Finder](https://tootfinder.ch) - search toots
 - [Mini relays](https://relay.fedi.buzz/) - get a relay for just a single tag or instance.
+- [Mastopoet](https://mastopoet.ohjelmoi.fi/) - download a beautiful png img of a post.
 
 ## Mastodon Games
 - [moderator mayhem](https://moderatormayhem.engine.is/) - game of conmtent monderation 
