@@ -15,7 +15,8 @@ layout: page
 - [Mastopoet](https://mastopoet.ohjelmoi.fi/) - download a beautiful png img of a post.
 
 ## Mastodon Games
-- [moderator mayhem](https://moderatormayhem.engine.is/) - game of conmtent monderation 
+- [moderator mayhem](https://moderatormayhem.engine.is/) - game of conmtent monderation
+- [Trust & Safety Tycoon](https://trustandsafety.fun/) - another game of conmtent monderation
 
 ### Mastodon Admin Tools
 - [block lists](https://writer.oliphant.social/oliphant/the-oliphant-social-blocklist)
