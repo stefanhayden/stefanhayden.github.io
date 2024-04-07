@@ -67,7 +67,7 @@ You can play with this below. The red components on the left only use one provid
 broken in two providers and calling `show()` or `hide()` only renders the componets that need to know the `activeModal`.
 It doesn't even trigger a render on the component with the button!
 {% raw %}
-<iframe src="/react/React-Provider-Opimization-Example/" height="930" width="100%" allowfullscreen="" frameborder="0"></iframe>
+<iframe src="/react/React-Provider-Opimization-Example/" height="930" width="100%" frameborder="0"></iframe>
 {% endraw %}
 [Play with this code on codesandbox.io](https://codesandbox.io/p/github/stefanhayden/React-Provider-Opimization-Example/main)
 
