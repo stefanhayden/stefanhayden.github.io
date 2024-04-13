@@ -8,7 +8,7 @@ categories:
   - web
 ---
 
-I kept finding songs on Tidal I had added to my tracks list but were marked as "not avalible for streaming" but if you went to the artist page the song stil existsed. 
+I kept finding songs on Tidal I had added to my tracks list but were marked as "not available for streaming" but if you went to the artist page the song stil existsed. 
 
 For some reason Tidal's backend seems to generate a lot of new track IDs when they update or need to make some change to a track. Really frusterating.
 
