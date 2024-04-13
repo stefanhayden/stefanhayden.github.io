@@ -1,9 +1,9 @@
 ---
 date: 2024-04-13T20:38:13.355Z
 author: Stefan Hayden
-title: Tidal track not avalible for streaming
+title: Tidal track not available for streaming
 layout: post
-permalink: /blog/2024/04/13/Tidal-track-not-avalible-for-streaming/
+permalink: /blog/2024/04/13/Tidal-track-not-available-for-streaming/
 categories:
   - web
 ---
