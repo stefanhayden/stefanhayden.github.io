@@ -21,7 +21,7 @@ My server, [GardenState.social](https://gardenstate.social), is hosted on [cloud
 
 ## The Speed Test
 
-To do my own test I wrote a script ([code on github](https://github.com/stefanhayden/mastodon-federation-speed-test)) to get all my followers, get all their servers, make a post and then check each server untill that post appears. Because mastodon redirects you back to your sewrver when vewing your own profile I instead generated a unique hashtag and then check to see if the page for that hashtag 4045s or 200s.
+To do my own test I wrote a script ([code on github](https://github.com/stefanhayden/mastodon-federation-speed-test)) to get all my followers, get all their servers, make a post and then check each server until that post appears. Because mastodon redirects you back to your server when viewing your own profile I instead generated a unique hashtag and then check to see if the page for that hashtag 404s or 200s.
 
 I ran this code at 7:30 on May 10th. There is no way to know the queue status of other servers but my own servers had empty queues.
 
@@ -52,7 +52,7 @@ Notible servers (in seconds):
 
 [see the full results dataset here!](https://github.com/stefanhayden/mastodon-federation-speed-test/blob/main/results.txt)
 
-I could image this being turned in to a bot and report some kind of federation health check. Though this does spam the servers with web requests a bit so it seems like something we can just run occationally to get a feel for the state of the fediverse.
+I could imagine this being turned into a bot and report some kind of federation health check. Though this does spam the servers with web requests a bit so it seems like something we can just run occasionally to get a feel for the state of the fediverse.
 
-Over all federation seem to be pretty speedy!
+Overall, federation seems to be pretty speedy!
 
