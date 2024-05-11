@@ -27,7 +27,7 @@ I ran this code at 7:30 on May 10th. There is no way to know the queue status of
 
 ## Results
 
-My post made it to 251 over 240 seconds (4 minutes). The average time for my post to appear on another server was 8.6 seconds.
+My post made it to 251 servers over 240 seconds (4 minutes). The average time for my post to appear on another server was 8.6 seconds.
 
 The top 5 fastest servers (in seconds):
 - 0.959 - lostcreek.social
