@@ -52,5 +52,7 @@ Notible servers (in seconds):
 
 [see the full results dataset here!](https://github.com/stefanhayden/mastodon-federation-speed-test/blob/main/results.txt)
 
+I could image this being turned in to a bot and report some kind of federation health check. Though this does spam the servers with web requests a bit so it seems like something we can just run occationally to get a feel for the state of the fediverse.
+
 Over all federation seem to be pretty speedy!
 
