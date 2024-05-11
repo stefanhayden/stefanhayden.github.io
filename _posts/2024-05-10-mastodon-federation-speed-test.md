@@ -13,9 +13,9 @@ categories:
 
 [Recently Stefan Bohacek ran a poll to find out how long a post takes to appear to his followers.](https://stefanbohacek.com/blog/data-on-sending-a-post-into-the-fediverse/) A great question!
 
-There is no one speed a post is curculated. When a post it made it enters a queue on sidekiq (below) to be sent out to other servers. Those servers recive that message and it goes in a queue to be processed. At peak times these queues can grow thousands of enteries depending on how it is pervisioned.
+There is no one speed a post is circulated. When a post is made it enters a queue on sidekiq (below) to be sent out to other servers. Those servers receive that message and it goes in a queue to be processed. At peak times these queues can grow thousands of entries depending on how it is provisioned.
 
-My server, [GardenState.social](https://gardenstate.social), is hosted on [cloudplane at the meduim level](https://cloudplane.org/docs/applications/mastodon). It has 2 cpus and 8 sidekiq queues.
+My server, [GardenState.social](https://gardenstate.social), is hosted on [cloudplane at the medium level](https://cloudplane.org/docs/applications/mastodon). It has 2 cpus and 8 sidekiq queues.
 
 ![image](https://github.com/stefanhayden/stefanhayden.github.io/assets/87616/44f5518a-38a8-47a2-a0ee-724a78818bd9)
 
