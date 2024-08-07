@@ -9,7 +9,7 @@ categories:
 
 I've made a [/new-post-bookmarklet.html](bookmarkelt to add posts to this jekyll site). It propt me for a title and then opens up a new github file to add what ever content I want.
 
-I hope this get me to post more here. The code is simple and you could easlily modify it for your jekyll site as well. You can use a [https://caiorss.github.io/bookmarklet-maker/](bookmarklet site to get it to work for you).
+I hope this get me to post more here. The code is simple and you could easlily modify it for your jekyll site as well. You can use a [bookmarklet site to get it to work for you](https://caiorss.github.io/bookmarklet-maker/).
 
 ```
 var isoDate = (new Date()).toISOString();
@@ -34,5 +34,7 @@ var html = [
 ].join('%0A');
 
 
-window.location.href = "https://github.com/stefanhayden/stefanhayden.github.io/new/master/" + "?filename=_posts/" + filename + "&value=" + html;
+window.location.href = "https://github.com/stefanhayden/stefanhayden.github.io/new/master/" + "?filename=_posts/" + d[0] + "/" + filename + "&value=" + html;
 ```
+
+Updated 8/7/23024 to put new files in a year directory
