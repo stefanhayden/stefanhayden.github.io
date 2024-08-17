@@ -9,16 +9,13 @@ categories:
 ---
 
 ## A Crime They Ended So Soon
-Freaks And Geeks
-
-Reservation Dogs
-
-The Wonder Years
-
-Black Lady Sketch Show
-Grand Crew
-Single Drunk Female
-Willow
+- Freaks And Geeks
+- Reservation Dogs
+- The Wonder Years
+- Black Lady Sketch Show
+- Grand Crew
+- Single Drunk Female
+- Willow
 A League of Their Own
 The Carrie Diaries
 Lovecraft Country
