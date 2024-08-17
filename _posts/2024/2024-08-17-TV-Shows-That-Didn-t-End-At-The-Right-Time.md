@@ -12,8 +12,6 @@ categories:
 - Freaks And Geeks
 - Reservation Dogs
 - The Wonder Years
-- Black Lady Sketch Show
-- Grand Crew
 - Single Drunk Female
 - Willow
 - A League of Their Own
@@ -25,7 +23,6 @@ categories:
 - Selfie
 - Don't Trust the B in Apt 23
 - Happy Endings
-- We Are Lady Parts
 - The Middle Man
 - I Am Not Okay With This
 
@@ -37,6 +34,7 @@ categories:
 - Happy Together
 - Hollywood Darlings
 - Trophy Wife
+- Grand Crew
 - Shanara
 - Good Girls Revolt
 - Pitch
@@ -57,6 +55,7 @@ categories:
 - American Dreams
 - Joan of Arcadia
 - Sports Night
+- Black Lady Sketch Show
 - My Boys
 - Tuca & Bertie
 - Home Economics
