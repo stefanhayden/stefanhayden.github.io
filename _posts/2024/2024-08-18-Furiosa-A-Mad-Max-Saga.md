@@ -1,7 +1,7 @@
 ---
 date: 2024-08-18T02:21:43.300Z
 author: Stefan Hayden
-title: Furiosa - A Mad Max Saga
+title: "Furiosa: A Mad Max Saga"
 layout: post
 permalink: /blog/2024/08/18/Furiosa-A-Mad-Max-Saga/
 categories:
