@@ -1,7 +1,7 @@
 ---
 date: 2024-09-28T21:59:25.689Z
 author: Stefan Hayden
-title: Frameland: A Binary Tale! Upcoming pixel-art indie RPG
+title: "Frameland: A Binary Tale! Upcoming pixel-art indie RPG"
 layout: post
 permalink: /blog/2024/09/28/Frameland-A-Binary-Tale---upcoming-pixel-art-indie-RPG/
 categories:
