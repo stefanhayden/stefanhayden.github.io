@@ -26,7 +26,7 @@ An in-depth look at Romance in video games
 
 [https://www.youtube.com/watch?v=LbVsYcYaL4k](https://www.youtube.com/watch?v=LbVsYcYaL4k)
 
-Building Civilization | A Sid Meier Retrospective
+Building Civilization - A Sid Meier Retrospective
 
 [https://www.youtube.com/watch?v=C12BPRykm-Q](https://www.youtube.com/watch?v=C12BPRykm-Q)
 
@@ -46,7 +46,7 @@ The Unhingery of Unsolved Mysteries (1987-2002)
 
 [https://www.youtube.com/watch?v=LD6dl5OLD3I](https://www.youtube.com/watch?v=LD6dl5OLD3I)
 
-Sabrina the Teenage Cashcow | A Video Essay
+Sabrina the Teenage Cashcow - A Video Essay
 
 [https://www.youtube.com/watch?v=OPKfiRSZxKo](https://www.youtube.com/watch?v=OPKfiRSZxKo)
 
@@ -70,15 +70,15 @@ All the RAGE: A Franchise Retrospective by Noah Caldwell-Gervais
 
 [https://www.youtube.com/watch?v=u6Sa761SAb0](https://www.youtube.com/watch?v=u6Sa761SAb0)
 
-Theme Hospital | Making of Documentary
+Theme Hospital - Making of Documentary
 
 [https://www.youtube.com/watch?v=TCSZN06XiCY](https://www.youtube.com/watch?v=TCSZN06XiCY)
 
-How Many Clicks Does It Take To Get to the Center of Diablo? [A Franchise Retrospective]
+How Many Clicks Does It Take To Get to the Center of Diablo? A Franchise Retrospective
 
 [https://www.youtube.com/watch?v=R3v-7Rndd8M](https://www.youtube.com/watch?v=R3v-7Rndd8M)
 
-What's the deal with Seinfeld? | Renegade Cut
+What's the deal with Seinfeld? - Renegade Cut
 
 [https://www.youtube.com/watch?v=DpGsHAbfElk](https://www.youtube.com/watch?v=DpGsHAbfElk)
 
