@@ -24,6 +24,7 @@ description: If you don't pass out by the end of the race you could have run fas
 # List of links in the navigation bar
 navbar-links:
   About Me: "about"
+  Music: "https://gardenstate.social/@stefan/tagged/music"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
