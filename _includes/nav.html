@@ -48,7 +48,7 @@
 	{% elsif site.avatar and (layout.show-avatar or page.show-avatar) %}
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
-	    <a href="{{ site.url }} ">
+	    <a href="{{ site.url }}" aria-label="home">
 	      <img class="avatar-img" alt="site avatar" src="{{ site.avatar  | replace: '//', '/' }}" />
 		</a>
 	  </div>
