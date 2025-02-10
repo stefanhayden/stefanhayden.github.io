@@ -68,7 +68,7 @@
   {% if layout.common-css %}
     {% for css in layout.common-css %}
       <link rel="preload" href="{{ css  | replace: '//', '/' }}" as="style" />
-      <link rel="stylesheet" href="{{ css  | replace: '//', '/' }}" />
+      <link rel="stylesheet" href="{{ css  | replace: '//', '/' }}" media="screen" />
     {% endfor %}
   {% endif %}
 
@@ -76,7 +76,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     {% for font in layout.common-googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}&display=swap" />
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}&display=swap" media="screen" />
     {% endfor %}
   {% endif %}
 
@@ -89,7 +89,7 @@
   {% if page.css %}
     {% for css in page.css %}
       <link rel="preload" href="{{ css  | replace: '//', '/' }}" as="style" />
-      <link rel="stylesheet" href="{{ css  | replace: '//', '/' }}" />
+      <link rel="stylesheet" href="{{ css  | replace: '//', '/' }}"  media="screen" />
     {% endfor %}
   {% endif %}
 
@@ -97,7 +97,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     {% for font in page.googlefonts %}
-      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}&display=swap" />
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family={{ font }}&display=swap" media="screen" />
     {% endfor %}
   {% endif %}
 
