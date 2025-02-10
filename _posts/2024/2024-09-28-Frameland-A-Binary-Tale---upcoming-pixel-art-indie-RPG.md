@@ -13,4 +13,4 @@ categories:
 it has yet to come out and I don't like to promote stuff that has not come out but indie studios need more suport so here I am. [Add it to your wishlist](https://store.steampowered.com/app/2137750/Frameland_A_Binary_Tale/)! I can't wait to buy this day 1!
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T87JjxBXSng?si=VtJy-bGHHL4araFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/T87JjxBXSng?si=VtJy-bGHHL4araFn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
