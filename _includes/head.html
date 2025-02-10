@@ -67,6 +67,7 @@
 
   {% if layout.common-css %}
     {% for css in layout.common-css %}
+      <link rel="preload" href="{{ css  | replace: '//', '/' }}" as="style" />
       <link rel="stylesheet" href="{{ css  | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
@@ -87,6 +88,7 @@
 
   {% if page.css %}
     {% for css in page.css %}
+      <link rel="preload" href="{{ css  | replace: '//', '/' }}" as="style" />
       <link rel="stylesheet" href="{{ css  | replace: '//', '/' }}" />
     {% endfor %}
   {% endif %}
