@@ -25,7 +25,8 @@ description: If you don't pass out by the end of the race you could have run fas
 # List of links in the navigation bar
 navbar-links:
   About Me: "/about"
-  Links: "https://delicious-links.glitch.me/"
+  Tv: "https://tv.stefanhayden.com/"
+  Links: "https://links.stefanhayden.com/"
   Music: "https://gardenstate.social/@stefan/tagged/music"
   Last.fm: "https://www.last.fm/user/STHayden"
 #  Resources:
