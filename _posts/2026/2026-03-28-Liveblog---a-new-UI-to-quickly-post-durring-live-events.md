@@ -1,9 +1,9 @@
 ---
 date: 2026-03-28T13:14:28.263Z
 author: Stefan Hayden
-title: Liveblog - a new UI to quickly post durring live events
+title: Liveblog - a new mastodon client to quickly post durring live events
 layout: post
-permalink: /blog/2026/03/28/Liveblog---a-new-UI-to-quickly-post-durring-live-events/
+permalink: /blog/2026/03/28/Liveblog---a-new-mastodon-client-to-quickly-post-durring-live-events/
 categories:
   - web
 ---
