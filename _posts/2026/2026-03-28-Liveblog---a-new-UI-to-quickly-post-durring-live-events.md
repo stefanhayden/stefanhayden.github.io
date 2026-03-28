@@ -23,14 +23,14 @@ You can reconfigure some UIs to show a column of posts about a topic but you hav
 
 ### The Solution
 
-No more. Liveblog is a tool 100% focused on quickly posting during live events.
+No more. [Liveblog is a tool 100% focused on quickly posting during live events](https://liveblog.stefanhayden.com/).
 Hashtags persist for every post. Content Warnings persist for every post for perfect spoiler warning protection.
 Optionally you can toggle thread mode and auto reply to your last post for perfect thread creation.
 Below you can do a search to see what others are saying and it will auto refresh to always show fresh content to reply to, boost or favorite.
 
 ### Security
 
-Liveblog is deployed on vercel. It auths against your mastodon instance with minial permisions. All credidentials are stored in encrypted, httpOnly cookies. This means they are never stored on my servers. It also means if you login from different browsers or clear cookies it will register a new app on your account.
+[Liveblog](https://liveblog.stefanhayden.com/) is deployed on vercel. It auths against your mastodon instance with minial permisions. All credidentials are stored in encrypted, httpOnly cookies. This means they are never stored on my servers. It also means if you login from different browsers or clear cookies it will register a new app on your account.
 
-![Liveblog screenshot](/wp-content/liveblog-screenshot.png)
+[![Liveblog screenshot](/wp-content/liveblog-screenshot.png)](https://liveblog.stefanhayden.com/)
 
