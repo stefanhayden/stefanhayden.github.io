@@ -8,7 +8,7 @@ guid: http://www.stefanhayden.com/blog/?page_id=13
 ---
 <img style="margin: 0px 10px 10px 0px;" src="/img/me.jpg" alt="photo of me" width="150" align="left" />
 <h1>Stefan Hayden</h1>
-Stefan Hayden (<a href="http://www.stefanhayden.com/blog/?page_id=12">contact</a>) graduated from The College of New Jersey with a degree in Graphic Design. Currently in New York.
+Stefan Hayden graduated from The College of New Jersey with a degree in Graphic Design. Currently in New York.
 
 <a href="/top-shows">My top TV shows</a> and my <a href="https://www.tvtime.com/en/user/7770728/profile">TVTime</a>
 
